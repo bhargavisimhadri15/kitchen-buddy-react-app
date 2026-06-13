@@ -1190,3 +1190,16 @@ button {
     height: 180px;
   }
 }
+.install-app-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 2000;
+  background: #ff7a00;
+  color: white;
+  border: none;
+  padding: 14px 22px;
+  border-radius: 50px;
+  font-weight: bold;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+}
