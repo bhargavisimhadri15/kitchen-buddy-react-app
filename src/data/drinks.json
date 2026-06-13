@@ -1,0 +1,544 @@
+[
+  {
+    "id": 401,
+    "name": {
+      "english": "Tea",
+      "telugu": "టీ",
+      "hindi": "चाय"
+    },
+    "category": {
+      "english": "Drinks",
+      "telugu": "పానీయాలు",
+      "hindi": "पेय"
+    },
+    "description": {
+      "english": "Hot refreshing milk tea.",
+      "telugu": "వేడి మరియు తాజాగా ఉండే పాలు టీ.",
+      "hindi": "गर्म और ताज़गी देने वाली दूध वाली चाय।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Water - 1 cup",
+        "Milk - 1 cup",
+        "Tea Powder - 1 tsp",
+        "Sugar - 2 tsp"
+      ],
+      "telugu": [
+        "నీరు - 1 కప్పు",
+        "పాలు - 1 కప్పు",
+        "టీ పొడి - 1 స్పూన్",
+        "చక్కెర - 2 స్పూన్లు"
+      ],
+      "hindi": [
+        "पानी - 1 कप",
+        "दूध - 1 कप",
+        "चाय पत्ती - 1 चम्मच",
+        "चीनी - 2 चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil water.",
+        "Add tea powder.",
+        "Add milk and sugar.",
+        "Boil for 3 minutes.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "నీరు మరిగించండి.",
+        "టీ పొడి వేయండి.",
+        "పాలు మరియు చక్కెర వేయండి.",
+        "3 నిమిషాలు మరిగించండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पानी उबालें।",
+        "चाय पत्ती डालें।",
+        "दूध और चीनी डालें।",
+        "3 मिनट उबालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["tea", "drink", "hot"]
+  },
+  {
+    "id": 404,
+      "name": {"english": "Herbal Tea", "telugu": "హెర్బల్ టీ", "hindi": "हर्बल चाय"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Soothing herbal infusion.", "telugu": "ఆరామదాయక హెర్బల్ ఇన్ఫ్యూజన్.", "hindi": "सुकून देने वाला हर्बल इन्फ्यूजन."},
+      "time": "8 min",
+      "servings": 1,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Herbs - 1 tbsp", "Water - 1 cup"], "telugu": ["హెర్బ్స్ - 1 స్పూన్", "నీరు - 1 కప్పు"], "hindi": ["हर्ब्स - 1 चमच", "पानी - 1 कप"]},
+      "instructions": {"english": ["Boil water.", "Steep herbs for 5 minutes.", "Strain and serve."], "telugu": ["నీరు మరిగించండి.", "హెర్బ్స్ 5 నిమిషాలు మరిగించండి.", "వడకట్టి సర్వ్ చేయండి."], "hindi": ["पानी उबालें।", "हर्ब्स 5 मिनट भिगोएं।", "छानकर परोसें।"]},
+      "tags": ["tea", "herbal", "hot"]
+    },
+    {
+      "id": 405,
+      "name": {"english": "Green Tea", "telugu": "గ్రీన్ టీ", "hindi": "ग्रीन टी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Light antioxidant tea.", "telugu": "లేత యాంటీఆక్సిడెంట్ టీ.", "hindi": "हल्का एंटीऑक्सिडेंट चाय."},
+      "time": "5 min",
+      "servings": 1,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Green Tea Bag - 1", "Water - 1 cup"], "telugu": ["గ్రీన్ టీ బ్యాగ్ - 1", "నీరు - 1 కప్పు"], "hindi": ["ग्रीन टी बैग - 1", "पानी - 1 कप"]},
+      "instructions": {"english": ["Boil water.", "Steep tea bag 2-3 minutes.", "Remove bag and serve."], "telugu": ["నీరు మరిగించండి.", "టీ బ్యాగ్ 2-3 నిమిషాలు మెడించండి.", "బ్యాగ్ తీసివేయండి మరియు సర్వ్ చేయండి."], "hindi": ["पानी उबालें।", "टी बैग 2-3 मिनट भिगोएं।", "बैग निकालें और परोसें।"]},
+      "tags": ["tea", "green", "healthy"]
+    },
+    {
+      "id": 406,
+      "name": {"english": "Iced Tea", "telugu": "ఐస్ టీ", "hindi": "आइस टी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Chilled lemon iced tea.", "telugu": "నిమ్మరసం ఐస్ టీ.", "hindi": "ठंडा नींबू आइस टी."},
+      "time": "10 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Black Tea - 2 tsp","Water - 2 cups","Lemon - 1","Sugar - 2 tbsp","Ice"],"telugu":["బ్లాక్ టీ - 2 స్పూన్లు","నీరు - 2 కప్పులు","నిమ్మకాయ - 1","చక్కెర - 2 టేబుల్ స్పూన్లు","ఐస్"],"hindi":["ब्लैक टी - 2 चम्मच","पानी - 2 कप","नींबू - 1","चीनी - 2 बड़े चम्मच","बर्फ"]},
+      "instructions": {"english": ["Brew strong tea.","Cool and add lemon and sugar.","Serve with ice."],"telugu":["బలమైన టీ తయారు చేయండి.","చల్లార్చి నిమ్మరసం మరియు చక్కెర కలపండి.","ఐస్ తో సర్వ్ చేయండి."],"hindi":["मजबूत चाय बनाएं।","ठंडा करके नींबू और चीनी मिलाएं।","बर्फ के साथ परोसें।"]},
+      "tags": ["tea","cold","summer"]
+    },
+    {
+      "id": 407,
+      "name": {"english": "Masala Chai", "telugu": "మసాలా చాయ్", "hindi": "मसाला चाय"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Spiced milk tea.", "telugu": "మసాలా పాల టీ.", "hindi": "मसालेदार दूध वाली चाय."},
+      "time": "12 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Water - 1 cup","Milk - 1 cup","Tea Powder - 1 tsp","Sugar - 2 tsp","Cardamom, Clove"],"telugu":["నీరు - 1 కప్పు","పాలు - 1 కప్పు","టీ పొడి - 1 స్పూన్","చక్కెర - 2 స్పూన్లు","ఏలకుల, లవంగం"],"hindi":["पानी - 1 कप","दूध - 1 कप","चाय पत्ती - 1 चम्मच","चीनी - 2 चम्मच","इलायची, लौंग"]},
+      "instructions": {"english": ["Crush spices.","Boil water with spices and tea.","Add milk and sugar, simmer."],"telugu":["మసాలాలు ఎండు చేయండి.","మసాలాలు మరియు టీతో నీరు మరిగించండి.","పాలు మరియు చక్కెర వేయండి, ఉడకరించండి."],"hindi":["मसाले पीसें।","मसालों और चाय के साथ पानी उबालें।","दूध और चीनी डालें, उबालें।"]},
+      "tags": ["chai","spiced","hot"]
+    },
+    {
+      "id": 408,
+      "name": {"english": "Cold Coffee", "telugu": "కొల్డ్ కాఫీ", "hindi": "कोल्ड कॉफी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Iced blended coffee.", "telugu": "ఐస్ కలిపిన కాఫీ.", "hindi": "ठंडी मिश्रित कॉफी."},
+      "time": "7 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Cold Milk - 2 cups","Coffee Powder - 2 tsp","Sugar - 2 tsp","Ice"],"telugu":["త冷పాలు - 2 కప్పులు","కాఫీ పొడి - 2 స్పూన్లు","చక్కెర - 2 స్పూన్లు","ఐస్"],"hindi":["ठंडा दूध - 2 कप","कॉफी पाउडर - 2 चम्मच","चीनी - 2 चम्मच","बर्फ"]},
+      "instructions": {"english": ["Blend all ingredients with ice.","Serve cold."],"telugu":["అన్ని పదార్థాలు ఐస్ తో బ్లెండ్ చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["सभी सामग्री बर्फ के साथ ब्लेंड करें।","ठंडा परोसें।"]},
+      "tags": ["coffee","cold","drink"]
+    },
+    {
+      "id": 409,
+      "name": {"english": "Milkshake", "telugu": "ంటీజ్ షేక్స్హేకు", "hindi": "मिल्कशेक"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Creamy milkshake.", "telugu": "క్రీమి మిల్క్ షేక్.", "hindi": "क्रीमी दूध शेक."},
+      "time": "5 min",
+      "servings": 1,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Milk - 1 cup","Ice Cream - 2 scoops","Sugar - 1 tsp"],"telugu":["పాలు - 1 కప్పు","ఐస్ క్రీం - 2 స్కూప్‌లు","చక్కెర - 1 స్పూన్"],"hindi":["दूध - 1 कप","आइसक्रीम - 2 स्कूप","चीनी - 1 चम्मच"]},
+      "instructions": {"english": ["Blend all ingredients.","Serve chilled."],"telugu":["అన్ని పదార్థాలు బ్లెండ్ చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["सभी सामग्री ब्लेंड करें।","ठंडा परोसें।"]},
+      "tags": ["shake","dessert","drink"]
+    },
+    {
+      "id": 410,
+      "name": {"english": "Banana Smoothie", "telugu": "బనానా స్మూతీ", "hindi": "केला स्मूथी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Healthy banana smoothie.", "telugu": "ఆరోగ్యకరమైన బనానా స్మూతీ.", "hindi": "स्वस्थ केले स्मूथी."},
+      "time": "5 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Banana - 2","Milk - 1 cup","Honey - 1 tbsp"],"telugu":["కేలు - 2","పాలు - 1 కప్పు","తేనె - 1 టేబుల్ స్పూన్"],"hindi":["केला - 2","दूध - 1 कप","शहद - 1 बड़ा चम्मच"]},
+      "instructions": {"english": ["Blend all ingredients until smooth.","Serve cold."],"telugu":["అన్ని పదార్థాలు బ్లెండ్ చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["सभी सामग्री ब्लेंड करें।","ठंडा परोसें।"]},
+      "tags": ["smoothie","healthy","fruit"]
+    },
+    {
+      "id": 411,
+      "name": {"english": "Mango Lassi", "telugu": "మ్యాంగో లాసి", "hindi": "मैंगो लस्सी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Creamy mango yogurt drink.", "telugu": "క్రీమి మాంగా దహి పానీయం.", "hindi": "क्रीमी आम योगर्ट ड्रिंक."},
+      "time": "5 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Mango Pulp - 1 cup","Yogurt - 1 cup","Sugar - 2 tbsp","Milk - 1/4 cup"],"telugu":["మామిడి పल्प్ - 1 కప్పు","పెరుగు - 1 కప్పు","చక్కెర - 2 టేబుల్ స్పూన్లు","పాలు - 1/4 కప్పు"],"hindi":["आम पल्प - 1 कप","दही - 1 कप","चीनी - 2 बड़े चम्मच","दूध - 1/4 कप"]},
+      "instructions": {"english": ["Blend all until smooth.","Serve chilled."],"telugu":["అన్ని బాగా బ్లెండ్ చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["सभी मिलाकर ब्लेंड करें।","ठंडा परोसें।"]},
+      "tags": ["lassi","mango","yogurt"]
+    },
+    {
+      "id": 412,
+      "name": {"english": "Buttermilk (Chaas)", "telugu": "చాసు", "hindi": "छाछ"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Refreshing spiced buttermilk.", "telugu": "తాజా మసాలా చాసు.", "hindi": "ताज़ा मसालेदार छाछ."},
+      "time": "3 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Yogurt - 1 cup","Water - 1 cup","Salt","Roasted Cumin"],"telugu":["పెరుగు - 1 కప్పు","నీరు - 1 కప్పు","ఉప్పు","వేపుడు జీలకర్ర"],"hindi":["दही - 1 कप","पानी - 1 कप","नमक","भुना जीरा"]},
+      "instructions": {"english": ["Whisk yogurt and water.","Add spices and serve chilled."],"telugu":["పెరుగు మరియు నీరు కలపండి.","మసాలాలు వేసి చల్లగా సర్వ్ చేయండి."],"hindi":["दही और पानी मिलाएं।","मसाले डालकर ठंडा परोसें।"]},
+      "tags": ["chaas","cool","summer"]
+    },
+    {
+      "id": 413,
+      "name": {"english": "Coconut Water", "telugu": "కొబ్బరి నీరు", "hindi": "नारियल पानी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Natural hydrating drink.", "telugu": "సహజమైన హైడ్రేటింగ్ పానీయం.", "hindi": "प्राकृतिक हाइड्रेटिंग पेय."},
+      "time": "1 min",
+      "servings": 1,
+      "difficulty": {"english": "Very Easy", "telugu": "చాలా సులువు", "hindi": "बहुत आसान"},
+      "ingredients": {"english": ["Coconut Water - 1 glass"],"telugu":["కొబ్బరి నీరు - 1 గ్లాస్"],"hindi":["नारियल पानी - 1 गिलास"]},
+      "instructions": {"english": ["Serve fresh chilled."],"telugu":["తాజాగా చల్లగా సర్వ్ చేయండి."],"hindi":["ताज़ा ठंडा परोसें।"]},
+      "tags": ["natural","hydration"]
+    },
+    {
+      "id": 414,
+      "name": {"english": "Orange Juice", "telugu": "ఆరెంజ్ జ్యూస్", "hindi": "संतरे का रस"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Freshly squeezed orange juice.", "telugu": "తాజాగా నిక్కి నిమ్మరసం.", "hindi": "ताज़ा निकाला हुआ संतरे का रस."},
+      "time": "5 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Oranges - 4","Sugar optional"],"telugu":["ఆరెంజ్ - 4","వికల్పంగా చక్కెర"],"hindi":["संतरे - 4","आवश्यकतानुसार चीनी"]},
+      "instructions": {"english": ["Squeeze oranges.","Strain and serve chilled."],"telugu":["ఆరెంజ్ నిప్పకట్టి పాన్ తీసుకోండి.","వడకట్టి చల్లగా సర్వ్ చేయండి."],"hindi":["संतरे निचोड़ें।","छानकर ठंडा परोसें।"]},
+      "tags": ["juice","citrus","healthy"]
+    },
+    {
+      "id": 415,
+      "name": {"english": "Pineapple Juice", "telugu": "అనానాస్ జ్యూస్", "hindi": "अनानस का रस"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Tropical sweet juice.", "telugu": "ట్రోపికల్ మాధుర్యపు జ్యూస్.", "hindi": "ट्रॉपिकल मीठा रस."},
+      "time": "8 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Pineapple chunks - 2 cups","Water","Sugar optional"],"telugu":["అనానాస్ ముక్కలు - 2 కప్పులు","నీరు","వికల్పంగా చక్కెర"],"hindi":["अनानस के टुकड़े - 2 कप","पानी","वैकल्पिक चीनी"]},
+      "instructions": {"english": ["Blend pineapple with water.","Strain and serve cold."],"telugu":["అనానాస్ నీటితో బ్లెండ్ చేయండి.","వడకట్టి చల్లగా సర్వ్ చేయండి."],"hindi":["अनानस को पानी के साथ ब्लेंड करें।","छानकर ठंडा परोसें।"]},
+      "tags": ["juice","tropical"]
+    },
+    {
+      "id": 416,
+      "name": {"english": "Apple Juice", "telugu": "ఆపిల్ జ్యూస్", "hindi": "सेब का रस"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Fresh apple juice.", "telugu": "తాజా ఆపిల్ జ్యూస్.", "hindi": "ताज़ा सेब का रस."},
+      "time": "10 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Apples - 4","Water - 1/2 cup","Sugar optional"],"telugu":["ఆపిల్స్ - 4","నీరు - 1/2 కప్పు","వికల్పంగా చక్కెర"],"hindi":["सेब - 4","पानी - 1/2 कप","वैकल्पिक चीनी"]},
+      "instructions": {"english": ["Chop and blend apples with water.","Strain and chill."],"telugu":["ఆపిల్స్ ను తుక్కరించి నీటితో బ్లెండ్ చేయండి.","వడకట్టి చల్లగా ఉంచండి."],"hindi":["सेब काटकर पानी के साथ ब्लेंड करें।","छानकर ठंडा रखें।"]},
+      "tags": ["juice","fruit","healthy"]
+    },
+    {
+      "id": 417,
+      "name": {"english": "Strawberry Smoothie", "telugu": "స్ట్రాబెర్రీ స్మూతీ", "hindi": "स्ट्रॉबेरी स्मूथी"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Fruity chilled smoothie.", "telugu": "పలుకుబడి చల్లని స్మూతీ.", "hindi": "फलदार ठंडा स्मूथी."},
+      "time": "6 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Strawberries - 1 cup","Yogurt - 1/2 cup","Honey - 1 tbsp"],"telugu":["స్ట్రాబెర్రీస్ - 1 కప్పు","పెరుగు - 1/2 కప్పు","తేనె - 1 టేబుల్ స్పూన్"],"hindi":["स्ट्रॉबेरी - 1 कप","दही - 1/2 कप","शहद - 1 बड़ा चम्मच"]},
+      "instructions": {"english": ["Blend until smooth.","Serve chilled."],"telugu":["బ్లెండ్ చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["ब्लेंड करें।","ठंडा परोसें।"]},
+      "tags": ["smoothie","berry","fruit"]
+    },
+    {
+      "id": 418,
+      "name": {"english": "Ginger Lemon Drink", "telugu": "అల్లం నిమ్మ రసం", "hindi": "अदरक नींबू पेय"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Zesty ginger lemon drink.", "telugu": "చీపు అల్లం నిమ్మరసం.", "hindi": "तिखा अदरक नींबू पेय."},
+      "time": "7 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Ginger - small piece","Lemon - 1","Water - 2 cups","Honey - to taste"],"telugu":["అల్లం - చిన్న ముక్క","నిమ్మకాయ - 1","నీరు - 2 కప్పులు","తేనె - రుచికి తగినంత"],"hindi":["अदरक - छोटा टुकड़ा","नींबू - 1","पानी - 2 कप","शहद - स्वाद के अनुसार"]},
+      "instructions": {"english": ["Grate ginger and boil in water.","Add lemon and honey.","Strain and serve."],"telugu":["అల్లం తురకండి మరియు నీటిలో మరిగించండి.","నిమ్మ మరియు తేనె జత చేయండి.","వడకట్టి సర్వ్ చేయండి."],"hindi":["अदरक कद्दूकस करके पानी में उबालें।","नींबू और शहद मिलाएं।","छानकर परोसें।"]},
+      "tags": ["healthy","ginger","lemon"]
+    },
+    {
+      "id": 419,
+      "name": {"english": "Chocolate Milk", "telugu": "చాక్లెట్ పాలు", "hindi": "चॉकलेट दूध"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Sweet chocolate flavored milk.", "telugu": "ఇనిపి చాక్లెట్ రుచిగల పాలు.", "hindi": "मिठा चॉकलेट स्वाद वाला दूध."},
+      "time": "5 min",
+      "servings": 1,
+      "difficulty": {"english": "Very Easy", "telugu": "చాలా సులువు", "hindi": "बहुत आसान"},
+      "ingredients": {"english": ["Milk - 1 cup","Cocoa Powder - 1 tbsp","Sugar - 1 tsp"],"telugu":["పాలు - 1 కప్పు","కాకో పొడి - 1 స్పూన్","చక్కెర - 1 స్పూన్"],"hindi":["दूध - 1 कप","कोको पाउडर - 1 बड़ा चम्मच","चीनी - 1 चम्मच"]},
+      "instructions": {"english": ["Mix cocoa and sugar in a little milk.","Heat with remaining milk and serve."],"telugu":["కొద్దిగా పాలలో కాకో మరియు చక్కెర కలపండి.","మిగిలిన పాలను వేడి చేసి సర్వ్ చేయండి."],"hindi":["थोड़े दूध में कोको और चीनी मिलाएं।","बचे हुए दूध के साथ गर्म करें और परोसें।"]},
+      "tags": ["chocolate","milk","kids"]
+    },
+    {
+      "id": 420,
+      "name": {"english": "Turmeric Milk (Golden Milk)", "telugu": "పసుపు పాలు", "hindi": "हल्दी दूध"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Warm spiced turmeric milk.", "telugu": "వార్మ్ స్పైస్డ్ పసుపు పాలు.", "hindi": "गर्म मसालेदार हल्दी दूध."},
+      "time": "10 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులుడు", "hindi": "आसान"},
+      "ingredients": {"english": ["Milk - 2 cups","Turmeric - 1/2 tsp","Honey to taste"],"telugu":["పాలు - 2 కప్పులు","పసుపు - 1/2 స్పూన్","తేనె స్వాది అనుసారం"],"hindi":["दूध - 2 कप","हल्दी - 1/2 चम्मच","शहद स्वादानुसार"]},
+      "instructions": {"english": ["Heat milk with turmeric.","Sweeten and serve warm."],"telugu":["పసుపుతో పాలను వేడి చేయండి.","తీయగా చేసి వేడి గా సర్వ్ చేయండి."],"hindi":["दूध को हल्दी के साथ गरम करें।","मीठा कर गर्म परोसें।"]},
+      "tags": ["healthy","milk","turmeric"]
+    },
+    {
+      "id": 421,
+      "name": {"english": "Aloe Vera Juice", "telugu": "అలోవెరా జ్యూస్", "hindi": "एलोवेरा जूस"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Cooling aloe drink.", "telugu": "చల్లపించే అలోవెరా పానీయం.", "hindi": "ठंडा करने वाला एलोवेरा पेय."},
+      "time": "10 min",
+      "servings": 2,
+      "difficulty": {"english": "Medium", "telugu": "మధ్యమ", "hindi": "मध्यम"},
+      "ingredients": {"english": ["Aloe vera gel - 2 tbsp","Water - 2 cups","Sugar/Honey"],"telugu":["అలోవెరా జెల్ - 2 స్పూన్లు","నీరు - 2 కప్పులు","చక్కెర/తేనె"],"hindi":["एलोवेरा जेल - 2 बड़े चम्मच","पानी - 2 कप","चीनी/शहद"]},
+      "instructions": {"english": ["Blend aloe gel with water and sweetener.","Strain and serve chilled."],"telugu":["అలోవెరా జెల్ నీటితో బ్లెండ్ చేసి స్వీట్ చేయండి.","వడకట్టి చల్లగా సర్వ్ చేయండి."],"hindi":["एलोवेरा जेल को पानी और स्वीटनर के साथ ब्लेंड करें।","छानकर ठंडा परोसें।"]},
+      "tags": ["aloe","healthy","cooling"]
+    },
+    {
+      "id": 422,
+      "name": {"english": "Lemon Ginger Honey", "telugu": "నిమ్మ అల్లం తేనె", "hindi": "नींबू अदरक शहद"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Immune-boosting warm drink.", "telugu": "రోగనిరోధక శక్తి పెంచే వేడి పానీయం.", "hindi": "इम्यून बूस्ट करने वाला गरम पेय."},
+      "time": "6 min",
+      "servings": 1,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Water - 1 cup","Lemon - 1","Ginger - small","Honey - 1 tsp"],"telugu":["నీరు - 1 కప్పు","నిమ్మకాయ - 1","అల్లం - చిన్న","తేనె - 1 స్పూన్"],"hindi":["पानी - 1 कप","नींबू - 1","अदरक - छोटा","शहद - 1 चम्मच"]},
+      "instructions": {"english": ["Boil water with ginger.","Add lemon and honey.","Serve warm."],"telugu":["నీటిలో అల్లం మరిగించండి.","నిమ్మ మరియు తేనె వేసి సర్వ్ చేయండి."],"hindi":["अदरक के साथ पानी उबालें।","नींबू और शहद डालें।","गरम परोसें।"]},
+      "tags": ["healthy","warm","honey"]
+    },
+    {
+      "id": 423,
+      "name": {"english": "Mint Cooler", "telugu": "పుదీనా శీతల పానీయం", "hindi": "पुदीना कूलर"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Refreshing mint drink.", "telugu": "పుదీనా చల్లని పానీయం.", "hindi": "ताज़ा पुदीना पेय."},
+      "time": "5 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Mint leaves - handful","Sugar","Water","Lemon"],"telugu":["పుదీనా ఆకులు - ఒక మడ్డ","చక్కెర","నీరు","నిమ్మ"],"hindi":["पुदीने के पत्ते - मुट्ठी","चीनी","पानी","नींबू"]},
+      "instructions": {"english": ["Crush mint with sugar.","Add water and lemon.","Serve chilled."],"telugu":["పుదీనా ఆకులను చప్పటి చేయండి.","నీరు మరియు నిమ్మ జత చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["पुदीना चीनी के साथ कुचले।","पानी और नींबू मिलाएं।","ठंडा परोसें।"]},
+      "tags": ["mint","cooler","summer"]
+    },
+    {
+      "id": 424,
+      "name": {"english": "Rose Milk", "telugu": "రోజ్ మిల్క్", "hindi": "रोज़ मिल्क"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Fragrant rose flavored milk.", "telugu": "సువాసన రోజ్ రుచిగల పాలు.", "hindi": "मुग्ध कर देने वाला रोज़ स्वाद दूध."},
+      "time": "5 min",
+      "servings": 2,
+      "difficulty": {"english": "Very Easy", "telugu": "చాలా సులువు", "hindi": "बहुत आसान"},
+      "ingredients": {"english": ["Milk - 2 cups","Rose syrup - 2 tbsp","Sugar optional"],"telugu":["పాలు - 2 కప్పులు","రోజ్ సిరప్ - 2 టేబుల్ స్పూన్లు","చక్కెర అవసరమైతే"],"hindi":["दूध - 2 कप","रोज़ सिरप - 2 बड़े चम्मच","चीनी विकल्प"]},
+      "instructions": {"english": ["Mix rose syrup in milk.","Serve chilled."],"telugu":["పాల్లో రోజ్ సిరప్ కలపండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["दूध में रोज़ सिरप मिलाएं।","ठंडा परोसें।"]},
+      "tags": ["milk","rose","dessert"]
+    },
+    {
+      "id": 425,
+      "name": {"english": "Sattu Drink", "telugu": "సత్తు పానీయం", "hindi": "सत्तू पेय"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Protein-rich roasted flour drink.", "telugu": "ప్రొటిన్-సమృద్ధి దినికా పిండి పానీయం.", "hindi": "प्रोटीन-रिच रोस्टेड आटा पेय."},
+      "time": "8 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Sattu - 1/2 cup","Water - 2 cups","Salt/Spices"],"telugu":["సత్తు - 1/2 కప్పు","నీరు - 2 కప్పులు","ఉప్పు/మసాలాలు"],"hindi":["सत्तू - 1/2 कप","पानी - 2 कप","नमक/मसाले"]},
+      "instructions": {"english": ["Mix sattu with water and spices.","Serve chilled or at room temperature."],"telugu":["సత్తు నీటితో కలపండి మరియు మసాలాలు వేసుకోండి.","చల్లగా లేదా గది ఉష్ణోగ్రత వద్ద సర్వ్ చేయండి."],"hindi":["सत्तू को पानी और मसालों के साथ मिलाएं।","ठंडा या सामान्य तापमान पर परोसें।"]},
+      "tags": ["traditional","protein","refreshing"]
+    },
+    {
+      "id": 426,
+      "name": {"english": "Cold Pressed Beetroot Juice", "telugu": "బీట్‌రూట్ జ్యూస్", "hindi": "बीटरूट जूस"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Earthy nutritious juice.", "telugu": "పొట్టిగా పోషకాహారం జ్యూస్.", "hindi": "मिट्टी जैसा पौष्टिक जूस."},
+      "time": "10 min",
+      "servings": 2,
+      "difficulty": {"english": "Medium", "telugu": "మధ్యమ", "hindi": "मध्यम"},
+      "ingredients": {"english": ["Beetroot - 2","Apple - 1","Lemon"],"telugu":["బీట్‌రూట్ - 2","యాపిల్ - 1","నిమ్మ"],"hindi":["बीटरूट - 2","सेब - 1","नींबू"]},
+      "instructions": {"english": ["Juice all ingredients.","Serve chilled."],"telugu":["అన్ని పదార్థాలను జ్యూస్ చేయండి.","చల్లగా సర్వ్ చేయండి."],"hindi":["सभी सामग्री का जूस बनाएं।","ठंडा परोसें।"]},
+      "tags": ["juice","healthy","detox"]
+    },
+    {
+      "id": 427,
+      "name": {"english": "Cinnamon Apple Cider", "telugu": "దాల్చిన చెట్టు యాపిల్ సైడర్", "hindi": "दालचीनी एप्पल साइडर"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Warm spiced apple cider.", "telugu": "వార్మ్ స్పైస్ యాపిల్ సైడర్.", "hindi": "गर्म मसालेदार एप्पल साइडर."},
+      "time": "15 min",
+      "servings": 4,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Apple Juice - 4 cups","Cinnamon stick","Cloves"],"telugu":["ఆపిల్ జ్యూస్ - 4 కప్పులు","దాల్చిన చెక్క","లవంగాలు"],"hindi":["सेब का रस - 4 कप","दालचीनी स्टिक","लौंग"]},
+      "instructions": {"english": ["Simmer juice with spices.","Serve warm."],"telugu":["జ్యూస్‌ను మసాలాలతో ఉప్పెట్టి ఉడికించండి.","వేడి గా సర్వ్ చేయండి."],"hindi":["रस को मसालों के साथ उबालें।","गर्म परोसें।"]},
+      "tags": ["cider","warm","spiced"]
+    },
+    {
+      "id": 428,
+      "name": {"english": "Kokum Sherbet", "telugu": "కొకుం షెర్బెట్", "hindi": "कोकुम शर्बत"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Tart kokum summer drink.", "telugu": "పుల్లెరా కొకుం పానీయం.", "hindi": "खट्टी कोकुम समर ड्रिंक."},
+      "time": "20 min",
+      "servings": 4,
+      "difficulty": {"english": "Medium", "telugu": "మధ్యమ", "hindi": "मध्यम"},
+      "ingredients": {"english": ["Kokum - 10 pieces","Sugar","Water"],"telugu":["కొకుం - 10", "చక్కెర","నీరు"],"hindi":["कोकुम - 10 टुकड़े","चीनी","पानी"]},
+      "instructions": {"english": ["Soak kokum and make syrup.","Dilute and serve chilled."],"telugu":["కొకుం ని నెమ్మదిగా నానబెట్టు, సిరప్ తయారు చేయండి.","రెండు భాగాల నీటిలో కలిపి చల్లగా సర్వ్ చేయండి."],"hindi":["कोकुम को भिगोकर सिरप बनाएं।","घुलाकर ठंडा परोसें।"]},
+      "tags": ["traditional","summer","cooling"]
+    },
+    {
+      "id": 429,
+      "name": {"english": "Soda Lemonade", "telugu": "సోడా నిమ్మరసం", "hindi": "सोडा लेमोनेड"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Sparkling lemonade.", "telugu": "స్పార్క్లింగ్ నిమ్మరసం.", "hindi": "स्पार्कलिंग लेमोनेड."},
+      "time": "3 min",
+      "servings": 2,
+      "difficulty": {"english": "Very Easy", "telugu": "చాలా సులువు", "hindi": "बहुत आसान"},
+      "ingredients": {"english": ["Lemon - 2","Soda - 2 cups","Sugar"],"telugu":["నిమ్మ - 2","సోడా - 2 కప్పులు","చక్కెర"],"hindi":["नींबू - 2","सोडा - 2 कप","चीनी"]},
+      "instructions": {"english": ["Mix lemon juice and sugar.","Top with soda and serve."],"telugu":["నిమ్మరసం మరియు చక్కెర కలపండి.","సోడాతో టాప్ చేసి సర్వ్ చేయండి."],"hindi":["नींबू और चीनी मिलाएं।","सोडा डालकर परोसें।"]},
+      "tags": ["refreshing","sparkling"]
+    },
+    {
+      "id": 430,
+      "name": {"english": "Saffron Milk", "telugu": "కేసరుపాల", "hindi": "केसर दूध"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Aromatic saffron infused milk.", "telugu": "సువాసన కేశరుతో ముద్రిస్తారు పాలు.", "hindi": "खुशबूदार केसर वाला दूध."},
+      "time": "10 min",
+      "servings": 2,
+      "difficulty": {"english": "Easy", "telugu": "సులువు", "hindi": "आसान"},
+      "ingredients": {"english": ["Milk - 2 cups","Saffron strands - a pinch","Sugar to taste"],"telugu":["పాలు - 2 కప్పులు","కేసరి తంతులు - ఒక చిటికెడు","స్వాది ప్రకారం చక్కెర"],"hindi":["दूध - 2 कप","केसर के धागे - चुटकी","स्वाद के अनुसार चीनी"]},
+      "instructions": {"english": ["Warm milk and add saffron.","Sweeten and serve warm or chilled."],"telugu":["పాలను చల్లించకుండా వేడి చేయండి మరియు కేసరితో కలపండి.","తీపి చేసి వేడి లేదా చల్లగా సర్వ్ చేయండి."],"hindi":["दूध गर्म करें और केसर डालें।","मीठा करके गरम या ठंडा परोसें।"]},
+      "tags": ["saffron","milk","sweet"]
+    },
+    {
+      "id": 431,
+      "name": {"english": "Tamarind Drink (Imli Sharbat)", "telugu": "చింతపండు శరबत", "hindi": "इमली शरबत"},
+      "category": {"english": "Drinks", "telugu": "పానీయాలు", "hindi": "पेय"},
+      "description": {"english": "Tangy tamarind cooler.", "telugu": "మురికి తప్త చింతపండు పానీయం.", "hindi": "खट्टी इमली कूलर."},
+      "time": "20 min",
+      "servings": 4,
+      "difficulty": {"english": "Medium", "telugu": "మధ్యమ", "hindi": "मध्यम"},
+      "ingredients": {"english": ["Tamarind - 50g","Sugar","Water","Salt/Spices"],"telugu":["చింతపండు - 50 గ్రాములు","చక్కెర","నీరు","ఉప్పు/మసాలాలు"],"hindi":["इमली - 50ग","चीनी","पानी","नमक/मसाले"]},
+      "instructions": {"english": ["Soak tamarind and extract pulp.","Make syrup with sugar and dilute."],"telugu":["చింతపండు నానబెట్టి పల్ప్ తీసుకోండి.","చక్కెరతో సిరప్ చేసి నీటితో కలపండి."],"hindi":["इमली भिगोकर पल्प निकालें।","चीनी से सिरप बनाकर पानी में मिलाएं।"]},
+      "tags": ["tamarind","traditional","summer"]
+    },
+
+  {
+    "id": 402,
+    "name": {
+      "english": "Coffee",
+      "telugu": "కాఫీ",
+      "hindi": "कॉफी"
+    },
+    "category": {
+      "english": "Drinks",
+      "telugu": "పానీయాలు",
+      "hindi": "पेय"
+    },
+    "description": {
+      "english": "Hot instant coffee.",
+      "telugu": "వేడి ఇన్‌స్టంట్ కాఫీ.",
+      "hindi": "गर्म इंस्टेंट कॉफी।"
+    },
+    "time": "5 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Milk - 2 cups",
+        "Coffee Powder - 2 tsp",
+        "Sugar - 2 tsp"
+      ],
+      "telugu": [
+        "పాలు - 2 కప్పులు",
+        "కాఫీ పొడి - 2 స్పూన్లు",
+        "చక్కెర - 2 స్పూన్లు"
+      ],
+      "hindi": [
+        "दूध - 2 कप",
+        "कॉफी पाउडर - 2 चम्मच",
+        "चीनी - 2 चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil milk.",
+        "Add coffee powder.",
+        "Add sugar.",
+        "Mix well.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పాలు మరిగించండి.",
+        "కాఫీ పొడి వేయండి.",
+        "చక్కెర వేయండి.",
+        "బాగా కలపండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "दूध उबालें।",
+        "कॉफी पाउडर डालें।",
+        "चीनी डालें।",
+        "अच्छी तरह मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["coffee", "drink", "hot"]
+  },
+
+  {
+    "id": 403,
+    "name": {
+      "english": "Lemon Juice",
+      "telugu": "నిమ్మరసం",
+      "hindi": "नींबू पानी"
+    },
+    "category": {
+      "english": "Drinks",
+      "telugu": "పానీయాలు",
+      "hindi": "पेय"
+    },
+    "description": {
+      "english": "Refreshing summer drink.",
+      "telugu": "వేసవికి చల్లని పానీయం.",
+      "hindi": "गर्मी के लिए ताज़गी देने वाला पेय।"
+    },
+    "time": "5 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Lemon - 2",
+        "Water - 2 cups",
+        "Sugar - 2 tbsp",
+        "Salt - pinch"
+      ],
+      "telugu": [
+        "నిమ్మకాయలు - 2",
+        "నీరు - 2 కప్పులు",
+        "చక్కెర - 2 టేబుల్ స్పూన్లు",
+        "ఉప్పు - చిటికెడు"
+      ],
+      "hindi": [
+        "नींबू - 2",
+        "पानी - 2 कप",
+        "चीनी - 2 बड़े चम्मच",
+        "नमक - चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Squeeze lemon juice.",
+        "Add water.",
+        "Add sugar and salt.",
+        "Mix well.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "నిమ్మరసం పిండి తీసుకోండి.",
+        "నీరు కలపండి.",
+        "చక్కెర మరియు ఉప్పు వేయండి.",
+        "బాగా కలపండి.",
+        "చల్లగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "नींबू का रस निकालें।",
+        "पानी मिलाएं।",
+        "चीनी और नमक डालें।",
+        "अच्छी तरह मिलाएं।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["juice", "summer", "healthy"]
+  }
+]

@@ -1,0 +1,2881 @@
+[
+  {
+    "id": 101,
+    "name": {
+      "english": "Rice and Dal",
+      "telugu": "అన్నం మరియు పప్పు",
+      "hindi": "चावल और दाल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Simple and healthy rice with dal.",
+      "telugu": "సాధారణ మరియు ఆరోగ్యకరమైన అన్నం పప్పు.",
+      "hindi": "सरल और पौष्टिक चावल दाल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice - 2 cups",
+        "Toor Dal - 1 cup",
+        "Salt",
+        "Turmeric",
+        "Water"
+      ],
+      "telugu": [
+        "బియ్యం - 2 కప్పులు",
+        "కందిపప్పు - 1 కప్పు",
+        "ఉప్పు",
+        "పసుపు",
+        "నీరు"
+      ],
+      "hindi": [
+        "चावल - 2 कप",
+        "तूर दाल - 1 कप",
+        "नमक",
+        "हल्दी",
+        "पानी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Wash rice and dal.",
+        "Cook separately.",
+        "Add salt and turmeric to dal.",
+        "Mix well.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బియ్యం మరియు పప్పు కడగండి.",
+        "వేరుగా ఉడికించండి.",
+        "పప్పులో ఉప్పు, పసుపు వేయండి.",
+        "బాగా కలపండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और दाल धो लें।",
+        "अलग-अलग पकाएं।",
+        "दाल में नमक और हल्दी डालें।",
+        "अच्छी तरह मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "dal"]
+  },
+
+  {
+    "id": 102,
+    "name": {
+      "english": "Vegetable Curry Rice",
+      "telugu": "కూర అన్నం",
+      "hindi": "सब्जी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with mixed vegetable curry.",
+      "telugu": "మిశ్రమ కూరగాయల కూరతో అన్నం.",
+      "hindi": "मिक्स सब्जी करी के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Carrot",
+        "Beans",
+        "Potato",
+        "Salt",
+        "Oil"
+      ],
+      "telugu": [
+        "అన్నం",
+        "క్యారెట్",
+        "బీన్స్",
+        "బంగాళాదుంప",
+        "ఉప్పు",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल",
+        "गाजर",
+        "बीन्स",
+        "आलू",
+        "नमक",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Prepare vegetable curry.",
+        "Add spices.",
+        "Cook until vegetables soften.",
+        "Serve with rice."
+      ],
+      "telugu": [
+        "అన్నం ఉడికించండి.",
+        "కూర తయారు చేయండి.",
+        "మసాలాలు వేయండి.",
+        "కూరగాయలు మెత్తబడే వరకు ఉడికించండి.",
+        "అన్నంతో సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल पकाएं।",
+        "सब्जी करी बनाएं।",
+        "मसाले डालें।",
+        "सब्जियां नरम होने तक पकाएं।",
+        "चावल के साथ परोसें।"
+      ]
+    },
+    "tags": ["lunch", "vegetable", "rice"]
+  },
+
+  {
+    "id": 103,
+    "name": {
+      "english": "Sambar Rice",
+      "telugu": "సాంబార్ అన్నం",
+      "hindi": "सांभर चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Traditional South Indian sambar rice.",
+      "telugu": "సాంప్రదాయ దక్షిణ భారత సాంబార్ అన్నం.",
+      "hindi": "पारंपरिक दक्षिण भारतीय सांभर चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Toor Dal",
+        "Tamarind",
+        "Vegetables",
+        "Sambar Powder"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "కందిపప్పు",
+        "చింతపండు",
+        "కూరగాయలు",
+        "సాంబార్ పొడి"
+      ],
+      "hindi": [
+        "चावल",
+        "तूर दाल",
+        "इमली",
+        "सब्जियां",
+        "सांभर पाउडर"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice and dal.",
+        "Prepare tamarind extract.",
+        "Cook vegetables.",
+        "Add sambar powder.",
+        "Mix and serve."
+      ],
+      "telugu": [
+        "అన్నం మరియు పప్పు ఉడికించండి.",
+        "చింతపండు రసం తయారు చేయండి.",
+        "కూరగాయలు ఉడికించండి.",
+        "సాంబార్ పొడి వేయండి.",
+        "కలిపి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और दाल पकाएं।",
+        "इमली का रस तैयार करें।",
+        "सब्जियां पकाएं।",
+        "सांभर पाउडर डालें।",
+        "मिलाकर परोसें।"
+      ]
+    },
+    "tags": ["lunch", "south-indian", "sambar"]
+  },
+  {
+    "id": 104,
+    "name": {
+      "english": "Tomato Rice",
+      "telugu": "టమోటా అన్నం",
+      "hindi": "टमाटर चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Spiced rice cooked with tomato and herbs.",
+      "telugu": "టమోటా మరియు సుగంధాలతో అన్నం.",
+      "hindi": "टमाटर और हर्ब्स के साथ पकाया हुआ मसालेदार चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Tomatoes",
+        "Onion",
+        "Ginger Garlic Paste",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "టమోటాలు",
+        "ఉల్లిపాయ",
+        "అల్లం వెల్లుల్లి పేస్ట్",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "टमाटर",
+        "प्याज",
+        "अदरक लहसुन पेस्ट",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onions.",
+        "Add tomatoes and spices.",
+        "Mix in cooked rice.",
+        "Heat through.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "ఉల్లిపాయలు వేయించండి.",
+        "టమోటాలు మరియు మసాలా జోడించండి.",
+        "వందిన బియ్యంతో కలపండి.",
+        "తాపింఛండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज भूनें।",
+        "टमाटर और मसाले डालें।",
+        "पके चावल मिलाएं।",
+        "गर्म करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "tomato"]
+  },
+  {
+    "id": 105,
+    "name": {
+      "english": "Lemon Rice",
+      "telugu": "లెమన్ అన్నం",
+      "hindi": "नींबू चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Tangy rice flavored with lemon and spices.",
+      "telugu": "నిమ్మరసం మరియు మసాలాలతో రుచికరమైన అన్నం.",
+      "hindi": "नींबू और मसालों के साथ खट्टा चावल।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Lemon Juice",
+        "Mustard Seeds",
+        "Chilies",
+        "Curry Leaves"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "నిమ్మరసం",
+        "ఆవాలు",
+        "మిరపకాయలు",
+        "కరివేపాకు"
+      ],
+      "hindi": [
+        "चावल",
+        "नींबू का रस",
+        "सरसों",
+        "मिर्ची",
+        "करी पत्ते"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Prepare lemon seasoning.",
+        "Mix with rice.",
+        "Heat gently.",
+        "Serve warm or chilled."
+      ],
+      "telugu": [
+        "బియ్యం ఉడికించండి.",
+        "నిమ్మతడికను తయారుచేసుకోండి.",
+        "అన్నంతో కలపండి.",
+        "సన్నగ చేస్తూ వేడి చేయండి.",
+        "వేడి లేదా చల్లగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल पकाएं।",
+        "नींबू का तड़का तैयार करें।",
+        "चावल में मिलाएं।",
+        "धीमे से गर्म करें।",
+        "गरम या ठंडा परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "lemon"]
+  },
+  {
+    "id": 106,
+    "name": {
+      "english": "Coconut Rice",
+      "telugu": "కొబ్బరి అన్నం",
+      "hindi": "नारियल चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Aromatic rice made with fresh coconut.",
+      "telugu": "తాజా కొబ్బరి తో సువాసనగల అన్నం.",
+      "hindi": "ताजे नारियल के साथ सुगंधित चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Grated Coconut",
+        "Green Chillies",
+        "Curry Leaves",
+        "Peanuts"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పొరిగిన కొబ్బరి",
+        "పచ్చి మిరపకాయలు",
+        "కరివేపాకు",
+        "పల్లీలు"
+      ],
+      "hindi": [
+        "चावल",
+        "कद्दूकस किया नारियल",
+        "हरी मिर्च",
+        "करी पत्ते",
+        "मूंगफली"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Saute coconut and seasonings.",
+        "Mix with rice.",
+        "Add peanuts.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "బియ్యం ఉడికించండి.",
+        "కొబ్బరి మరియు మసాలాలను వేయించండి.",
+        "అన్నంతో కలపండి.",
+        "పల్లీలను జోడించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल पकाएं।",
+        "नारियल और मसाले भूनें।",
+        "चावल में मिलाएं।",
+        "मूंगफली डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "coconut"]
+  },
+  {
+    "id": 107,
+    "name": {
+      "english": "Curd Rice",
+      "telugu": "పెరుగు అన్నం",
+      "hindi": "दही चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Comforting rice mixed with yogurt.",
+      "telugu": "పెరుగు తో కలిపిన సౌకర్యవంతమైన అన్నం.",
+      "hindi": "दही के साथ मिलाया आरामदायक चावल।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Yogurt",
+        "Salt",
+        "Mustard Seeds",
+        "Coriander"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పెరుగు",
+        "ఉప్పు",
+        "ఆవాలు",
+        "కొత్తిమీర"
+      ],
+      "hindi": [
+        "चावल",
+        "दही",
+        "नमक",
+        "सरसों",
+        "धनिया"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice until soft.",
+        "Let it cool.",
+        "Mix with yogurt.",
+        "Add seasoning.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "బియ్యం నురగగా ఉడికించండి.",
+        "చల్లగా పెట్టండి.",
+        "పెరుగుతో కలపండి.",
+        "తడికి జోడించండి.",
+        "తగ్గగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल को नरम होने तक पकाएं।",
+        "ठंडा होने दें।",
+        "दही में मिलाएं।",
+        "तड़का डालें।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "yogurt"]
+  },
+  {
+    "id": 108,
+    "name": {
+      "english": "Bisibele Bath",
+      "telugu": "బిసిబే లే భాత్",
+      "hindi": "बिसिबेले भात"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Flavored rice with lentils and vegetables.",
+      "telugu": "పప్పు మరియు కూరగాయలతో రుచికరమైన అన్నం.",
+      "hindi": "दाल और सब्जियों के साथ स्वादिष्ट चावल।"
+    },
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Toor Dal",
+        "Vegetables",
+        "Bisibele Powder",
+        "Tamarind"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "కందిపప్పు",
+        "కూరగాయలు",
+        "బిసిబేలు పొడి",
+        "చింతపండు"
+      ],
+      "hindi": [
+        "चावल",
+        "तूर दाल",
+        "सब्जियां",
+        "बिसिबेले पाउडर",
+        "इमली"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice and dal.",
+        "Prepare vegetables.",
+        "Add bisibele powder.",
+        "Mix well.",
+        "Serve with ghee."
+      ],
+      "telugu": [
+        "బియ్యం మరియు పప్పు ఉడికించండి.",
+        "కూరగాయలు తయారుచేయండి.",
+        "బిసిబేలు పొడిని జోడించండి.",
+        "బాగా కలపండి.",
+        "నెయ్యితో సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और दाल पकाएं।",
+        "सब्जियां तैयार करें।",
+        "बिसिबेले पाउडर डालें।",
+        "अच्छी तरह मिलाएं।",
+        "घी के साथ परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "south-indian"]
+  },
+  {
+    "id": 109,
+    "name": {
+      "english": "Paneer Curry Rice",
+      "telugu": "పనీర్ కర్రీ అన్నం",
+      "hindi": "पनीर करी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with paneer curry.",
+      "telugu": "పనీర్ కర్రీతో అన్నం సర్వ్ చేయబడింది.",
+      "hindi": "पनीर करी के साथ चावल परोसा गया।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Paneer",
+        "Tomato",
+        "Onion",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పనీర్",
+        "టమోటా",
+        "ఉల్లిపాయ",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Prepare paneer curry.",
+        "Serve with rice.",
+        "Garnish.",
+        "Enjoy hot."
+      ],
+      "telugu": [
+        "బియ్యం ఉడికించండి.",
+        "పనీర్ కర్రీ తయారుచేయండి.",
+        "అన్నంతో సర్వ్ చేయండి.",
+        "ఆలంకరించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल पकाएं।",
+        "पनीर करी तैयार करें।",
+        "चावल के साथ परोसें।",
+        "सजा दें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "paneer"]
+  },
+  {
+    "id": 110,
+    "name": {
+      "english": "Chicken Biryani",
+      "telugu": "చికెన్ బిర్యానీ",
+      "hindi": "चिकन बिरयानी"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Fragrant rice cooked with chicken and spices.",
+      "telugu": "చికెన్ మరియు మసాలాలతో సువాసన అన్నం.",
+      "hindi": "चिकन और मसालों के साथ सुगंधित चावल।"
+    },
+    "time": "60 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Hard",
+      "telugu": "కష్టం",
+      "hindi": "कठिन"
+    },
+    "ingredients": {
+      "english": [
+        "Basmati Rice",
+        "Chicken",
+        "Onions",
+        "Yogurt",
+        "Biryani Masala"
+      ],
+      "telugu": [
+        "బాస్మతి బియ్యం",
+        "చికెన్",
+        "ఉల్లిపాయ",
+        "పెరుగు",
+        "బిర్యానీ మసాలా"
+      ],
+      "hindi": [
+        "बासमती चावल",
+        "चिकन",
+        "प्याज",
+        "दही",
+        "बिरयानी मसाला"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Marinate chicken.",
+        "Fry onions.",
+        "Layer rice and chicken.",
+        "Cook on low heat.",
+        "Serve with raita."
+      ],
+      "telugu": [
+        "చికెన్‌ను మరినేట్ చేయండి.",
+        "ఉల్లిపాయలు వేయించండి.",
+        "కుర్రెపై బియ్యం మరియు చికెన్ లేయర్ చేయండి.",
+        "తక్కువ మంటపై వండండి.",
+        "రైతాతో సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चिकन को मैरीनेट करें।",
+        "प्याज भूनें।",
+        "चावल और चिकन परत करें।",
+        "धीमी आंच पर पकाएं।",
+        "रायता के साथ परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "biryani", "chicken"]
+  },
+  {
+    "id": 111,
+    "name": {
+      "english": "Mutton Keema Rice",
+      "telugu": "మటన్ కీమా అన్నం",
+      "hindi": "मटन कीमा चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Spicy minced mutton served with rice.",
+      "telugu": "స్పైసీ మటన్ కీమా అన్నంతో.",
+      "hindi": "मसालेदार मटन कीमा चावल के साथ।"
+    },
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Hard",
+      "telugu": "కష్టం",
+      "hindi": "कठिन"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Mutton Mince",
+        "Onion",
+        "Tomato",
+        "Ginger Garlic"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మటన్ మిన్స్",
+        "ఉల్లిపాయ",
+        "టమోటా",
+        "అల్లం వెల్లుల్లి"
+      ],
+      "hindi": [
+        "चावल",
+        "मटन कीमा",
+        "प्याज",
+        "टमाटर",
+        "अदरक लहसुन"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Saute onions.",
+        "Cook mince with spices.",
+        "Mix with rice.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బియ్యం ఉడికించండి.",
+        "ఉల్లిపాయలు వేయించండి.",
+        "మిన్స్ ను మసాలాలతో వండండి.",
+        "బియ్యంతో కలపండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल पकाएं।",
+        "प्याज भूनें।",
+        "कीमा को मसालों के साथ पकाएं।",
+        "चावल में मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "mutton", "keema"]
+  },
+  {
+    "id": 112,
+    "name": {
+      "english": "Fish Curry Rice",
+      "telugu": "మత్స్య కర్రీ అన్నం",
+      "hindi": "मछली करी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice with tangy fish curry.",
+      "telugu": "రుచికరమైన చేప కర్రీతో బియ్యం.",
+      "hindi": "खट्टे मछली करी के साथ चावल।"
+    },
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Fish",
+        "Tamarind",
+        "Spices",
+        "Coconut Milk"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "చేప",
+        "చింతపండు",
+        "మసాలా",
+        "కొబ్బరి పాలు"
+      ],
+      "hindi": [
+        "चावल",
+        "मछली",
+        "इमली",
+        "मसाले",
+        "नारियल का दूध"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare fish curry.",
+        "Cook rice.",
+        "Serve curry with rice.",
+        "Garnish.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "చేప కర్రీను తయారుచేయండి.",
+        "బియ్యం ఉడికించండి.",
+        "కర్రీని అన్నంతో సర్వ్ చేయండి.",
+        "ఆలంకరించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "मछली करी तैयार करें।",
+        "चावल पकाएं।",
+        "करी को चावल के साथ परोसें।",
+        "सजा दें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "fish"]
+  },
+  {
+    "id": 113,
+    "name": {
+      "english": "Jeera Rice",
+      "telugu": "జీరా అన్నం",
+      "hindi": "जीरा चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Simple cumin-flavored rice.",
+      "telugu": "జీలకర్ర రుచితో సాధారణ అన్నం.",
+      "hindi": "जीरे के स्वाद वाला साधारण चावल।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Cumin Seeds",
+        "Ghee",
+        "Onion",
+        "Cilantro"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "జీలకర్ర",
+        "నెయ్యి",
+        "ఉల్లిపాయ",
+        "కొత్తిమీర"
+      ],
+      "hindi": [
+        "चावल",
+        "जीरा",
+        "घी",
+        "प्याज",
+        "धनिया"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Fry cumin seeds in ghee.",
+        "Add onions.",
+        "Add cooked rice.",
+        "Mix gently.",
+        "Garnish with cilantro."
+      ],
+      "telugu": [
+        "నెయ్యిలో జీలకర్ర వేయించండి.",
+        "ఉల్లిపాయలు జోడించండి.",
+        "వందిన బియ్యం జోడించండి.",
+        "మెల్లగా కలపండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "घी में जीरा भूनें।",
+        "प्याज डालें।",
+        "पके चावल डालें।",
+        "धीरे से मिलाएं।",
+        "धनिया से सजाएं।"
+      ]
+    },
+    "tags": ["lunch", "rice", "jeera"]
+  },
+  {
+    "id": 114,
+    "name": {
+      "english": "Pea Pulao",
+      "telugu": "పచ్చి గడి పులావు",
+      "hindi": "मटर पुलाव"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice cooked with peas and mild spices.",
+      "telugu": "పచ్చి గడి పప్పు మరియు మసాలాలతో అన్నం.",
+      "hindi": "मटर और हल्के मसालों के साथ चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Green Peas",
+        "Cumin",
+        "Bay Leaf",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పచ్చి గడి పప్పు",
+        "జీలకర్ర",
+        "తేజపట్టు",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "हरी मटर",
+        "जीरा",
+        "तेज पत्ता",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice with peas.",
+        "Add spices.",
+        "Simmer until done.",
+        "Fluff gently.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పచ్చి గడిప్పుతో బియ్యాన్ని ఉడకబెట్టండి.",
+        "మసాలాలు జోడించండి.",
+        "పాకం అయ్యేవరకు నెమ్మదిగా ఉడకబెట్టండి.",
+        "తల్లగా కలపండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "मटर के साथ चावल पकाएं।",
+        "मसाले डालें।",
+        "पकने तक धीमी आंच पर पकाएं।",
+        "धीरे से फुलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "vegetable"]
+  },
+  {
+    "id": 115,
+    "name": {
+      "english": "Mushroom Rice",
+      "telugu": "మష్రూమ్ అన్నం",
+      "hindi": "मशरूम चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice cooked with mushrooms and spices.",
+      "telugu": "మష్రూమ్స్ మరియు మసాలాలతో అన్నం.",
+      "hindi": "मशरूम और मसालों के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Mushrooms",
+        "Onion",
+        "Garlic",
+        "Soy Sauce"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మష్రూమ్స్",
+        "ఉల్లిపాయ",
+        "వెల్లుల్లి",
+        "సోయా సాస్"
+      ],
+      "hindi": [
+        "चावल",
+        "मशरूम",
+        "प्याज",
+        "लहसुन",
+        "सोया सॉस"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté mushrooms.",
+        "Add onions and garlic.",
+        "Add rice.",
+        "Cook until tender.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "మష్రూమ్ వేయించండి.",
+        "ఉల్లిపాయలు మరియు వెల్లుల్లి జోడించండి.",
+        "బియ్యం జోడించండి.",
+        "మృదువుగా వండండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "मशरूम भूनें।",
+        "प्याज और लहसुन डालें।",
+        "चावल डालें।",
+        "नरम होने तक पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "mushroom"]
+  },
+  {
+    "id": 116,
+    "name": {
+      "english": "Spinach Rice",
+      "telugu": "పాలకూర అన్నం",
+      "hindi": "पालक चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Green rice made with spinach.",
+      "telugu": "పాలకూరతో తయారైన ఆకుపచ్చ అన్నం.",
+      "hindi": "पालक के साथ हरा चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Spinach",
+        "Onions",
+        "Green Chillies",
+        "Cilantro"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పాలకూర",
+        "ఉల్లిపాయలు",
+        "పచ్చి మిరపకాయలు",
+        "కొత్తిమీర"
+      ],
+      "hindi": [
+        "चावल",
+        "पालक",
+        "प्याज",
+        "हरी मिर्च",
+        "धनिया"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blanch spinach.",
+        "Blend with spices.",
+        "Mix with rice.",
+        "Cook briefly.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పాలకూర బ్లాంచ్ చేయండి.",
+        "మసాలాలతో బ్లెండ్ చేయండి.",
+        "అన్నంతో కలపండి.",
+        "తాజాగా వండండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पालक को ब्लांच करें।",
+        "मसालों के साथ ब्लेंड करें।",
+        "चावल में मिलाएं।",
+        "संक्षेप में पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "spinach"]
+  },
+  {
+    "id": 117,
+    "name": {
+      "english": "Egg Fried Rice",
+      "telugu": "గుడ్డు ఫ్రైడ్ అన్నం",
+      "hindi": "एग फ्राइड चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Stir-fried rice with eggs and vegetables.",
+      "telugu": "గుడ్లు మరియు కూరగాయలతో వేయించిన అన్నం.",
+      "hindi": "अंडे और सब्जियों के साथ तला हुआ चावल।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Eggs",
+        "Peas",
+        "Carrots",
+        "Soy Sauce"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "గుడ్లు",
+        "పచ్చి గడి పప్పు",
+        "క్యారెట్లు",
+        "సోయా సాస్"
+      ],
+      "hindi": [
+        "चावल",
+        "अंडे",
+        "मटर",
+        "गाजर",
+        "सोया सॉस"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Scramble eggs.",
+        "Add vegetables.",
+        "Add rice and sauce.",
+        "Stir-fry together.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "గుడ్లను కలపండి.",
+        "కూరగాయలను జోడించండి.",
+        "బియ్యం మరియు సాస్ జోడించండి.",
+        "కలుపుతూ వేయించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "अंडे फेंटें।",
+        "सब्जियां डालें।",
+        "चावल और सॉस डालें।",
+        "साथ में भूनें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "egg"]
+  },
+  {
+    "id": 118,
+    "name": {
+      "english": "Mixed Vegetable Rice",
+      "telugu": "మిక్స్ కూరగాయల అన్నం",
+      "hindi": "मिक्स वेजिटेबल चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice cooked with a medley of vegetables.",
+      "telugu": "తరలాటి కూరగాయలతో అన్నం.",
+      "hindi": "सब्जियों के मिश्रण के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Mixed Vegetables",
+        "Spices",
+        "Oil",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మిక్స్ కూరగాయలు",
+        "మసాలా",
+        "నూనె",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "मिश्रित सब्जियां",
+        "मसाले",
+        "तेल",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Saute vegetables.",
+        "Add rice.",
+        "Add spices and water.",
+        "Cook until done.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "కూరగాయలు వేయించండి.",
+        "బియ్యం జోడించండి.",
+        "మసాలాలు మరియు నీరు జోడించండి.",
+        "పాకం అయ్యేవరకు వండండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सब्जियां भूनें।",
+        "चावल डालें।",
+        "मसाले और पानी डालें।",
+        "पकने तक पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "vegetable"]
+  },
+  {
+    "id": 119,
+    "name": {
+      "english": "Butter Chicken Rice",
+      "telugu": "బట్టర్ చికెన్ అన్నం",
+      "hindi": "बटर चिकन चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Creamy butter chicken served with rice.",
+      "telugu": "బట్టర్ చికెన్ అన్నంతో క్రీమీగా.",
+      "hindi": "क्रीमी बटर चिकन चावल के साथ।"
+    },
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Chicken",
+        "Butter",
+        "Tomato Puree",
+        "Cream"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "చికెన్",
+        "నెయ్యి",
+        "టమోటా ప్యూరీ",
+        "క్రీమ్"
+      ],
+      "hindi": [
+        "चावल",
+        "चिकन",
+        "मक्खन",
+        "टमाटर की प्यूरी",
+        "क्रीम"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook chicken in butter.",
+        "Add tomato puree.",
+        "Stir in cream.",
+        "Serve over rice.",
+        "Garnish with cilantro."
+      ],
+      "telugu": [
+        "బటర్‌లో చికెన్ వండండి.",
+        "టమోటా ప్యూరీ జోడించండి.",
+        "క్రీమ్ కలపండి.",
+        "అన్నంపై సర్వ్ చేయండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "चिकन को मक्खन में पकाएं।",
+        "टमाटर प्यूरी डालें।",
+        "क्रीम मिलाएं।",
+        "चावल के ऊपर परोसें।",
+        "धनिया से सजाएं।"
+      ]
+    },
+    "tags": ["lunch", "rice", "chicken", "butter"]
+  },
+  {
+    "id": 120,
+    "name": {
+      "english": "Dal Fry Rice",
+      "telugu": "దాల్ ఫ్రై అన్నం",
+      "hindi": "दाल फ्राय चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with spicy fried dal.",
+      "telugu": "మసాలా ఫ్రై చేసిన పప్పుతో అన్నం.",
+      "hindi": "मसालेदार फ्राई दाल के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Toor Dal",
+        "Onion",
+        "Tomato",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "కందిపప్పు",
+        "ఉల్లిపాయ",
+        "టమోటా",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "तूर दाल",
+        "प्याज",
+        "टमाटर",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook dal.",
+        "Fry onions and spices.",
+        "Mix with dal.",
+        "Serve with rice.",
+        "Garnish with cilantro."
+      ],
+      "telugu": [
+        "దాల్ వండండి.",
+        "ఉల్లిపాయలు మరియు మసాలాలు వేయించండి.",
+        "పప్పుతో కలపండి.",
+        "అన్నంతో సర్వ్ చేయండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "दाल पकाएं।",
+        "प्याज और मसाले फ्राई करें।",
+        "दाल में मिलाएं।",
+        "चावल के साथ परोसें।",
+        "धनिया से सजाएं।"
+      ]
+    },
+    "tags": ["lunch", "rice", "dal"]
+  },
+  {
+    "id": 121,
+    "name": {
+      "english": "Potato Curry Rice",
+      "telugu": "బంగాళదుంప కర్రీ అన్నం",
+      "hindi": "आलू करी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with potato curry.",
+      "telugu": "బంగాళదుంప కర్రీతో అన్నం.",
+      "hindi": "आलू करी के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Potatoes",
+        "Tomato",
+        "Onion",
+        "Curry Powder"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "బంగాళదుంపలు",
+        "టమోటా",
+        "ఉల్లిపాయ",
+        "కర్రీ పౌడర్"
+      ],
+      "hindi": [
+        "चावल",
+        "आलू",
+        "टमाटर",
+        "प्याज",
+        "करी पाउडर"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook potatoes.",
+        "Prepare curry.",
+        "Serve with rice.",
+        "Mix gently.",
+        "Garnish with cilantro."
+      ],
+      "telugu": [
+        "బంగాళదుంపలు ఉడకబెట్టండి.",
+        "కర్రీ తయారుచేయండి.",
+        "అన్నంతో సర్వ్ చేయండి.",
+        "తక్కువగా కలపండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "आलू पकाएं।",
+        "करी तैयार करें।",
+        "चावल के साथ परोसें।",
+        "धीरे से मिलाएं।",
+        "धनिया से सजाएं।"
+      ]
+    },
+    "tags": ["lunch", "rice", "potato"]
+  },
+  {
+    "id": 122,
+    "name": {
+      "english": "Okra Rice",
+      "telugu": "బెండకాయ అన్నం",
+      "hindi": "भिंडी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice mixed with spiced okra.",
+      "telugu": "మసాలా బెండకాయతో అన్నం.",
+      "hindi": "मसालेदार भिंडी के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Okra",
+        "Onion",
+        "Tomato",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "బెండకాయ",
+        "ఉల్లిపాయ",
+        "టమోటా",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "भिंडी",
+        "प्याज",
+        "टमाटर",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Saute okra and spices.",
+        "Add rice.",
+        "Mix well.",
+        "Cook until done.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బెండకాయ మరియు మసాలాలు వేయించండి.",
+        "బియ్యం జోడించండి.",
+        "బాగా కలపండి.",
+        "పాక్షికంగా వండండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "भिंडी और मसाले भूनें।",
+        "चावल डालें।",
+        "अच्छी तरह मिलाएं।",
+        "पकने तक पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "okra"]
+  },
+  {
+    "id": 123,
+    "name": {
+      "english": "Cauliflower Rice",
+      "telugu": "గోబి అన్నం",
+      "hindi": "गोभी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice with crunchy cauliflower pieces.",
+      "telugu": "క్రంచీ గోబితో అన్నం.",
+      "hindi": "कुरकुरी गोभी के टुकड़ों के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Cauliflower",
+        "Peas",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "గోబి",
+        "పచ్చి గడి పప్పు",
+        "మసాలా",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल",
+        "गोभी",
+        "मटर",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Saute cauliflower.",
+        "Add rice.",
+        "Mix well.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బియ్యం ఉడకబెట్టండి.",
+        "గోబి వేయించండి.",
+        "బియ్యం జోడించండి.",
+        "బాగా కలపండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल पकाएं।",
+        "गोभी भूनें।",
+        "चावल डालें।",
+        "अच्छी तरह मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "cauliflower"]
+  },
+  {
+    "id": 124,
+    "name": {
+      "english": "Brinjal Curry Rice",
+      "telugu": "వంకాయ కర్రీ అన్నం",
+      "hindi": "बैंगन करी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with spicy eggplant curry.",
+      "telugu": "మసాలా వంకాయ కర్రీతో అన్నం.",
+      "hindi": "मसालेदार बैंगन करी के साथ चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Eggplant",
+        "Tomato",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "వంకాయ",
+        "టమోటా",
+        "మసాలా",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल",
+        "बैंगन",
+        "टमाटर",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook eggplant curry.",
+        "Cook rice.",
+        "Serve together.",
+        "Garnish.",
+        "Enjoy warm."
+      ],
+      "telugu": [
+        "వంకాయ కర్రీ వండి.",
+        "బియ్యం ఉడికించండి.",
+        "కలిపి సర్వ్ చేయండి.",
+        "ఆలంకరించండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "बैंगन करी बनाएं।",
+        "चावल पकाएं।",
+        "एक साथ परोसें।",
+        "सजा दें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "eggplant"]
+  },
+  {
+    "id": 125,
+    "name": {
+      "english": "Pumpkin Rice",
+      "telugu": "కుంబలకాయ అన్నం",
+      "hindi": "कद्दू चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice with sweet and savory pumpkin.",
+      "telugu": "స్వీట్ మరియు రుచికరమైన కుంబలకాయతో అన్నం.",
+      "hindi": "मीठा और नमकीन कद्दू के साथ चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Pumpkin",
+        "Cinnamon",
+        "Cloves",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "కుంబలకాయ",
+        "దాల్చిన చెక్క",
+        "లవంగాలు",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "कद्दू",
+        "दालचीनी",
+        "लौंग",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook pumpkin with spices.",
+        "Add rice.",
+        "Simmer until done.",
+        "Fluff and serve.",
+        "Enjoy warm."
+      ],
+      "telugu": [
+        "కుంబలకాయను మసాలాలతో వండండి.",
+        "బియ్యం జోడించండి.",
+        "పాకం అయ్యేవరకు ఉడికించండి.",
+        "తలకరించి సర్వ్ చేయండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "कद्दू को मसालों के साथ पकाएं।",
+        "चावल डालें।",
+        "पकने तक धीमी आंच पर पकाएं।",
+        "हल्का फूला करें और परोसें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "pumpkin"]
+  },
+  {
+    "id": 126,
+    "name": {
+      "english": "Sweet Potato Rice",
+      "telugu": "చిలకదుంప అన్నం",
+      "hindi": "शकरकंद चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice cooked with sweet potato and spices.",
+      "telugu": "చిలకదుంప మరియు మసాలాలతో బియ్యం.",
+      "hindi": "शकरकंद और मसालों के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Sweet Potato",
+        "Cumin",
+        "Coriander",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "చిలకదుంప",
+        "జీలకర్ర",
+        "కొత్తిమీర",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "शकरकंद",
+        "जीरा",
+        "धनिया",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Dice sweet potato.",
+        "Cook with spices.",
+        "Add rice.",
+        "Simmer until done.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "చిలకదుంపను తుకరలుగా తరిగండి.",
+        "మసాలాలతో వండండి.",
+        "బియ్యం జోడించండి.",
+        "పాకం అయ్యేవరకు ఉడికించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "शकरकंद को काटें।",
+        "मसालों के साथ पकाएं।",
+        "चावल डालें।",
+        "पकने तक धीमी आंच पर पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "sweet-potato"]
+  },
+  {
+    "id": 127,
+    "name": {
+      "english": "Beetroot Rice",
+      "telugu": "బీట్ రూట్ అన్నం",
+      "hindi": "बीटरूट चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Colorful rice cooked with beetroot.",
+      "telugu": "బీట్ రూట్ తో రంగురంగుల బియ్యం.",
+      "hindi": "बीटरूट के साथ रंगीन चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Beetroot",
+        "Cumin",
+        "Garlic",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "బీట్ రూట్",
+        "జీలకర్ర",
+        "వెల్లుల్లి",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "बीटरूट",
+        "जीरा",
+        "लहसुन",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Grate beetroot.",
+        "Saute with spices.",
+        "Add rice.",
+        "Cook until tender.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "బీట్ రూట్‌ను గొర్రండి.",
+        "మసాలాలతో వేయించండి.",
+        "బియ్యం జోడించండి.",
+        "మృదువుగా వండండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "बीटरूट को कद्दूकस करें।",
+        "मसालों के साथ भूनें।",
+        "चावल डालें।",
+        "नरम होने तक पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "beetroot"]
+  },
+  {
+    "id": 128,
+    "name": {
+      "english": "Corn Rice",
+      "telugu": "మొక్కజొన్న అన్నం",
+      "hindi": "कॉर्न चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice cooked with sweet corn.",
+      "telugu": "రుచికరమైన మక్కతో బియ్యం.",
+      "hindi": "मीठे मकई के साथ चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Corn",
+        "Butter",
+        "Salt",
+        "Black Pepper"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మక్క",
+        "బటర్",
+        "ఉప్పు",
+        "కల్లాపిప్పర"
+      ],
+      "hindi": [
+        "चावल",
+        "मक्का",
+        "मक्खन",
+        "नमक",
+        "काली मिर्च"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice and corn.",
+        "Mix with butter.",
+        "Add salt and pepper.",
+        "Stir gently.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "బియ్యం మరియు మక్కను ఉడికించండి.",
+        "బటర్‌తో కలపండి.",
+        "ఉప్పు మరియు మిరియాల పొడి జోడించండి.",
+        "నెమ్మదిగా కలపండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और मक्का पकाएं।",
+        "मक्खन के साथ मिलाएं।",
+        "नमक और काली मिर्च डालें।",
+        "धीरे से मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "corn"]
+  },
+  {
+    "id": 129,
+    "name": {
+      "english": "Spinach Dal Rice",
+      "telugu": "పాలకూర పప్పు అన్నం",
+      "hindi": "पालक दाल चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice topped with spinach dal.",
+      "telugu": "పాలకూర పప్పుతో అన్నం పై సర్వ్.",
+      "hindi": "पालक दाल के साथ चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Spinach",
+        "Toor Dal",
+        "Spices",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పాలకూర",
+        "కందిపప్పు",
+        "మసాలా",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "पालक",
+        "तूर दाल",
+        "मसाले",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook dal.",
+        "Add spinach.",
+        "Season well.",
+        "Serve over rice.",
+        "Enjoy hot."
+      ],
+      "telugu": [
+        "దాల్ వండండి.",
+        "పాలకూర జోడించండి.",
+        "బాగా సీజన్ చేయండి.",
+        "బియ్యం పై సర్వ్ చేయండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "दाल पकाएं।",
+        "पालक डालें।",
+        "अच्छी तरह सीज़न करें।",
+        "चावल पर परोसें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "spinach", "dal"]
+  },
+  {
+    "id": 130,
+    "name": {
+      "english": "Paneer Bhurji Rice",
+      "telugu": "పనీర్ భుర్జీ అన్నం",
+      "hindi": "पनीर भुर्जी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Spiced scrambled paneer served with rice.",
+      "telugu": "మసాలా పన్నీర్ భుర్జీ అన్నంతో.",
+      "hindi": "मसालेदार पनीर भुर्जी चावल के साथ।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Paneer",
+        "Tomato",
+        "Onion",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పనీర్",
+        "టమోటా",
+        "ఉల్లిపాయ",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "पनीर",
+        "टमाटर",
+        "प्याज",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Crumble paneer.",
+        "Cook with onions and tomatoes.",
+        "Add spices.",
+        "Serve with rice.",
+        "Garnish with coriander."
+      ],
+      "telugu": [
+        "పనీర్‌ను ముక్కలుగా చేయండి.",
+        "ఉల్లిపాయలు, టమోటాలతో వండండి.",
+        "మసాలాలు జోడించండి.",
+        "బియ్యం తో సర్వ్ చేయండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "पनीर को क्रम्बल करें।",
+        "प्याज और टमाटर के साथ पकाएं।",
+        "मसाले डालें।",
+        "चावल के साथ परोसें।",
+        "धनिया से सजाएं।"
+      ]
+    },
+    "tags": ["lunch", "rice", "paneer"]
+  },
+  {
+    "id": 131,
+    "name": {
+      "english": "Methi Rice",
+      "telugu": "మెంతులుగడ్డ అన్నం",
+      "hindi": "मेथी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice flavored with fenugreek.",
+      "telugu": "మెంతులుగడ్డ రుచితో బియ్యం.",
+      "hindi": "मेथी के साथ स्वादिष्ट चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Fenugreek Leaves",
+        "Onion",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మెంతులుగడ్డ ఆకులు",
+        "ఉల్లిపాయ",
+        "మసాలా",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल",
+        "मेथी के पत्ते",
+        "प्याज",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Saute fenugreek leaves.",
+        "Add onions.",
+        "Add rice.",
+        "Cook gently.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "మెంతులుగడ్డ ఆకులను వేయించండి.",
+        "ఉల్లిపాయలు జోడించండి.",
+        "బియ్యం జోడించండి.",
+        "మెల్లగా వండండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "मेथी के पत्ते भूनें।",
+        "प्याज डालें।",
+        "चावल डालें।",
+        "धीरे से पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "fenugreek"]
+  },
+  {
+    "id": 132,
+    "name": {
+      "english": "Mint Rice",
+      "telugu": "పుదీనా అన్నం",
+      "hindi": "पुदीना चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Refreshing rice with mint and spices.",
+      "telugu": "పుదీనా మరియు మసాలాలతో రిఫ్రెషింగ్ అన్నం.",
+      "hindi": "पुदीने और मसालों के साथ ताज़ा चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Mint Leaves",
+        "Green Chillies",
+        "Ginger",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పుదీనా ఆకులు",
+        "పచ్చి మిరపకాయలు",
+        "అల్లం",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "पुदीने के पत्ते",
+        "हरी मिर्च",
+        "अदरक",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend mint and spices.",
+        "Mix with rice.",
+        "Cook until fragrant.",
+        "Fluff rice.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పుదీనా మరియు మసాలాలను బ్లెండ్ చేయండి.",
+        "బియ్యంతో కలపండి.",
+        "సువాసన వచ్చే వరకు వండండి.",
+        "అన్నం తలకరించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पुदीना और मसाले ब्लेंड करें।",
+        "चावल से मिलाएं।",
+        "खुशबू आने तक पकाएं।",
+        "चावल फुलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "mint"]
+  },
+  {
+    "id": 133,
+    "name": {
+      "english": "Herb Rice",
+      "telugu": "ఆవనుల అన్నం",
+      "hindi": "हर्ब चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice infused with mixed herbs.",
+      "telugu": "మిక్స్ ఆవనులతో సుగంధించిన బియ్యం.",
+      "hindi": "मिश्रित जड़ी-बूटियों से सुगंधित चावल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Mixed Herbs",
+        "Butter",
+        "Garlic",
+        "Salt"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మిక్స్ ఆవనులు",
+        "బటర్",
+        "వెల్లుల్లి",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "मिश्रित जड़ी-बूटियाँ",
+        "मक्खन",
+        "लहसुन",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté herbs and garlic.",
+        "Add rice.",
+        "Cook until fragrant.",
+        "Fluff rice.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "ఆవనులు మరియు వెల్లుల్లి వేయించండి.",
+        "బియ్యం జోడించండి.",
+        "సువాసన వచ్చే వరకు వండండి.",
+        "అన్నం తలకరించండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "जड़ी-बूटियाँ और लहसुन भूनें।",
+        "चावल डालें।",
+        "खुशबू आने तक पकाएं।",
+        "चावल फुलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "herb"]
+  },
+  {
+    "id": 134,
+    "name": {
+      "english": "Chickpea Curry Rice",
+      "telugu": "చిక్కన్ పప్పు కర్రీ అన్నం",
+      "hindi": "चना करी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice topped with spiced chickpea curry.",
+      "telugu": "చిక్కెన్ పప్పు కర్రీతో బియ్యం.",
+      "hindi": "मसालेदार चने की करी के साथ चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Chickpeas",
+        "Tomato",
+        "Onion",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "చిక్కిపప్పు",
+        "టమోటా",
+        "ఉల్లిపాయ",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "चना",
+        "टमाटर",
+        "प्याज",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook chickpeas.",
+        "Prepare curry.",
+        "Serve with rice.",
+        "Garnish.",
+        "Enjoy warm."
+      ],
+      "telugu": [
+        "చిక్కిపప్పును వండండి.",
+        "కర్రీను తయారుచేయండి.",
+        "బియ్యం తో సర్వ్ చేయండి.",
+        "ఆలంకరించండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "चना उबालें।",
+        "करी तैयार करें।",
+        "चावल के साथ परोसें।",
+        "सजा दें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "chickpea"]
+  },
+  {
+    "id": 135,
+    "name": {
+      "english": "Rajma Rice",
+      "telugu": "రాజ్మా అన్నం",
+      "hindi": "राजमा चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with rajma curry.",
+      "telugu": "రాజ్మా కర్రీతో బియ్యం.",
+      "hindi": "राजमा करी के साथ चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Kidney Beans",
+        "Tomato",
+        "Onion",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "రాజ్మా పప్పు",
+        "టమోటా",
+        "ఉల్లిపాయ",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "राजमा",
+        "टमाटर",
+        "प्याज",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rajma until tender.",
+        "Prepare curry.",
+        "Serve with rice.",
+        "Garnish.",
+        "Enjoy hot."
+      ],
+      "telugu": [
+        "రాజ్మా దానిని నెమ్మదిగా వండండి.",
+        "కర్రీను తయారుచేయండి.",
+        "బియ్యం తో సర్వ్ చేయండి.",
+        "కొత్తిమీరతో అలంకరించండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "राजमा को नरम होने तक पकाएं।",
+        "करी तैयार करें।",
+        "चावल के साथ परोसें।",
+        "धनिया से सजाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "rajma"]
+  },
+  {
+    "id": 136,
+    "name": {
+      "english": "Chana Masala Rice",
+      "telugu": "చనా మసాలా అన్నం",
+      "hindi": "चना मसाला चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with chana masala.",
+      "telugu": "చనా మసాలా బియ్యం.",
+      "hindi": "चना मसाला के साथ चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Chickpeas",
+        "Tomato",
+        "Spices",
+        "Onion"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "చన పప్పు",
+        "టమోటా",
+        "మసాలా",
+        "ఉల్లిపాయ"
+      ],
+      "hindi": [
+        "चावल",
+        "चना",
+        "टमाटर",
+        "मसाले",
+        "प्याज"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook chickpeas.",
+        "Prepare chana masala.",
+        "Serve with rice.",
+        "Garnish with cilantro.",
+        "Enjoy warm."
+      ],
+      "telugu": [
+        "చన పప్పును వండండి.",
+        "చనా మసాలా తయారుచేయండి.",
+        "బియ్యం తో సర్వ్ చేయండి.",
+        "కొత్తిమీరతో అలంకరించండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "चना को पकाएं।",
+        "चना मसाला तैयार करें।",
+        "चावल के साथ परोसें।",
+        "धनिया से सजाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "chana"]
+  },
+  {
+    "id": 137,
+    "name": {
+      "english": "Aloo Gobhi Rice",
+      "telugu": "ఆలూ గోబి అన్నం",
+      "hindi": "आलू गोबी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice mixed with potato and cauliflower.",
+      "telugu": "బంగాళదుంప మరియు గోబితో బియ్యం.",
+      "hindi": "आलू और गोभी के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Potato",
+        "Cauliflower",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "బంగాళదుంప",
+        "గోబి",
+        "మసాలా",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल",
+        "आलू",
+        "गोभी",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook vegetables.",
+        "Add rice and spices.",
+        "Stir and simmer.",
+        "Serve warm.",
+        "Enjoy hot."
+      ],
+      "telugu": [
+        "కూరగాయలు వండండి.",
+        "బియ్యం మరియు మసాలా జోడించండి.",
+        "కలిపి ఉడికించండి.",
+        "వేడి గా సర్వ్ చేయండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "सब्जियां पकाएं।",
+        "चावल और मसाले डालें।",
+        "हल्के से हिलाएं और पकाएं।",
+        "गरम परोसें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "potato", "cauliflower"]
+  },
+  {
+    "id": 138,
+    "name": {
+      "english": "Egg Curry Rice",
+      "telugu": "గుడ్డు కర్రీ అన్నం",
+      "hindi": "एग करी चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice served with egg curry.",
+      "telugu": "గుడ్డు కర్రీతో బియ్యం.",
+      "hindi": "एग करी के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Eggs",
+        "Tomato",
+        "Onion",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "గుడ్లు",
+        "టమోటా",
+        "ఉllిపాయ",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "अंडे",
+        "टमाटर",
+        "प्याज",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil eggs.",
+        "Prepare curry.",
+        "Serve with rice.",
+        "Garnish.",
+        "Enjoy warm."
+      ],
+      "telugu": [
+        "గుడ్లను మరిగించండి.",
+        "కర్రీను తయారుచేయండి.",
+        "బియ్యం తో సర్వ్ చేయండి.",
+        "ఆలంకరించండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "अंडे उबालें।",
+        "करी तैयार करें।",
+        "चावल के साथ परोसें।",
+        "सजा दें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "egg"]
+  },
+  {
+    "id": 139,
+    "name": {
+      "english": "Vegetable Korma Rice",
+      "telugu": "కూరగాయ కొర్మా అన్నం",
+      "hindi": "वेजिटेबल कोरमा चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Creamy vegetable korma served with rice.",
+      "telugu": "క్రీమియైన కూరగాయ కొర్మా బియ్యంతో.",
+      "hindi": "क्रीमी सब्जी कोरमा के साथ चावल।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Mixed Vegetables",
+        "Yogurt",
+        "Cashews",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "మిక్స్ కూరగాయలు",
+        "పెరుగు",
+        "కాజు",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "मिश्रित सब्जियां",
+        "दही",
+        "काजू",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook vegetables.",
+        "Add creamy korma sauce.",
+        "Serve with rice.",
+        "Garnish.",
+        "Enjoy warm."
+      ],
+      "telugu": [
+        "కూరగాయలను వండండి.",
+        "క్రీమీ కొర్మా సాస్ జోడించండి.",
+        "బియ్యం తో సర్వ్ చేయండి.",
+        "ఆలంకరించండి.",
+        "వేడి గా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "सब्जियां पकाएं।",
+        "क्रीमी कोरमा सॉस डालें।",
+        "चावल के साथ परोसें।",
+        "सजा दें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "korma"]
+  },
+  {
+    "id": 140,
+    "name": {
+      "english": "Tofu Rice",
+      "telugu": "టొఫు అన్నం",
+      "hindi": "टोफू चावल"
+    },
+    "category": {
+      "english": "Lunch",
+      "telugu": "మధ్యాహ్న భోజనం",
+      "hindi": "दोपहर का भोजन"
+    },
+    "description": {
+      "english": "Rice cooked with spiced tofu.",
+      "telugu": "మసాలా టొఫుతో బియ్యం.",
+      "hindi": "मसालेदार टोफू के साथ चावल।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Tofu",
+        "Soy Sauce",
+        "Vegetables",
+        "Spices"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "టొఫు",
+        "సోయా సాస్",
+        "కూరగాయలు",
+        "మసాలా"
+      ],
+      "hindi": [
+        "चावल",
+        "टोफू",
+        "सोया सॉस",
+        "सब्ज़ियाँ",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice.",
+        "Stir-fry tofu and vegetables with soy sauce and spices.",
+        "Mix with rice and serve hot."
+      ],
+      "telugu": [
+        "బియ్యాన్ని ఉడికించండి.",
+        "టొఫు మరియు కూరగాయలను సోయా సాస్ మరియు మసాలాతో వేయించండి.",
+        "అన్ని కలపి వేడి గా వడ్డించండి."
+      ],
+      "hindi": [
+        "चावल पकाएँ।",
+        "टोफू और सब्ज़ियों को सोया सॉस और मसालों के साथ भूनें।",
+        "चावल के साथ मिलाएँ और गरम परोसें।"
+      ]
+    },
+    "tags": ["lunch", "rice", "tofu"]
+  }
+]

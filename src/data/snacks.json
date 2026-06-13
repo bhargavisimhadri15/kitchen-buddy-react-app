@@ -1,0 +1,3588 @@
+[
+  {
+    "id": 301,
+    "name": {
+      "english": "Samosa",
+      "telugu": "సమోసా",
+      "hindi": "समोसा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Crispy fried snack with spicy potato filling.",
+      "telugu": "మసాలా బంగాళాదుంప పూరణతో కరకరలాడే స్నాక్.",
+      "hindi": "मसालेदार आलू भरावन वाला कुरकुरा स्नैक।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Maida - 2 cups",
+        "Potatoes - 3",
+        "Oil",
+        "Salt",
+        "Spices"
+      ],
+      "telugu": [
+        "మైదా - 2 కప్పులు",
+        "బంగాళాదుంపలు - 3",
+        "నూనె",
+        "ఉప్పు",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "मैदा - 2 कप",
+        "आलू - 3",
+        "तेल",
+        "नमक",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare dough with maida.",
+        "Cook potato filling.",
+        "Fill and shape samosas.",
+        "Deep fry until golden.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "మైదాతో పిండి తయారు చేయండి.",
+        "బంగాళాదుంప పూరణ తయారు చేయండి.",
+        "సమోసాలు తయారు చేయండి.",
+        "బంగారు రంగు వచ్చే వరకు వేయించండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "मैदा का आटा तैयार करें।",
+        "आलू की भरावन बनाएं।",
+        "समोसा आकार दें।",
+        "सुनहरा होने तक तलें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["snack", "fried", "indian"]
+  },
+  {
+    "id": 302,
+    "name": {
+      "english": "Pakora",
+      "telugu": "పకోడీ",
+      "hindi": "पकौड़ा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Popular crispy fritters made with gram flour.",
+      "telugu": "సెనగపిండితో తయారుచేసే కరకరలాడే స్నాక్.",
+      "hindi": "बेसन से बने कुरकुरे पकौड़े।"
+    },
+    "time": "20 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Gram Flour - 1 cup",
+        "Onion - 2",
+        "Salt",
+        "Chilli Powder",
+        "Oil"
+      ],
+      "telugu": [
+        "సెనగపిండి - 1 కప్పు",
+        "ఉల్లిపాయలు - 2",
+        "ఉప్పు",
+        "కారం",
+        "నూనె"
+      ],
+      "hindi": [
+        "बेसन - 1 कप",
+        "प्याज - 2",
+        "नमक",
+        "मिर्च पाउडर",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix gram flour and spices.",
+        "Add sliced onions.",
+        "Prepare thick batter.",
+        "Deep fry spoonfuls.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "సెనగపిండి మరియు మసాలాలు కలపండి.",
+        "ఉల్లిపాయ ముక్కలు వేయండి.",
+        "గట్టిగా పిండి కలపండి.",
+        "వేయించండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "बेसन और मसाले मिलाएं।",
+        "प्याज डालें।",
+        "गाढ़ा घोल तैयार करें।",
+        "तल लें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["pakora", "snack", "tea-time"]
+  },
+  {
+    "id": 303,
+    "name": {
+      "english": "Murukku",
+      "telugu": "మురుక్కు",
+      "hindi": "मुरुक्कू"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Traditional crunchy South Indian snack.",
+      "telugu": "సాంప్రదాయ దక్షిణ భారత కరకరలాడే స్నాక్.",
+      "hindi": "पारंपरिक दक्षिण भारतीय कुरकुरा स्नैक।"
+    },
+    "time": "40 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice Flour",
+        "Urad Dal Flour",
+        "Salt",
+        "Butter",
+        "Oil"
+      ],
+      "telugu": [
+        "బియ్యపు పిండి",
+        "మినప్పిండి",
+        "ఉప్పు",
+        "వెన్న",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल का आटा",
+        "उड़द दाल का आटा",
+        "नमक",
+        "मक्खन",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix all ingredients.",
+        "Prepare dough.",
+        "Shape murukku using mould.",
+        "Deep fry until crisp.",
+        "Cool and store."
+      ],
+      "telugu": [
+        "అన్ని పదార్థాలు కలపండి.",
+        "పిండి తయారు చేయండి.",
+        "మురుక్కు ఆకారంలో చేయండి.",
+        "కరకరలాడే వరకు వేయించండి.",
+        "చల్లారిన తర్వాత నిల్వ చేయండి."
+      ],
+      "hindi": [
+        "सभी सामग्री मिलाएं।",
+        "आटा तैयार करें।",
+        "मुरुक्कू आकार दें।",
+        "कुरकुरा होने तक तलें।",
+        "ठंडा करके रखें।"
+      ]
+    },
+    "tags": ["snack", "south-indian", "crispy"]
+  },
+  {
+    "id": 304,
+    "name": {
+      "english": "Bhel Puri",
+      "telugu": "భేల్ పూరి",
+      "hindi": "भेल पुरी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Tangy puffed rice snack with chutneys and sev.",
+      "telugu": "చట్నీలు మరియు సేవ్ తో తీపి పఫ్ రైస్ స్నాక్.",
+      "hindi": "चटनी और सेव के साथ खट्टा-मीठा फूला चावल स्नैक।"
+    },
+    "time": "15 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Puffed Rice",
+        "Sev",
+        "Onion",
+        "Tomato",
+        "Chutney"
+      ],
+      "telugu": [
+        "పఫ్ రైస్",
+        "సేవ్",
+        "ఉల్లిపాయ",
+        "టమోటా",
+        "చట్నీ"
+      ],
+      "hindi": [
+        "फूला चावल",
+        "सेव",
+        "प्याज",
+        "टमाटर",
+        "चटनी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Combine puffed rice and vegetables.",
+        "Add chutneys and spices.",
+        "Toss gently.",
+        "Top with sev.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "పఫ్ రైస్ మరియు కూరగాయలు కలపండి.",
+        "చట్నీలు మరియు మసాలాలను జోడించండి.",
+        "సున్నితంగా కలపండి.",
+        "సేవ్ తో మెరిసేలా పెట్టండి.",
+        "తక్షణమే వడ్డించండి."
+      ],
+      "hindi": [
+        "फूला चावल और सब्जियाँ मिलाएँ।",
+        "चटनियाँ और मसाले डालें।",
+        "धीरे से मिलाएँ।",
+        "ऊपर से सेव डालें।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["chat", "street-food", "light"]
+  },
+  {
+    "id": 305,
+    "name": {
+      "english": "Vada Pav",
+      "telugu": "వడా పావ్",
+      "hindi": "वड़ा पाव"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spicy potato fritter sandwiched between soft buns.",
+      "telugu": "మసాలా బంగాళాదుంప వడను మృదువైన బ్రెడ్ మధ్య ఉంచిన స్నాక్.",
+      "hindi": "मसालेदार आलू वड़ा को नरम ब्रेड में परोसा गया।"
+    },
+    "time": "25 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Pav buns",
+        "Potatoes",
+        "Besan",
+        "Chili Powder",
+        "Oil"
+      ],
+      "telugu": [
+        "పావ్ తినుబండ్లు",
+        "బంగాళాదుంపలు",
+        "బేసన్",
+        "మిరప పొడి",
+        "నూనె"
+      ],
+      "hindi": [
+        "पाव",
+        "आलू",
+        "बेसन",
+        "मिर्च पाउडर",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil and mash potatoes.",
+        "Prepare spiced batter.",
+        "Coat potato ball and fry.",
+        "Place in bun with chutney.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బంగాళాదుంపలను ఉడకించి మష్ చేయండి.",
+        "మసాలా పిండిని తయారు చేయండి.",
+        "బంగాళాదుంప బంతిని పూత చేసి వేయించండి.",
+        "బన్ మధ్య పెట్టి చట్నీ వేసుకోండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "आलू उबालकर मैश करें।",
+        "मसालेदार घोल बनाएं।",
+        "आलू की बॉल को लपेटकर तलें।",
+        "बन में रखें और चटनी डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["street-food", "spicy", "comfort-food"]
+  },
+  {
+    "id": 306,
+    "name": {
+      "english": "Dahi Vada",
+      "telugu": "దహి వడ",
+      "hindi": "दही वडा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Soft lentil dumplings soaked in yogurt and chutney.",
+      "telugu": "పెరుగు మరియు చట్నీలో నానబెట్టిన పంగుల పప్పు వడలు.",
+      "hindi": "दही और चटनी में भीगे नरम वड़े।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Urad dal",
+        "Yogurt",
+        "Tamarind chutney",
+        "Coriander",
+        "Spices"
+      ],
+      "telugu": [
+        "మినప్పప్పు",
+        "పెరుగు",
+        "ఇమ్లీ చట్నీ",
+        "కొత్తిమీర",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "उड़द की दाल",
+        "दही",
+        "इमली की चटनी",
+        "धनिया",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak and grind dal to batter.",
+        "Shape and fry vadas.",
+        "Soak in water briefly.",
+        "Top with yogurt and chutney.",
+        "Garnish and serve."
+      ],
+      "telugu": [
+        "పప్పును నానబెట్టి పిండి చేయండి.",
+        "వడలను ఆకారం చేసి వేయించండి.",
+        "కొద్దిగా నీటిలో నానబెట్టండి.",
+        "పెరుగు మరియు చట్నీతో మొగ్గండి.",
+        "అలంకరించి వడ్డించండి."
+      ],
+      "hindi": [
+        "दाल को भिगोकर घोल बनाएं।",
+        "वड़े बनाकर तलें।",
+        "थोड़ी देर पानी में भिगोएं।",
+        "दही और चटनी डालें।",
+        "सजाकर परोसें।"
+      ]
+    },
+    "tags": ["chaat", "yogurt", "north-indian"]
+  },
+  {
+    "id": 307,
+    "name": {
+      "english": "Bread Pakora",
+      "telugu": "బ్రెడ్ పకోడీ",
+      "hindi": "ब्रेड पकौड़ा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Bread slices stuffed with spiced potato and fried crisp.",
+      "telugu": "మసాలా బంగాళాదుంపతో నింపి క్రిస్పీగా వేయించిన బ్రెడ్ స్లైసులు.",
+      "hindi": "मसालेदार आलू से भरे ब्रेड स्लाइस, कुरकुरा तला हुआ।"
+    },
+    "time": "25 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Bread slices",
+        "Potatoes",
+        "Besan",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బ్రెడ్ స్లైసులు",
+        "బంగాళాదుంపలు",
+        "బేసన్",
+        "మసాలాలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "ब्रेड स्लाइस",
+        "आलू",
+        "बेसन",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare potato filling.",
+        "Sandwich between bread slices.",
+        "Dip in batter.",
+        "Deep fry until golden.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "బంగాళాదుంప పూరణను సిద్ధం చేయండి.",
+        "బ్రెడ్ మధ్యలో పెట్టండి.",
+        "పిండిలో ముంచండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "आलू की भरावन तैयार करें।",
+        "ब्रेड के बीच रखें।",
+        "घोल में डुबोएं।",
+        "गोल्डन होने तक तलें।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["fried", "comfort-food", "tea-time"]
+  },
+  {
+    "id": 308,
+    "name": {
+      "english": "Banana Chips",
+      "telugu": "అరటి చిప్స్",
+      "hindi": "केला चिप्स"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Thinly sliced banana chips fried until crispy.",
+      "telugu": "సన్నగా తరిగిన అరటి చిప్స్‌ను క్రిస్పీగా వేయించబడినవి.",
+      "hindi": "पतले कटे केले के चिप्स, कुरकुरे तलें।"
+    },
+    "time": "30 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Raw bananas",
+        "Salt",
+        "Turmeric",
+        "Oil"
+      ],
+      "telugu": [
+        "కత్తిరించిన అరటి పండ్లు",
+        "ఉప్పు",
+        "పసుపు",
+        "నూనె"
+      ],
+      "hindi": [
+        "कच्चे केले",
+        "नमक",
+        "हल्दी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Slice bananas thinly.",
+        "Soak in salted water.",
+        "Dry and fry until crispy.",
+        "Season with turmeric.",
+        "Cool before serving."
+      ],
+      "telugu": [
+        "అరటిపండ్లను సన్నగా తరిగండి.",
+        "ఉప్పు నీటిలో నానబెట్టండి.",
+        "ఎండబెట్టి వేయించండి.",
+        "పసుపు రాయండి.",
+        "సర్వ్ రావడానికి ముందే చల్లబెట్టు."
+      ],
+      "hindi": [
+        "केले को पतला काटें।",
+        "नमकीन पानी में भिगोएं।",
+        "सुखाकर तलें।",
+        "हल्दी छिड़कें।",
+        "परोसने से पहले ठंडा करें।"
+      ]
+    },
+    "tags": ["crispy", "vegan", "tea-time"]
+  },
+  {
+    "id": 309,
+    "name": {
+      "english": "Paneer Tikka",
+      "telugu": "పనీర్ టిక్కా",
+      "hindi": "पनीर टिक्का"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Marinated paneer cubes grilled with spices.",
+      "telugu": "మసాలాలతో నానబెట్టి గ్రిల్లు చేసిన పన్నీర్ క్యూబ్స్.",
+      "hindi": "मसालेदार मेरिनेट पनीर क्यूब्स ग्रिल किए हुए।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Paneer",
+        "Yogurt",
+        "Spices",
+        "Bell peppers",
+        "Oil"
+      ],
+      "telugu": [
+        "పన్నీర్",
+        "పెరుగు",
+        "మసాలాలు",
+        "మిరపకాయలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "पनीर",
+        "दही",
+        "मसाले",
+        "शिमला मिर्च",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cube paneer and vegetables.",
+        "Marinate in yogurt and spices.",
+        "Skewer and grill.",
+        "Brush with oil.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పన్నీర్ మరియు కూరగాయలను క్యూబ్స్‌గా కోయండి.",
+        "పెరుగులో మరియు మసాలాల్లో నానబెట్టి ఉంచండి.",
+        "స్క్యువర్‌లో పెట్టి గ్రిల్ చేయండి.",
+        "నూనె తగలించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "पनीर और सब्ज़ियों को क्यूब में काटें।",
+        "दही और मसालों में मेरिनेट करें।",
+        "स्क्यूअर लगाकर ग्रिल करें।",
+        "तेल लगाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["grilled", "vegetarian", "party"]
+  },
+  {
+    "id": 310,
+    "name": {
+      "english": "Aloo Tikki",
+      "telugu": "ఆలో టిక్",
+      "hindi": "आलू टिक्की"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spiced potato patties shallow fried until golden.",
+      "telugu": "మసాలా బంగాళాదుంప ప్యాటీలు బంగారు అయ్యేవరకు వేయించి.",
+      "hindi": "मसालेदार आलू की टिक्की, सुनहरी तली हुई।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Potatoes",
+        "Peas",
+        "Spices",
+        "Breadcrumbs",
+        "Oil"
+      ],
+      "telugu": [
+        "బంగాళాదుంపలు",
+        "బఠాణీలు",
+        "మసాలాలు",
+        "బ్రెడ్ క్రంబ్స్",
+        "నూనె"
+      ],
+      "hindi": [
+        "आलू",
+        "मटर",
+        "मसाले",
+        "ब्रेडक्रम्ब्स",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil and mash potatoes.",
+        "Mix peas and spices.",
+        "Shape patties.",
+        "Shallow fry until crisp.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "బంగాళాదుంపలను ఉడికించి మష్ చేయండి.",
+        "బఠాణీలు మరియు మసాలాలు కలపండి.",
+        "ప్యాటీలు ఆకారం చేయండి.",
+        "కరకరగా వేయించండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "आलू उबालकर मैश करें।",
+        "मटर और मसाले मिलाएँ।",
+        "पट्टियाँ बनाएं।",
+        "तलें जब तक कुरकुरा हो जाए।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["vegetarian", "street-food", "easy"]
+  },
+  {
+    "id": 311,
+    "name": {
+      "english": "Sev Puri",
+      "telugu": "సేవ్ పూరి",
+      "hindi": "सेव पुरी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Crispy puris topped with chutney, vegetables and sev.",
+      "telugu": "చట్నీ, కూరగాయలు మరియు సేవ్ తో టాప్ చేయబడిన క్రిస్పీ పూరీలు.",
+      "hindi": "चटनी, सब्जियों और सेव से सजी कुरकुरी पुरी।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Puris",
+        "Onion",
+        "Tomato",
+        "Chutney",
+        "Sev"
+      ],
+      "telugu": [
+        "పూరీలు",
+        "ఉల్లిపాయ",
+        "టమోటా",
+        "చట్నీ",
+        "సేవ్"
+      ],
+      "hindi": [
+        "पुरी",
+        "प्याज",
+        "टमाटर",
+        "चटनी",
+        "सेव"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Arrange puris on a plate.",
+        "Top with chopped vegetables.",
+        "Add chutneys and sev.",
+        "Sprinkle spices.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "పూరీలను కలుపులో అమర్చండి.",
+        "చేపల కూరగాయలు టాప్ చేయండి.",
+        "చట్నీలు మరియు సేవ్ జోడించండి.",
+        "మసాలాలు చల్లండి.",
+        "తక్షణమే వడ్డించండి."
+      ],
+      "hindi": [
+        "पुरी को प्लेट में रखें।",
+        "कटी हुई सब्ज़ियाँ डालें।",
+        "चटनियाँ और सेव डालें।",
+        "मसाले छिड़कें।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["chaat", "street-food", "crunchy"]
+  },
+  {
+    "id": 312,
+    "name": {
+      "english": "Chivda",
+      "telugu": "చివ్డా",
+      "hindi": "चिवड़ा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Savory mixture of flattened rice, nuts and spices.",
+      "telugu": "పాట్నం అన్నం, గింజలు మరియు మసాలాల మిశ్రమం.",
+      "hindi": "फूले चावल, मेवे और मसालों का नमकीन मिश्रण।"
+    },
+    "time": "30 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Flattened rice",
+        "Peanuts",
+        "Cashews",
+        "Curry leaves",
+        "Spices"
+      ],
+      "telugu": [
+        "పొరల అన్నం",
+        "వేరుశనగలు",
+        "కజు",
+        "కరిమిరపకాయలు",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "पोहे",
+        "मूंगफली",
+        "काजू",
+        "करी पत्ते",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Roast rice flakes and nuts.",
+        "Temper mustard and curry leaves.",
+        "Mix everything together.",
+        "Season with spices.",
+        "Cool and store."
+      ],
+      "telugu": [
+        "రైస్ ఫ్లేస్ మరియు గింజలను వేయించండి.",
+        "ఆవం మరియు కరిమిరపకాయల తడక వేయండి.",
+        "అన్నింటినీ కలపండి.",
+        "మసాలాలతో రుచిచేసుకోండి.",
+        "చల్లార్చి నిల్వ చేయండి."
+      ],
+      "hindi": [
+        "पोहे और मेवे भूनें।",
+        "सरसों और करी पत्ते का तड़का लगाएँ।",
+        "सब कुछ मिलाएँ।",
+        "मसालों से स्वाद बढ़ाएँ।",
+        "ठंडा करके रखें।"
+      ]
+    },
+    "tags": ["savory", "crunchy", "tea-time"]
+  },
+  {
+    "id": 313,
+    "name": {
+      "english": "Kachori",
+      "telugu": "కచోరి",
+      "hindi": "कचौड़ी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Flaky pastry filled with spicy dal or potato.",
+      "telugu": "మసాలా పప్పు లేదా బంగాళాదుంపతో నింపిన క్రిస్పీ పేస్ట్రీ.",
+      "hindi": "मसालेदार दाल या आलू से भरी कुरकुरी परतदार कचौड़ी।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Maida",
+        "Spiced dal",
+        "Potato",
+        "Oil",
+        "Salt"
+      ],
+      "telugu": [
+        "మైదా",
+        "మసాలా పప్పు",
+        "బంగాళాదుంప",
+        "నూనె",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "मैदा",
+        "मसालेदार दाल",
+        "आलू",
+        "तेल",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare dough and filling.",
+        "Stuff dough with filling.",
+        "Seal and shape.",
+        "Deep fry until golden.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పిండి మరియు పూరణ తయారు చేయండి.",
+        "పిండిని పూరణతో నింపండి.",
+        "మూసి ఆకారం చేయండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "आटा और भरावन बनाएं।",
+        "आटे को भरावन से भरें।",
+        "सील करें और आकार दें।",
+        "गोल्डन होने तक तलें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["fried", "spicy", "traditional"]
+  },
+  {
+    "id": 314,
+    "name": {
+      "english": "Jalebi",
+      "telugu": "జిలేబి",
+      "hindi": "जलेबी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Sweet spiral treats soaked in sugar syrup.",
+      "telugu": "చక్కెర సిరప్‌లో నానబెట్టబడిన తియ్యని స్పైరల్ ట్రీట్స్.",
+      "hindi": "चीनी की चाशनी में भीगी मीठी स्पाइरल।"
+    },
+    "time": "30 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Maida",
+        "Sugar",
+        "Yogurt",
+        "Saffron",
+        "Oil"
+      ],
+      "telugu": [
+        "మైదా",
+        "చక్కెర",
+        "పెరుగు",
+        "కుంకుమ",
+        "నూనె"
+      ],
+      "hindi": [
+        "मैदा",
+        "चीनी",
+        "दही",
+        "केसर",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare batter and ferment briefly.",
+        "Fry batter into spirals.",
+        "Make sugar syrup.",
+        "Soak jalebis in syrup.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "బ్యాటర్ను తయారు చేసి కొద్దిగా ఉంచండి.",
+        "బ్యాటర్‌ను స్పైరల్‌లుగా వేయించండి.",
+        "చక్కెర సిరప్ తయారు చేయండి.",
+        "జిలేబీలను సిరప్‌లో నానబెట్టండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "घोल तैयार करें और थोड़ी देर खमीर उठने दें।",
+        "घोल को घुमाया हुआ तलें।",
+        "चीनी की चाशनी बनाएं।",
+        "जलेबियाँ चाशनी में भिगोएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["sweet", "festival", "crispy"]
+  },
+  {
+    "id": 315,
+    "name": {
+      "english": "Dhokla",
+      "telugu": "ధొక్లా",
+      "hindi": "ढोकला"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Steamed savory cake made from fermented batter.",
+      "telugu": "పెరుగుతో ఫెర్మెంటెడ్ బ్యాటర్ నుంచి తయారుచేసిన ఆవులో వండిన స్నాక్.",
+      "hindi": "खमीर वाले घोल से बनाई सौफ्ट स्टीम्ड नमकीन केक।"
+    },
+    "time": "40 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Gram flour",
+        "Yogurt",
+        "Ginger",
+        "Green chili",
+        "Mustard seeds"
+      ],
+      "telugu": [
+        "బియ్యం పిండి",
+        "పెరుగు",
+        "అల్లం",
+        "ఆకు మిర్చి",
+        "ఆవాలు"
+      ],
+      "hindi": [
+        "बेसन",
+        "दही",
+        "अदरक",
+        "हरी मिर्च",
+        "सरसों"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix batter and ferment.",
+        "Steam until set.",
+        "Prepare tempering.",
+        "Pour over dhokla.",
+        "Garnish with coriander."
+      ],
+      "telugu": [
+        "బ్యాటర్ కలిపి ఫెర్మెంటెడ్ చేయండి.",
+        "సెట్ అయ్యే వరకు ఆవులో వండి.",
+        "తడకను తయారు చేయండి.",
+        "ధొక్లాపైన పోసండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "घोल मिलाएँ और खमीर उठने दें।",
+        "सेट होने तक स्टीम करें।",
+        "तड़का तैयार करें।",
+        "ढोकले पर डालें।",
+        "धनिया से सजाएँ।"
+      ]
+    },
+    "tags": ["steamed", "gujarati", "savory"]
+  },
+  {
+    "id": 316,
+    "name": {
+      "english": "Pav Bhaji",
+      "telugu": "పావ్ బాజీ",
+      "hindi": "पाव भाजी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spiced vegetable mash served with buttered rolls.",
+      "telugu": "వెన్నతోని రొట్టెలతో వడ్డించే మసాలా కూరగాయల మాష్.",
+      "hindi": "मक्खन लगे रोल्स के साथ मसालेदार सब्ज़ी मैश।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Pav buns",
+        "Mixed vegetables",
+        "Butter",
+        "Pav bhaji masala",
+        "Tomatoes"
+      ],
+      "telugu": [
+        "పావ్ బెన్స్",
+        "కలిపిన కూరగాయలు",
+        "వెన్న",
+        "పావ్ భాజీ మసాలా",
+        "టమోటాలు"
+      ],
+      "hindi": [
+        "पाव",
+        "मिक्स सब्ज़ियाँ",
+        "मक्खन",
+        "पाव भाजी मसाला",
+        "टमाटर"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook vegetables until soft.",
+        "Mash and season with masala.",
+        "Toast pav with butter.",
+        "Serve bhaji with rolls.",
+        "Garnish with coriander."
+      ],
+      "telugu": [
+        "కూరగాయలను నెమ్మదిగా ఉడికించండి.",
+        "మసాలాతో మష్ చేసి రుచిచేసుకోండి.",
+        "వెన్నతో పావ్ ను టోస్ట్ చేయండి.",
+        "భాజీని రోల్స్‌తో వడ్డించండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "सब्ज़ियाँ नरम होने तक पकाएँ।",
+        "मसाला डालकर मैश करें।",
+        "पाव को मक्खन से टोस्ट करें।",
+        "भाजी को रोल के साथ परोसें।",
+        "धनिया से सजाएँ।"
+      ]
+    },
+    "tags": ["street-food", "buttery", "comfort-food"]
+  },
+  {
+    "id": 317,
+    "name": {
+      "english": "Rasgulla",
+      "telugu": "రసగుల్ల",
+      "hindi": "रसगुल्ला"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Soft cheese balls soaked in light syrup.",
+      "telugu": "హాయిగా చక్కెర సిరప్‌లో మునిగిన మృదువైన పన్నీర్ బంతులు.",
+      "hindi": "हल्की चाशनी में भीगे मुलायम पनीर की गोलियां।"
+    },
+    "time": "45 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Paneer",
+        "Sugar",
+        "Water",
+        "Cardamom",
+        "Milk"
+      ],
+      "telugu": [
+        "పన్నీర్",
+        "చక్కెర",
+        "నీరు",
+        "ఎలక",
+        "పాలు"
+      ],
+      "hindi": [
+        "पनीर",
+        "चीनी",
+        "पानी",
+        "इलायची",
+        "दूध"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Knead paneer into smooth dough.",
+        "Shape into balls.",
+        "Cook in sugar syrup.",
+        "Let cool in syrup.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "పన్నీర్‌ను మెత్తగా మరిగించండి.",
+        "బంతులుగా చేయండి.",
+        "చక్కెర సిరప్‌లో ఉడికించండి.",
+        "సిరప్‌లో చల్లబడనివ్వండి.",
+        "చల్లగా వడ్డించండి."
+      ],
+      "hindi": [
+        "पनीर को चिकना आटा बनाएं।",
+        "गेंदें बनाएं।",
+        "चीनी की चाशनी में पकाएँ।",
+        "चाशनी में ठंडा करें।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["sweet", "dessert", "bengali"]
+  },
+  {
+    "id": 318,
+    "name": {
+      "english": "Bhakarwadi",
+      "telugu": "భాకర్‌వాడి",
+      "hindi": "भाकरवड़ी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spiced rolled snack from Maharashtra.",
+      "telugu": "మహారాష్ట్ర నుండి మసాలా రోల్డ్ స్నాక్.",
+      "hindi": "महाराष्ट्र का मसालेदार रोल्ड स्नैक।"
+    },
+    "time": "50 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Maida",
+        "Gram flour",
+        "Spices",
+        "Oil",
+        "Sugar"
+      ],
+      "telugu": [
+        "మైదా",
+        "బేసన్",
+        "మసాలాలు",
+        "నూనె",
+        "చెక్కెర"
+      ],
+      "hindi": [
+        "मैदा",
+        "बेसन",
+        "मसाले",
+        "तेल",
+        "चीनी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare dough and filling.",
+        "Roll dough thin.",
+        "Spread filling and roll.",
+        "Slice and fry.",
+        "Cool before serving."
+      ],
+      "telugu": [
+        "పిండి మరియు పూరణ తయారు చేయండి.",
+        "పిండిని సన్నగా చల్లండి.",
+        "పూరణను పూసి రోల్ చేయండి.",
+        "తిరగరగా కోసి వేయించండి.",
+        "విడిచేటప్పుడు చల్లబెట్టండి."
+      ],
+      "hindi": [
+        "आटा और भरावन तैयार करें।",
+        "आटे को पतला बेलें।",
+        "भरावन फैलाकर रोल करें।",
+        "कटकर तलें।",
+        "परोसने से पहले ठंडा करें।"
+      ]
+    },
+    "tags": ["crispy", "spicy", "maharashtrian"]
+  },
+  {
+    "id": 319,
+    "name": {
+      "english": "Khandvi",
+      "telugu": "ఖండ్వి",
+      "hindi": "खंडवी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Soft gram flour rolls tempered with mustard.",
+      "telugu": "ఆవ తడకతో రుచిచేసిన బియ్యపు పిండి రోల్స్.",
+      "hindi": "सरसों के तड़के के साथ मुलायम बेसन रोल।"
+    },
+    "time": "40 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Gram flour",
+        "Yogurt",
+        "Tempering spices",
+        "Coconut",
+        "Coriander"
+      ],
+      "telugu": [
+        "బియ్యం పిండి",
+        "పెరుగు",
+        "తడక మసాలాలు",
+        "కొబ్బరి",
+        "కొత్తిమీర"
+      ],
+      "hindi": [
+        "बेसन",
+        "दही",
+        "तड़के के मसाले",
+        "नारियल",
+        "धनिया"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook gram flour and yogurt into a paste.",
+        "Spread thinly on tray.",
+        "Roll into strips.",
+        "Pour tempering over.",
+        "Garnish with coconut."
+      ],
+      "telugu": [
+        "బియ్యం పిండి మరియు పెరుగును పేస్ట్ అయ్యే వరకు ఉడికించండి.",
+        "త్రేపై సన్నగా పూసండి.",
+        "పట్టీలగా రోల్ చేయండి.",
+        "తడకని పైన పోసండి.",
+        "కొబ్బరితో అలంకరించండి."
+      ],
+      "hindi": [
+        "बेसन और दही को पेस्ट बनाकर पकाएं।",
+        "ट्रे पर पतला फैलाएँ।",
+        "पट्टियाँ रोल करें।",
+        "उपर तड़का डालें।",
+        "नारियल से सजाएँ।"
+      ]
+    },
+    "tags": ["steamed", "gujarati", "light"]
+  },
+  {
+    "id": 320,
+    "name": {
+      "english": "Poha",
+      "telugu": "పొహా",
+      "hindi": "पोहा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Light flattened rice cooked with peanuts and spices.",
+      "telugu": "వేరుశనగలతో మరియు మసాలాలతో వండిన తేలికపాటి పొహా.",
+      "hindi": "मूंगफली और मसालों के साथ हल्का पोहा।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Flattened rice",
+        "Peanuts",
+        "Onion",
+        "Mustard seeds",
+        "Curry leaves"
+      ],
+      "telugu": [
+        "పొహా",
+        "వేరుశనగలు",
+        "ఉల్లిపాయ",
+        "ఆవాలు",
+        "కరిమిరపకాయలు"
+      ],
+      "hindi": [
+        "पोहा",
+        "मूंगफली",
+        "प्याज",
+        "सरसों",
+        "करी पत्ते"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Rinse and soak poha.",
+        "Temper spices and onion.",
+        "Add peanuts and vegetables.",
+        "Mix in poha and cook briefly.",
+        "Garnish with coriander."
+      ],
+      "telugu": [
+        "పొహాను తడవించి వేయించండి.",
+        "మసాలాలు మరియు ఉల్లిపాయను వేయించండి.",
+        "వేరుశనగలు మరియు కూరగాయలను జోడించండి.",
+        "పొహాను కలిపి కొద్దిసేపు వండండి.",
+        "కొత్తిమీరతో అలంకరించండి."
+      ],
+      "hindi": [
+        "पोहा धोकर भिगोएं।",
+        "मसाले और प्याज का तड़का लगाएँ।",
+        "मूंगफली और सब्ज़ियाँ डालें।",
+        "पोहा मिलाएँ और थोड़ा पकाएँ।",
+        "धनिया से सजाएँ।"
+      ]
+    },
+    "tags": ["breakfast", "light", "quick"]
+  },
+  {
+    "id": 321,
+    "name": {
+      "english": "Chana Jor Garam",
+      "telugu": "చన జోర్ గరం",
+      "hindi": "चना जोर गरम"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spicy flattened chickpea snack with onion and lemon.",
+      "telugu": "ఉల్లిపాయ మరియు నిమ్మతో మసాలా చన పప్పు స్నాక్.",
+      "hindi": "प्याज और नींबू के साथ मसालेदार चना स्नैक।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Flattened chickpeas",
+        "Onion",
+        "Lemon",
+        "Chaat masala",
+        "Spices"
+      ],
+      "telugu": [
+        "చన పప్పు",
+        "ఉల్లిపాయ",
+        "నిమ్మ",
+        "చాట్ మసాలా",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "चना",
+        "प्याज",
+        "नींबू",
+        "चाट मसाला",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix chickpeas with onions.",
+        "Season with chaat masala.",
+        "Squeeze lemon juice.",
+        "Toss well.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "చనపప్పును ఉల్లిపాయతో కలపండి.",
+        "చాట్ మసాలాతో రుచిచేసుకోండి.",
+        "నిమ్మరసం పోసండి.",
+        "బాగా కలపండి.",
+        "తక్షణమే వడ్డించండి."
+      ],
+      "hindi": [
+        "चना प्याज के साथ मिलाएँ।",
+        "चाट मसाला डालें।",
+        "नींबू निचोड़ें।",
+        "अच्छी तरह मिलाएँ।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["spicy", "tangy", "street-food"]
+  },
+  {
+    "id": 322,
+    "name": {
+      "english": "Corn Chaat",
+      "telugu": "కార్న్ చాట్",
+      "hindi": "कॉर्न चाट"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Sweet corn tossed with spices and lemon.",
+      "telugu": "మసాలాలు మరియు నిమ్మతో కలిపిన స్వీట్ కార్న్.",
+      "hindi": "मसालों और नींबू के साथ मिलाया हुआ स्वीट कॉर्न।"
+    },
+    "time": "15 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Sweet corn",
+        "Butter",
+        "Lemon",
+        "Chaat masala",
+        "Coriander"
+      ],
+      "telugu": [
+        "స్వీట్ కార్న్",
+        "వెన్న",
+        "నిమ్మ",
+        "చాట్ మసాలా",
+        "కొత్తిమీర"
+      ],
+      "hindi": [
+        "स्वीट कॉर्न",
+        "मक्खन",
+        "नींबू",
+        "चाट मसाला",
+        "धनिया"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook corn until tender.",
+        "Mix with butter and spices.",
+        "Add lemon juice.",
+        "Garnish with coriander.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "కార్న్‌ను నెమ్మదిగా ఉడికించండి.",
+        "వెన్న మరియు మసాలాలతో కలపండి.",
+        "నిమ్మరసం జోడించండి.",
+        "కొత్తిమీరతో అలంకరించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "कॉर्न को नरम होने तक पकाएँ।",
+        "मक्खन और मसाले मिलाएँ।",
+        "नींबू का रस डालें।",
+        "धनिया से सजाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["light", "corn", "quick"]
+  },
+  {
+    "id": 323,
+    "name": {
+      "english": "Idli Fry",
+      "telugu": "ఇడ్లీ ఫ్రై",
+      "hindi": "इडली फ्राई"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Fried idli pieces tossed with spices.",
+      "telugu": "మసాలాలతో కలిపిన వేయించిన ఇడ్లీ ముక్కలు.",
+      "hindi": "मसालों सहित तली हुई इडली के टुकड़े।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Idli",
+        "Oil",
+        "Mustard seeds",
+        "Curry leaves",
+        "Chili powder"
+      ],
+      "telugu": [
+        "ఇడ్లీ",
+        "నూనె",
+        "ఆవాలు",
+        "కరిమిరపకాయలు",
+        "మిర్చి పొడి"
+      ],
+      "hindi": [
+        "इडली",
+        "तेल",
+        "सरसों",
+        "करी पत्ते",
+        "मिर्च पाउडर"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cut idlis into pieces.",
+        "Temper spices in oil.",
+        "Add idli and sauté.",
+        "Toss until crisp.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "ఇడ్లీని ముక్కలుగా కట్ చేయండి.",
+        "నూనెలో మసాలాలను వేయించండి.",
+        "ఇడ్లీని చేర్చండి మరియు వేయించండి.",
+        "కరకరగా తిప్పండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "इडली को टुकड़ों में काटें।",
+        "तेल में मसाले भूनें।",
+        "इडली डालकर भूनें।",
+        "कुरकुरा होने तक पलटें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["south-indian", "crispy", "quick"]
+  },
+  {
+    "id": 324,
+    "name": {
+      "english": "Pani Puri",
+      "telugu": "పానీ పూరీ",
+      "hindi": "पानी पुरी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Hollow puris filled with spicy water and potato.",
+      "telugu": "స్పైసీ నీరు మరియు బంగాళాదుంపతో నింపిన పూరీలు.",
+      "hindi": "मसालेदार पानी और आलू से भरी पुरी।"
+    },
+    "time": "25 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Puris",
+        "Tamarind water",
+        "Potatoes",
+        "Chickpeas",
+        "Spices"
+      ],
+      "telugu": [
+        "పూరీలు",
+        "ఇమ్లీ నీరు",
+        "బంగాళాదుంపలు",
+        "చనాలు",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "पुरी",
+        "इमली पानी",
+        "आलू",
+        "चना",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare spiced water.",
+        "Mix potato and chickpeas.",
+        "Fill puris and add chutney.",
+        "Pour water into puris.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "స్పైసీ నీరు తయారు చేయండి.",
+        "బంగాళాదుంప మరియు చనాలను కలపండి.",
+        "పూరీలను నింపండి మరియు చట్నీ వేసుకోండి.",
+        "పూరీలలో నీరు పోసండి.",
+        "తక్షణమే వడ్డించండి."
+      ],
+      "hindi": [
+        "मसालेदार पानी तैयार करें।",
+        "आलू और चने मिलाएँ।",
+        "पुरी भरें और चटनी डालें।",
+        "पानी डालें।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["chaat", "street-food", "tangy"]
+  },
+  {
+    "id": 325,
+    "name": {
+      "english": "Gulab Jamun",
+      "telugu": "గులాబ్ జామున్",
+      "hindi": "गुलाब जामुन"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Soft fried milk dumplings soaked in syrup.",
+      "telugu": "సిరప్‌లో ముంపిన మృదువైన పాలు గుడ్లు.",
+      "hindi": "चीनी की चाशनी में भीगे मुलायम दूध के गोले।"
+    },
+    "time": "35 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Khoya",
+        "Flour",
+        "Sugar",
+        "Cardamom",
+        "Oil"
+      ],
+      "telugu": [
+        "ఖోయా",
+        "పిండి",
+        "చక్కెర",
+        "ఏలక",
+        "నూనె"
+      ],
+      "hindi": [
+        "खोया",
+        "आटा",
+        "चीनी",
+        "इलायची",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Make dough with khoya and flour.",
+        "Shape into small balls.",
+        "Fry until golden.",
+        "Soak in sugar syrup.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "ఖోయా మరియు పిండి తో పిండి తయారుచేయండి.",
+        "సన్నని బంతులను రూపొం౦చండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "చక్కెర సిరప్‌లో నానబెట్టండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "खोया और आटे से आटा बनाएं।",
+        "छोटे गोले बनाएं।",
+        "गोल्डन होने तक तलें।",
+        "चीनी की चाशनी में भिगोएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["sweet", "dessert", "festive"]
+  },
+  {
+    "id": 326,
+    "name": {
+      "english": "Samosa Chaat",
+      "telugu": "సమోసా చాట్",
+      "hindi": "समोसा चाट"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Samosa served with chutneys, yogurt and spices.",
+      "telugu": "సమోసా చట్నీలు, పెరుగు మరియు మసాలాలతో వడ్డించబడుతుంది.",
+      "hindi": "चटनी, दही और मसालों के साथ परोसा समोसा।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Samosas",
+        "Yogurt",
+        "Tamarind chutney",
+        "Green chutney",
+        "Spices"
+      ],
+      "telugu": [
+        "సమోసాలు",
+        "పెరుగు",
+        "ఇమ్లీ చట్నీ",
+        "ఆకు చట్నీ",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "समोसे",
+        "दही",
+        "इमली की चटनी",
+        "हरी चटनी",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Place samosas on a plate.",
+        "Top with yogurt and chutneys.",
+        "Sprinkle spices.",
+        "Garnish with coriander.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "ప్లేట్‌పై సమోసాలను పెట్టండి.",
+        "పెరుగు మరియు చట్నీలు వేసుకోండి.",
+        "మసాలాలు చల్లండి.",
+        "కొత్తిమీరతో అలంకరించండి.",
+        "తక్షణమే వడ్డించండి."
+      ],
+      "hindi": [
+        "प्लेट में समोसे रखें।",
+        "दही और चटनियाँ डालें।",
+        "मसाले छिड़कें।",
+        "धनिया से सजाएँ।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["chaat", "street-food", "spicy"]
+  },
+  {
+    "id": 327,
+    "name": {
+      "english": "Hara Bhara Kabab",
+      "telugu": "హరా భరా కబాబ్",
+      "hindi": "हरा भरा कबाब"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Green vegetable cutlets made with spinach and peas.",
+      "telugu": "పాలకూర మరియు బఠాణీతో తయారైన ఆకుపచ్చ కబాబ్.",
+      "hindi": "पालक और मटर से बने हरे-भरे कबाब।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Spinach",
+        "Peas",
+        "Potatoes",
+        "Spices",
+        "Breadcrumbs"
+      ],
+      "telugu": [
+        "పాలకూర",
+        "బఠాణీలు",
+        "బంగాళాదుంప",
+        "మసాలాలు",
+        "బ్రెడ్ క్రంబ్స్"
+      ],
+      "hindi": [
+        "पालक",
+        "मटर",
+        "आलू",
+        "मसाले",
+        "ब्रेडक्रम्ब्स"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook and chop vegetables.",
+        "Mash potatoes and mix.",
+        "Shape into patties.",
+        "Pan fry until crisp.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "కూరగాయలను వండండి మరియు సన్నగా కత్తిరించండి.",
+        "బంగాళాదుంపను మష్ చేసి కలపండి.",
+        "ప్యాటీలు ఆకారం చేయండి.",
+        "పాన్‌లో వేయించి క్రిస్పీ చేసుకోండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "सब्ज़ियाँ पकाएँ और कूट लें।",
+        "आलू मैश करें और मिलाएँ।",
+        "पट्टियाँ बनाएँ।",
+        "पैन फ्राई करें जब तक कुरकुरे न हों।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["vegetarian", "healthy", "tea-time"]
+  },
+  {
+    "id": 328,
+    "name": {
+      "english": "Gobi Manchurian",
+      "telugu": "గోబీ మాంచురియన్",
+      "hindi": "गोबी मंचूरियन"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Cauliflower florets tossed in spicy Indo-Chinese sauce.",
+      "telugu": "ఇండో-చైనీస్ సాస్‌లో మసాలా గోబీ పూకల కలయిక.",
+      "hindi": "इंडो-चाइनीज़ सॉस में मसालेदार गोभी के फूल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Cauliflower",
+        "Corn flour",
+        "Soy sauce",
+        "Chili sauce",
+        "Spring onions"
+      ],
+      "telugu": [
+        "గోబీ",
+        "కార్న్ ఫ్లోర్",
+        "సోయా సాస్",
+        "మిర్చి సాస్",
+        "వసంత ఉల్లిపాయ"
+      ],
+      "hindi": [
+        "फूलगोभी",
+        "कॉर्नफ्लोर",
+        "सोया सॉस",
+        "चिल्ली सॉस",
+        "स्प्रिंग प्याज"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Coat cauliflower and fry.",
+        "Prepare sauce with soy and chili.",
+        "Toss cauliflower in sauce.",
+        "Garnish with onions.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "గోబీని పూత చేసి వేయించండి.",
+        "సోయా మరియు మిర్చి తో సాస్ సిద్ధం చేయండి.",
+        "గోబీని సాస్‌లో కలపండి.",
+        "ఉల్లిపాయతో అలంకరించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "गोभी को कोट करके फ्राई करें।",
+        "सोया और चिली से सॉस बनाएं।",
+        "गोभी को सॉस में मिलाएँ।",
+        "प्याज से सजाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["indian-chinese", "spicy", "vegetarian"]
+  },
+  {
+    "id": 329,
+    "name": {
+      "english": "Paneer Pakora",
+      "telugu": "పనీర్ పకోడీ",
+      "hindi": "पनीर पकौड़ा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Paneer slices coated in gram batter and fried crisp.",
+      "telugu": "పన్నీర్ ముక్కలను బేసన్ పిండిలో పూత చేసి వేయించబడును.",
+      "hindi": "पनीर के टुकड़े बेसन के घोल में लपेटे और तले हुए।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Paneer",
+        "Gram flour",
+        "Spices",
+        "Oil",
+        "Salt"
+      ],
+      "telugu": [
+        "పన్నీర్",
+        "బేసన్",
+        "మసాలాలు",
+        "నూనె",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "पनीर",
+        "बेसन",
+        "मसाले",
+        "तेल",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Slice paneer.",
+        "Coat with spiced batter.",
+        "Deep fry until golden.",
+        "Drain excess oil.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "పన్నీర్‌ను తరిగి.",
+        "మసాలా పిండిలో పూత చేయండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "అతిగా నూనె తీసివేయండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "पनीर को काटें।",
+        "मसालेदार घोल से कोट करें।",
+        "गोल्डन होने तक तलें।",
+        "अतिरिक्त तेल निकालें।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["fried", "vegetarian", "tea-time"]
+  },
+  {
+    "id": 330,
+    "name": {
+      "english": "Sweet Corn",
+      "telugu": "స్వీట్ కార్న్",
+      "hindi": "स्वीट कॉर्न"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Butter sautéed sweet corn with herbs.",
+      "telugu": "వెన్నతో వేయించిన స్వీట్ కార్న్ మరియు కొమ్మదారు.",
+      "hindi": "मक्खन में भुना हुआ स्वीट कॉर्न और जड़ी-बूटियाँ।"
+    },
+    "time": "15 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Sweet corn",
+        "Butter",
+        "Salt",
+        "Pepper",
+        "Coriander"
+      ],
+      "telugu": [
+        "స్వీట్ కార్న్",
+        "వెన్న",
+        "ఉప్పు",
+        "మిరియాలు",
+        "కొత్తిమీర"
+      ],
+      "hindi": [
+        "स्वीट कॉर्न",
+        "मक्खन",
+        "नमक",
+        "काली मिर्च",
+        "धनिया"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook corn until tender.",
+        "Sauté in butter.",
+        "Season with salt and pepper.",
+        "Garnish with coriander.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "కార్న్‌ను నెమ్మదిగా ఉడికించండి.",
+        "వెన్నలో వేయించండి.",
+        "ఉప్పు మరియు మిరియాలు జోడించండి.",
+        "కొత్తిమీ పంతో అలంకరించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "कॉर्न को नरम होने तक पकाएँ।",
+        "मक्खन में भूनें।",
+        "नमक और काली मिर्च मिलाएँ।",
+        "धनिया से सजाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["light", "vegetarian", "quick"]
+  },
+  {
+    "id": 331,
+    "name": {
+      "english": "Chakli",
+      "telugu": "చక్లి",
+      "hindi": "चकली"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spiral savory snack made from rice and lentil flours.",
+      "telugu": "బియ్యం మరియు పప్పు పిండి నుంచి తయారైన స్పైరీల్ సరియైన స్నాక్.",
+      "hindi": "चावल और दाल के आटे से बना चक्राकार नमकीन स्नैक।"
+    },
+    "time": "45 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice flour",
+        "Urad dal flour",
+        "Butter",
+        "Cumin seeds",
+        "Oil"
+      ],
+      "telugu": [
+        "బియ్యపు పిండి",
+        "ఉరద్ పిండి",
+        "వెన్న",
+        "జీలకర్ర",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल का आटा",
+        "उड़द दाल का आटा",
+        "मक्खन",
+        "जीरा",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix flours and spices.",
+        "Knead dough with butter.",
+        "Press into spirals.",
+        "Fry until crisp.",
+        "Cool before storing."
+      ],
+      "telugu": [
+        "పిండిని మరియు మసాలాలను కలపండి.",
+        "వెన్నతో పిండి గూడండి.",
+        "స్పైరల్‌లుగా రూపొందించండి.",
+        "కరకరగా వేయించండి.",
+        "నిల్వకి ముందే చల్లార్చండి."
+      ],
+      "hindi": [
+        "आटे और मसाले मिलाएँ।",
+        "मक्खन के साथ आटा गूंधें।",
+        "स्पायरल बनाएं।",
+        "कुरकुरा होने तक तलें।",
+        "स्टोर करने से पहले ठंडा करें।"
+      ]
+    },
+    "tags": ["crispy", "festival", "tea-time"]
+  },
+  {
+    "id": 332,
+    "name": {
+      "english": "Medu Vada",
+      "telugu": "మేడు వడ",
+      "hindi": "मे़दु वडा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Soft lentil donuts seasoned with black pepper.",
+      "telugu": "కాలి మిరియాలతో రుచిచేసిన మృదువైన పప్పు డోనట్‌లు.",
+      "hindi": "काली मिर्च के साथ मसालेदार मुलायम दाल के डोनट्स।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Urad dal",
+        "Black pepper",
+        "Curry leaves",
+        "Oil",
+        "Salt"
+      ],
+      "telugu": [
+        "మినప్పప్పు",
+        "కాలి మిరియాలు",
+        "కరిమిరపకాయలు",
+        "నూనె",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "उड़द दाल",
+        "काली मिर्च",
+        "करी पत्ते",
+        "तेल",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak and grind dal to batter.",
+        "Season with pepper and salt.",
+        "Shape into vadas.",
+        "Deep fry until golden.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పప్పును నానబెట్టి పిండి చేయండి.",
+        "మిరియాలు మరియు ఉప్పుతో రుచిచేసుకోండి.",
+        "వడలు ఆకారం చేయండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "दाल को भिगोकर पीसें।",
+        "काली मिर्च और नमक डालें।",
+        "वड़े बनाएं।",
+        "गोल्डन होने तक तलें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["south-indian", "crispy", "tea-time"]
+  },
+  {
+    "id": 333,
+    "name": {
+      "english": "Sabudana Vada",
+      "telugu": "సబుదానా వడ",
+      "hindi": "साबुदाना वडा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Crunchy fritters made with tapioca pearls and peanuts.",
+      "telugu": "టాపియోకా పంక్తులు మరియు వేరుశనగలతో చేసిన కరకరలాడే ఫ్రిట్టర్స్.",
+      "hindi": "साबूदाना और मूंगफली से बने कुरकुरे फ्रिटर्स।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Sabudana",
+        "Peanuts",
+        "Potatoes",
+        "Green chilies",
+        "Oil"
+      ],
+      "telugu": [
+        "సబుదానా",
+        "వేరుశనగలు",
+        "బంగాళాదుంపలు",
+        "ఆకు మిర్చి",
+        "నూనె"
+      ],
+      "hindi": [
+        "साबूदाना",
+        "मूंगफली",
+        "आलू",
+        "हरी मिर्च",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak sabudana until soft.",
+        "Mix with potatoes and peanuts.",
+        "Form into patties.",
+        "Deep fry until golden.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "సబుదానా నెమ్మదిగా నానబెట్టండి.",
+        "బంగాళాదుంప మరియు వేరుశనగలతో కలపండి.",
+        "ప్యాటీస్ తయారు చేయండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "साबुदाना को नरम होने तक भिगोएं।",
+        "आलू और मूंगफली के साथ मिलाएँ।",
+        "पट्टियाँ बनाएँ।",
+        "गोल्डन होने तक तलें।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["fasting", "crispy", "peanut"]
+  },
+  {
+    "id": 334,
+    "name": {
+      "english": "Aloo Bonda",
+      "telugu": "ఆలో బొండ",
+      "hindi": "आलू बोन्दा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spiced potato balls fried in gram flour batter.",
+      "telugu": "బేసన్ పిండిలో పూత చేసిన మసాలా బంగాళాదుంప బుల్లికలు.",
+      "hindi": "बेसन के घोल में तला हुआ मसालेदार आलू गोला।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Potatoes",
+        "Besan",
+        "Spices",
+        "Coriander",
+        "Oil"
+      ],
+      "telugu": [
+        "బంగాళాదుంపలు",
+        "బేసన్",
+        "మసాలాలు",
+        "కొత్తిమీర",
+        "నూనె"
+      ],
+      "hindi": [
+        "आलू",
+        "बेसन",
+        "मसाले",
+        "धनिया",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil and mash potatoes.",
+        "Season with spices.",
+        "Coat with gram flour batter.",
+        "Deep fry until crisp.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బంగాళాదుంపను ఉడికించి మష్ చేయండి.",
+        "మసాలాలతో రుచిచేసుకోండి.",
+        "బేసన్ పిండిలో పూత చేయండి.",
+        "కరకరలాడే వరకు వేయించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "आलू उबालकर मैश करें।",
+        "मसालों से स्वाद बढ़ाएँ।",
+        "बेसन के घोल से लपेटें।",
+        "कुरकुरा होने तक तलें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["fried", "quick", "snack"]
+  },
+  {
+    "id": 335,
+    "name": {
+      "english": "Masala Peanuts",
+      "telugu": "మసాలా వేరుశనగలు",
+      "hindi": "मसाला मूंगफली"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Peanuts coated in spicy gram flour and roasted crisp.",
+      "telugu": "మసాలా బేసన్‌తో పూత చేసి తినడానికి క్రిస్పీగా వండిన వేరుశనగ.",
+      "hindi": "मसालेदार बेसन में लिपटी कुरकुरी मूंगफली।"
+    },
+    "time": "20 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Peanuts",
+        "Gram flour",
+        "Chili powder",
+        "Salt",
+        "Oil"
+      ],
+      "telugu": [
+        "వేరుశనగలు",
+        "బేసన్",
+        "మిర్చి పొడి",
+        "ఉప్పు",
+        "నూనె"
+      ],
+      "hindi": [
+        "मूंगफली",
+        "बेसन",
+        "मिर्च पाउडर",
+        "नमक",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Coat peanuts in besan mixture.",
+        "Roast until crisp.",
+        "Season with spices.",
+        "Cool completely.",
+        "Store airtight."
+      ],
+      "telugu": [
+        "వేరుశనగలను బేసన్ మిశ్రమంతో పూత చేయండి.",
+        "కరకరగా వేయించండి.",
+        "మసాలాలతో రుచిచేసు.",
+        "పూర్తిగా చల్లబెట్టు.",
+        "ఎయిర్‌టైట్‌లో నిల్వ చేయండి."
+      ],
+      "hindi": [
+        "मूंगफली को बेसन मिश्रण में लपेटें।",
+        "कुरकुरा होने तक भूनें।",
+        "मसालों से स्वाद दें।",
+        "पूरी तरह ठंडा करें।",
+        "एयरटाइट में रखें।"
+      ]
+    },
+    "tags": ["crunchy", "nuts", "party"]
+  },
+  {
+    "id": 336,
+    "name": {
+      "english": "Mint Chutney Sandwich",
+      "telugu": "పుదీనా చట్నీ సాండ్‌విచ్",
+      "hindi": "पुदीना चटनी सैंडविच"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Toasted bread with fresh mint chutney spread.",
+      "telugu": "తరగిన బ్రెడ్‌పై తాజా పుదీనా చట్నీ.",
+      "hindi": "ताजगी भरी पुदीना चटनी से भरी टोस्टेड ब्रेड।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Bread",
+        "Mint leaves",
+        "Coriander",
+        "Yogurt",
+        "Spices"
+      ],
+      "telugu": [
+        "బ్రెడ్",
+        "పుదీనా ఆకులు",
+        "కొత్తిమీర",
+        "పెరుగు",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "ब्रेड",
+        "पुदीने के पत्ते",
+        "धनिया",
+        "दही",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend mint, coriander and yogurt.",
+        "Add spices and salt.",
+        "Spread on bread.",
+        "Toast lightly.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పుదీనా, కొత్తిమీర, పెరుగు మిక్స్ చేయండి.",
+        "మసాలాలు మరియు ఉప్పు జోడించండి.",
+        "బ్రెడ్‌పై పూసండి.",
+        "లేతగా టోస్ట్ చేయండి.",
+        "వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "पुदीना, धनिया और दही मिलाएँ।",
+        "मसाले और नमक डालें।",
+        "ब्रेड पर फैलाएँ।",
+        "हल्का टोस्ट करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["sandwich", "fresh", "vegetarian"]
+  },
+  {
+    "id": 337,
+    "name": {
+      "english": "Chocolate Samosa",
+      "telugu": "చాక్లెట్ సమోసా",
+      "hindi": "चॉकलेट समोसा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Sweet samosa filled with chocolate and nuts.",
+      "telugu": "చాక్లెట్ మరియు గింజలతో నింపిన తియ్యని సమోసా.",
+      "hindi": "चॉकलेट और मेवों से भरा मीठा समोसा।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Maida",
+        "Chocolate",
+        "Nuts",
+        "Sugar",
+        "Oil"
+      ],
+      "telugu": [
+        "మైదా",
+        "చాక్లెట్",
+        "గింజలు",
+        "చక్కెర",
+        "నూనె"
+      ],
+      "hindi": [
+        "मैदा",
+        "चॉकलेट",
+        "मेवे",
+        "चीनी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare pastry dough.",
+        "Fill with chocolate and nuts.",
+        "Seal edges.",
+        "Deep fry until golden.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పేస్ట్రీ పిండి తయారుచేయండి.",
+        "చాక్లెట్ మరియు గింజలను నింపండి.",
+        "అంచులను మూసివేయండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "पेस्ट्री आटा तैयार करें।",
+        "चॉकलेट और मेवे भरें।",
+        "किनारों को सील करें।",
+        "गोल्डन होने तक तलें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["sweet", "fusion", "dessert"]
+  },
+  {
+    "id": 338,
+    "name": {
+      "english": "Mysore Pak",
+      "telugu": "మైసూరు పాక్",
+      "hindi": "मैसूर पक"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Rich gram flour fudge flavored with ghee.",
+      "telugu": "నెయ్యితో రుచి పెంచిన బియ్యం పిర్టీ మిఠాయి.",
+      "hindi": "घी से खुशबूदार बेसन की मिठाई।"
+    },
+    "time": "40 min",
+    "servings": 8,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Gram flour",
+        "Ghee",
+        "Sugar",
+        "Cardamom",
+        "Water"
+      ],
+      "telugu": [
+        "బేసన్",
+        "నెయ్యి",
+        "చెక్కెర",
+        "ఏలక",
+        "నీరు"
+      ],
+      "hindi": [
+        "बेसन",
+        "घी",
+        "चीनी",
+        "इलायची",
+        "पानी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Roast gram flour in ghee.",
+        "Boil sugar syrup.",
+        "Combine and cook until thick.",
+        "Pour into tray.",
+        "Cut when set."
+      ],
+      "telugu": [
+        "నెయ్యిలో బేసన్ వేయించండి.",
+        "చెక్కెర సిరప్ మరిగించండి.",
+        "కలిపి మందంగా మారే వరకు వండండి.",
+        "త్రేలో పోయండి.",
+        "సెట్ అయ్యాక కట్ చేయండి."
+      ],
+      "hindi": [
+        "घी में बेसन भूनें।",
+        "चीनी की चाशनी उबालें।",
+        "मिश्रण गाढ़ा होने तक पकाएँ।",
+        "ट्रे में डालें।",
+        "सेट होने पर काटें।"
+      ]
+    },
+    "tags": ["sweet", "festive", "traditional"]
+  },
+  {
+    "id": 339,
+    "name": {
+      "english": "Rava Ladoo",
+      "telugu": "రవ లడ్డు",
+      "hindi": "रवा लड्डू"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Semolina sweet balls flavored with nuts and ghee.",
+      "telugu": "గింజలు మరియు నెయ్యితో సువాసన కలిగిన రవ లడ్డు.",
+      "hindi": "मेवों और घी से सुगंधित सूजी के लड्डू।"
+    },
+    "time": "30 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Semolina",
+        "Sugar",
+        "Ghee",
+        "Cardamom",
+        "Cashews"
+      ],
+      "telugu": [
+        "రవ",
+        "చక్కెర",
+        "నెయ్యి",
+        "ఏలక",
+        "కజు"
+      ],
+      "hindi": [
+        "सूजी",
+        "चीनी",
+        "घी",
+        "इलायची",
+        "काजू"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Roast semolina until fragrant.",
+        "Mix with sugar and ghee.",
+        "Add nuts and cardamom.",
+        "Shape into balls.",
+        "Cool before serving."
+      ],
+      "telugu": [
+        "రవను సువాసన వచ్చే వరకు వేయించండి.",
+        "చక్కెర మరియు నెయ్యితో కలిపండి.",
+        "గింజలు మరియు ఎలక జోడించండి.",
+        "బంతులుగా ఆకారం చేయండి.",
+        "వెట్టుకోవడానికి ముందు చల్లబెట్టు."
+      ],
+      "hindi": [
+        "सूजी को सुगंध आने तक भूनें।",
+        "चीनी और घी मिलाएँ।",
+        "मेवे और इलायची डालें।",
+        "गेंदें बनाएँ।",
+        "परोसने से पहले ठंडा करें।"
+      ]
+    },
+    "tags": ["sweet", "festive", "easy"]
+  },
+  {
+    "id": 340,
+    "name": {
+      "english": "Coconut Ladoo",
+      "telugu": "కొబ్బరి లడ్డు",
+      "hindi": "नारियल लड्डू"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Sweet coconut balls made with condensed milk.",
+      "telugu": "కాండెన్స్ చేసిన పాలు తో చేసిన కొబ్బరి బంతులు.",
+      "hindi": "कंडेंस्ड मिल्क से बने नारियल के मीठे गोले।"
+    },
+    "time": "20 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Desiccated coconut",
+        "Condensed milk",
+        "Cardamom",
+        "Ghee"
+      ],
+      "telugu": [
+        "ఉడికించిన కొబ్బరి",
+        "పెరుగు పాల",
+        "ఏలక",
+        "నెయ్యి"
+      ],
+      "hindi": [
+        "सूखा नारियल",
+        "कंडेंस्ड मिल्क",
+        "इलायची",
+        "घी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Roast coconut lightly.",
+        "Mix with condensed milk.",
+        "Add cardamom.",
+        "Shape into balls.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "కొబ్బరిని తేలికగా వేయించండి.",
+        "కాండెన్స్ పాలు కలపండి.",
+        "ఏలక జోడించండి.",
+        "బంతులుగా చేయండి.",
+        "చల్లగా వడ్డించండి."
+      ],
+      "hindi": [
+        "नारियल को हल्का भूनें।",
+        "कंडेंस्ड मिल्क मिलाएँ।",
+        "इलायची डालें।",
+        "गेंदें बनाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["sweet", "dessert", "easy"]
+  },
+  {
+    "id": 341,
+    "name": {
+      "english": "Methi Mathri",
+      "telugu": "మెంతి మత్రి",
+      "hindi": "मेथी मठरी"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Flaky savory biscuits with fenugreek flavor.",
+      "telugu": "మెంతితో రుచి కలిగిన ఫ్లేకీ సావరి బిస్కెట్లు.",
+      "hindi": "मेथी फ्लेवर वाले कुरकुरे नमकीन बिस्किट।"
+    },
+    "time": "40 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Maida",
+        "Fenugreek leaves",
+        "Salt",
+        "Oil",
+        "Carom seeds"
+      ],
+      "telugu": [
+        "మైదా",
+        "మెంతి ఆకులు",
+        "ఉప్పు",
+        "నూనె",
+        "అజwain"
+      ],
+      "hindi": [
+        "मैदा",
+        "मेथी पत्ते",
+        "नमक",
+        "तेल",
+        "अजवाइन"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix flour with methi and spices.",
+        "Knead into dough.",
+        "Roll and cut pieces.",
+        "Fry until golden.",
+        "Cool and store."
+      ],
+      "telugu": [
+        "పిండిని మెంతి మరియు మసాలాలతో కలపండి.",
+        "పిండి కలిపి ఉంచండి.",
+        "గుండ్రని ఆకారంలో కత్తిరించండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "చల్లబెట్టి నిల్వ చేయండి."
+      ],
+      "hindi": [
+        "मैदा में मेथी और मसाले मिलाएँ।",
+        "आटा गूंधें।",
+        "टुकड़े काटें।",
+        "गोल्डन होने तक तलें।",
+        "ठंडा करके रखें।"
+      ]
+    },
+    "tags": ["crispy", "tea-time", "savory"]
+  },
+  {
+    "id": 342,
+    "name": {
+      "english": "Ajwain Biscuits",
+      "telugu": "ఆజవైన్ బిస్కెట్లు",
+      "hindi": "अजवाइन बिस्कुट"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Savory biscuits scented with carom seeds.",
+      "telugu": "ఆజవైన్ సువాసనతో కూడిన సావరి బిస్కెట్లు.",
+      "hindi": "अजवाइन की खुशबू वाले नमकीन बिस्कुट।"
+    },
+    "time": "30 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Maida",
+        "Butter",
+        "Ajwain",
+        "Salt",
+        "Baking powder"
+      ],
+      "telugu": [
+        "మైదా",
+        "వెన్న",
+        "ఆజవైన్",
+        "ఉప్పు",
+        "బేకింగ్ పౌడర్"
+      ],
+      "hindi": [
+        "मैदा",
+        "मक्खन",
+        "अजवाइन",
+        "नमक",
+        "बेकिंग पाउडर"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix flour, butter and ajwain.",
+        "Knead into a dough.",
+        "Roll and cut shapes.",
+        "Bake until crisp.",
+        "Cool and enjoy."
+      ],
+      "telugu": [
+        "పిండి, వెన్న మరియు ఆజవైన్ కలపండి.",
+        "పిండిగా కడగండి.",
+        "పొరుగులో ఆకార్లు కట్ చేయండి.",
+        "కరికరగా బేక్ చేయండి.",
+        "చల్లబెట్టి ఆనందించండి."
+      ],
+      "hindi": [
+        "आटा, मक्खन और अजवाइन मिलाएँ।",
+        "आटा गूंधें।",
+        "आकार में काटें।",
+        "कुरकुरा होने तक बेक करें।",
+        "ठंडा करके खाएँ।"
+      ]
+    },
+    "tags": ["biscuits", "savory", "tea-time"]
+  },
+  {
+    "id": 343,
+    "name": {
+      "english": "Mini Dosa",
+      "telugu": "మినీ దోస",
+      "hindi": "मिनी डोसा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Small crispy dosas perfect for snacking.",
+      "telugu": "స్నాకింగ్‌కు సరిపోయే చిన్న క్రిస్పీ దోస.",
+      "hindi": "नाश्ते के लिए परफेक्ट छोटी कुरकुरी डोसा।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Dosa batter",
+        "Oil",
+        "Salt"
+      ],
+      "telugu": [
+        "దోసా బ్యాటర్",
+        "నూనె",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "डोसा बैटर",
+        "तेल",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat pan and spread small dosa batter.",
+        "Drizzle oil around edges.",
+        "Cook until crisp.",
+        "Flip if needed.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "పాన్ వేడి చేసి చిన్న దోస బ్యాటర్ పూసండి.",
+        "అంచుల చుట్టూ నూనె పోసండి.",
+        "కరకరగానివరకు పండు.",
+        "తిరగాల్సిన అవసరం ఉంటే తిరగండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "पैन गरम करें और छोटी डोसा घोल फैलाएँ।",
+        "किनारों पर तेल डालें।",
+        "करकरा होने तक पकाएँ।",
+        "जरूरत हो तो पलटें।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["south-indian", "crispy", "appetizer"]
+  },
+  {
+    "id": 344,
+    "name": {
+      "english": "Pesarattu",
+      "telugu": "పెసరట్టు",
+      "hindi": "पेसरटो"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Green gram pancake served with ginger chutney.",
+      "telugu": "అల్లం చట్నీతో వడ్డించే పచ్చి పప్పు దోస.",
+      "hindi": "अदरक की चटनी के साथ परोसा जाने वाला हरी मूंग का पैनकेक।"
+    },
+    "time": "30 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Moong dal",
+        "Ginger",
+        "Green chilies",
+        "Onion",
+        "Oil"
+      ],
+      "telugu": [
+        "పచ్చి పప్పు",
+        "అల్లం",
+        "ఆకు మిర్చి",
+        "ఉల్లిపాయ",
+        "నూనె"
+      ],
+      "hindi": [
+        "मूंग दाल",
+        "अदरक",
+        "हरी मिर्च",
+        "प्याज़",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak and grind moong dal.",
+        "Add ginger and chilies.",
+        "Spread batter on hot pan.",
+        "Cook until crisp.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "ముంచి పచ్చి పప్పును పిండి చేయండి.",
+        "అల్లం మరియు మిర్చి జోడించండి.",
+        "బ్యాటర్‌ను పాన్‌పై పూయండి.",
+        "కరకరగా వండండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "मूंग दाल भिगोकर पीसें।",
+        "अदरक और मिर्च डालें।",
+        "गर्म पैन पर घोल फैलाएँ।",
+        "कुरकुरा होने तक पकाएँ।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["south-indian", "healthy", "gluten-free"]
+  },
+  {
+    "id": 345,
+    "name": {
+      "english": "Vegetable Cutlet",
+      "telugu": "కూరగాయి కట్లెట్",
+      "hindi": "सब्ज़ी कटलेट"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Pan-fried mixed vegetable patties with breadcrumbs.",
+      "telugu": "బ్రెడ్ క్రంబ్స్‌తో పాన్‌లో వేయించిన గులాబ ప్యాటీలు.",
+      "hindi": "ब्रेडक्रम्ब्स से कोटेड मिश्रित सब्जी के पैटीज़।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Potatoes",
+        "Mixed vegetables",
+        "Breadcrumbs",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బంగాళాదుంపలు",
+        "కలిపిన కూరగాయలు",
+        "బ్రెడ్ క్రంబ్స్",
+        "మసాలాలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "आलू",
+        "मिश्रित सब्ज़ियाँ",
+        "ब्रेडक्रम्ब्स",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil and mash vegetables.",
+        "Mix with spices and crumbs.",
+        "Shape into cutlets.",
+        "Pan fry until brown.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "కూరగాయలను టమట పించి మష్ చేయండి.",
+        "మసాలాలు మరియు క్రంబ్స్‌తో కలపండి.",
+        "కట్లెట్లను ఆకారం చేయండి.",
+        "పాన్‌లో వేయించి బ్రౌన్ చేయండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "सब्ज़ियाँ उबालकर मैश करें।",
+        "मसाले और ब्रेडक्रम्ब्स मिलाएँ।",
+        "कटलेट बनाएँ।",
+        "पैन में भूनें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["vegetarian", "crispy", "kids-friendly"]
+  },
+  {
+    "id": 346,
+    "name": {
+      "english": "Egg Puff",
+      "telugu": "ఎగ్ పఫ్",
+      "hindi": "एग पफ"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Flaky pastry filled with spiced egg and vegetables.",
+      "telugu": "మసాలా గుడ్డు మరియు కూరగాయలతో నింపిన ఫ్లేకీ పేస్ట్రీ.",
+      "hindi": "मसालेदार अंडा और सब्ज़ी से भरी खस्ता पेस्ट्री।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Puff pastry",
+        "Eggs",
+        "Onion",
+        "Spices",
+        "Butter"
+      ],
+      "telugu": [
+        "పఫ్ పిండీ",
+        "గుడ్లు",
+        "ఉల్లిపాయ",
+        "మసాలాలు",
+        "వెన్న"
+      ],
+      "hindi": [
+        "पफ पेस्ट्री",
+        "अंडे",
+        "प्याज",
+        "मसाले",
+        "मक्खन"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook egg with spices.",
+        "Fill pastry squares.",
+        "Seal and bake.",
+        "Bake until puffed.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "గుడ్డును మసాలాలతో వండండి.",
+        "పెస్ట్्रीలో నింపండి.",
+        "ముళ్లను మూసుకోండి.",
+        "పఫ్ అయ్యే వరకు బేక్ చేయండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "अंडे को मसालों के साथ पकाएँ।",
+        "पेस्ट्री स्क्वेयर में भरें।",
+        "सील करें।",
+        "पफ होने तक बेक करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["pastry", "savory", "tea-time"]
+  },
+  {
+    "id": 347,
+    "name": {
+      "english": "Spinach Pakora",
+      "telugu": "పాలకూర పకోడీ",
+      "hindi": "पालक पकौड़ा"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Spinach leaves dipped in spiced batter and fried.",
+      "telugu": "పాలకూర ఆకులను మసాలా పిండిలో నానబెట్టి వేయించినవి.",
+      "hindi": "मसालेदार घोल में डुबे पालक के पत्ते, तले हुए।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Spinach leaves",
+        "Gram flour",
+        "Chili powder",
+        "Salt",
+        "Oil"
+      ],
+      "telugu": [
+        "పాలకూర ఆకులు",
+        "బేసన్",
+        "మిర్చి పొడి",
+        "ఉప్పు",
+        "నూనె"
+      ],
+      "hindi": [
+        "पालक के पत्ते",
+        "बेसन",
+        "मिर्च पाउडर",
+        "नमक",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Make gram flour batter.",
+        "Dip spinach leaves in batter.",
+        "Deep fry until crisp.",
+        "Drain oil.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బేసన్ పిండిని తయారుచేయండి.",
+        "పాలకూర ఆకులను పిండిలో నానబెట్టు.",
+        "కరకరగా వేయించండి.",
+        "నూనె తీసివేయండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "बेसन का घोल बनाएं।",
+        "पालक के पत्तों को घोल में डुबोएँ।",
+        "कुरकुरा होने तक तलें।",
+        "तेल छान लें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["vegetarian", "fried", "healthy"]
+  },
+  {
+    "id": 348,
+    "name": {
+      "english": "Mini Idli",
+      "telugu": "మినీ ఇడ్లీ",
+      "hindi": "मिनी इडली"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Soft bite-sized idlis perfect for snacking.",
+      "telugu": "స్నాకింగ్‌కు సరిపోయే చిన్న ఇడ్లీలు.",
+      "hindi": "नाश्ते के लिए एकदम सही नरम मिनी इडली।"
+    },
+    "time": "25 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Idli batter",
+        "Oil",
+        "Salt",
+        "Tempering spices"
+      ],
+      "telugu": [
+        "ఇడ్లీ బ్యాటర్",
+        "నూనె",
+        "ఉప్పు",
+        "తడక మసాలాలు"
+      ],
+      "hindi": [
+        "इडली बैटर",
+        "तेल",
+        "नमक",
+        "तड़के के मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Pour batter into mini idli molds.",
+        "Steam until soft.",
+        "Temper spices in oil.",
+        "Pour over idlis.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "బ్యాటర్‌ను మినీ ఇడ్లీ మూల్డ్లలో పోసండి.",
+        "మృదువుగా అయ్యేవరకు ఆవులో ఉడికించండి.",
+        "నూనెలో మసాలాలను వేయించండి.",
+        "ఇడ్లీలపై పోసండి.",
+        "వేడి వేడి వడ్డించండి."
+      ],
+      "hindi": [
+        "घोल को मिनी इडली मोल्ड में डालें।",
+        "नरम होने तक स्टीम करें।",
+        "तेल में मसाले तड़का लगाएँ।",
+        "इडली पर डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["south-indian", "soft", "quick"]
+  },
+  {
+    "id": 349,
+    "name": {
+      "english": "Kathi Roll",
+      "telugu": "కాథీ రోల్",
+      "hindi": "काठी रोल"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Flatbread roll filled with spicy paneer and vegetables.",
+      "telugu": "మసాలా పన్నీర్ మరియు కూరగాయలతో నింపిన ఫ్లాట్ బ్రెడ్ రోల్.",
+      "hindi": "मसालेदार पनीर और सब्ज़ियों से भरा फ्लैटब्रेड रोल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Paratha",
+        "Paneer",
+        "Onion",
+        "Capsicum",
+        "Spices"
+      ],
+      "telugu": [
+        "పరాటా",
+        "పన్నీర్",
+        "ఉల్లిపాయ",
+        "క్యాప్సికం",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "पराठा",
+        "पनीर",
+        "प्याज",
+        "शिमला मिर्च",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté paneer and vegetables.",
+        "Season with spices.",
+        "Fill paratha and roll.",
+        "Toast lightly.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "పన్నీర్ మరియు కూరగాయలను వేయించండి.",
+        "మసాలాలతో రుచిచేసుకోండి.",
+        "పరాటాలో నింపి రోల్ చేయండి.",
+        "సన్నగా టోస్ట్ చేయండి.",
+        "చట్నీతో వడ్డించండి."
+      ],
+      "hindi": [
+        "पनीर और सब्ज़ियाँ भूनें।",
+        "मसाले डालें।",
+        "पराठा भरकर रोल करें।",
+        "हल्का टोस्ट करें।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["wrap", "street-food", "savory"]
+  },
+  {
+    "id": 350,
+    "name": {
+      "english": "Potato Spring Roll",
+      "telugu": "బంగాళాదుంప స్ప్రింగ్ రోల్",
+      "hindi": "आलू स्प्रिंग रोल"
+    },
+    "category": {
+      "english": "Snacks",
+      "telugu": "స్నాక్స్",
+      "hindi": "स्नैक्स"
+    },
+    "description": {
+      "english": "Crispy rolls filled with spiced potato and vegetables.",
+      "telugu": "మసాలా బంగాళాదుంప మరియు కూరగాయలతో నింపిన క్రిస్పీ రోల్స్.",
+      "hindi": "मसालेदार आलू और सब्ज़ियों से भरे कुरकुरे रोल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Spring roll wrappers",
+        "Potatoes",
+        "Carrot",
+        "Cabbage",
+        "Oil"
+      ],
+      "telugu": [
+        "స్ప్రింగ్ రోల్ రాపర్లు",
+        "బంగాళాదుంపలు",
+        "గ్యాజర్",
+        "క్యాబేజీ",
+        "నూనె"
+      ],
+      "hindi": [
+        "स्प्रिंग रोल रैपर्स",
+        "आलू",
+        "गाजर",
+        "पत्तागोभी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook and season vegetable filling.",
+        "Fill wrappers and roll.",
+        "Seal edges with water.",
+        "Deep fry until golden.",
+        "Serve with sauce."
+      ],
+      "telugu": [
+        "కూరగాయ పూరణను వండండి.",
+        "రాపర్లు నింపి రోల్ చేయండి.",
+        "నీటితో అంచులను మూయండి.",
+        "బంగారు అయ్యేవరకు వేయించండి.",
+        "సాస్‌తో వడ్డించండి."
+      ],
+      "hindi": [
+        "सब्ज़ियों की भरावन पकाएँ।",
+        "रैप भरकर रोल करें।",
+        "पानी से किनारों को सील करें।",
+        "गोल्डन होने तक तलें।",
+        "सॉस के साथ परोसें।"
+      ]
+    },
+    "tags": ["fried", "crispy", "party"]
+  }
+]
+

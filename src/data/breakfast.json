@@ -1,0 +1,1907 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "english": "Idli",
+      "telugu": "ఇడ్లీ",
+      "hindi": "इडली"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Soft steamed rice cakes.",
+      "telugu": "మృదువైన ఆవిరి ఇడ్లీలు.",
+      "hindi": "नरम भाप में पकी इडली।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Idli Batter - 2 cups",
+        "Water",
+        "Oil"
+      ],
+      "telugu": [
+        "ఇడ్లీ పిండి - 2 కప్పులు",
+        "నీరు",
+        "నూనె"
+      ],
+      "hindi": [
+        "इडली बैटर - 2 कप",
+        "पानी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Grease idli plates.",
+        "Pour batter.",
+        "Steam for 12 minutes.",
+        "Remove carefully.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "ఇడ్లీ ప్లేట్లకు నూనె రాయండి.",
+        "పిండిని పోయండి.",
+        "12 నిమిషాలు ఆవిరిలో ఉడికించండి.",
+        "జాగ్రత్తగా తీసేయండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "इडली प्लेट में तेल लगाएं।",
+        "बैटर डालें।",
+        "12 मिनट स्टीम करें।",
+        "सावधानी से निकालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "video": "https://www.youtube.com/watch?v=recipe_video",
+    "tags": ["breakfast", "idli", "south-indian"]
+  },
+
+  {
+    "id": 2,
+    "name": {
+      "english": "Dosa",
+      "telugu": "దోస",
+      "hindi": "डोसा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Crispy South Indian dosa.",
+      "telugu": "కరకరలాడే దక్షిణ భారత దోస.",
+      "hindi": "कुरकुरा दक्षिण भारतीय डोसा।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Dosa Batter",
+        "Oil"
+      ],
+      "telugu": [
+        "దోస పిండి",
+        "నూనె"
+      ],
+      "hindi": [
+        "डोसा बैटर",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat dosa pan.",
+        "Spread batter.",
+        "Add few drops of oil.",
+        "Cook until crispy.",
+        "Serve with chutney."
+      ],
+      "telugu": [
+        "దోస పెనం వేడి చేయండి.",
+        "పిండిని పలుచగా పరచండి.",
+        "కొద్దిగా నూనె వేయండి.",
+        "కరకరలాడే వరకు కాల్చండి.",
+        "చట్నీతో సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "डोसा तवा गरम करें।",
+        "बैटर फैलाएं।",
+        "थोड़ा तेल डालें।",
+        "कुरकुरा होने तक पकाएं।",
+        "चटनी के साथ परोसें।"
+      ]
+    },
+    "tags": ["breakfast", "dosa", "south-indian"]
+  },
+
+  {
+    "id": 3,
+    "name": {
+      "english": "Upma",
+      "telugu": "ఉప్మా",
+      "hindi": "उपमा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Quick semolina breakfast.",
+      "telugu": "త్వరగా తయారయ్యే రవ్వ ఉప్మా.",
+      "hindi": "जल्दी बनने वाला सूजी उपमा।"
+    },
+    "time": "20 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rava",
+        "Onion",
+        "Green Chilli",
+        "Water",
+        "Salt"
+      ],
+      "telugu": [
+        "రవ్వ",
+        "ఉల్లిపాయ",
+        "పచ్చిమిర్చి",
+        "నీరు",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "सूजी",
+        "प्याज",
+        "हरी मिर्च",
+        "पानी",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Roast rava.",
+        "Saute onion and chilli.",
+        "Add water.",
+        "Add roasted rava.",
+        "Cook and serve."
+      ],
+      "telugu": [
+        "రవ్వ వేయించండి.",
+        "ఉల్లిపాయ, మిర్చి వేయించండి.",
+        "నీరు పోయండి.",
+        "రవ్వ వేయండి.",
+        "ఉడికించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सूजी भूनें।",
+        "प्याज और मिर्च भूनें।",
+        "पानी डालें।",
+        "सूजी डालें।",
+        "पकाकर परोसें।"
+      ]
+    },
+    "tags": ["breakfast", "upma", "quick"]
+  },
+
+  {
+    "id": 4,
+    "name": {
+      "english": "Pongal",
+      "telugu": "పొంగల్",
+      "hindi": "पोंगल"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Traditional rice and dal breakfast.",
+      "telugu": "సాంప్రదాయ బియ్యం మరియు పప్పు వంటకం.",
+      "hindi": "पारंपरिक चावल और दाल का नाश्ता।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Moong Dal",
+        "Pepper",
+        "Ghee",
+        "Cashews"
+      ],
+      "telugu": [
+        "బియ్యం",
+        "పెసరపప్పు",
+        "మిరియాలు",
+        "నెయ్యి",
+        "జీడిపప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "मूंग दाल",
+        "काली मिर्च",
+        "घी",
+        "काजू"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice and dal together.",
+        "Prepare tempering.",
+        "Add ghee and pepper.",
+        "Mix well.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బియ్యం మరియు పప్పు కలిపి ఉడికించండి.",
+        "తాలింపు సిద్ధం చేయండి.",
+        "నెయ్యి మరియు మిరియాలు వేయండి.",
+        "బాగా కలపండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और दाल साथ पकाएं।",
+        "तड़का तैयार करें।",
+        "घी और काली मिर्च डालें।",
+        "अच्छी तरह मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["breakfast", "pongal", "traditional"]
+  },
+
+  {
+    "id": 7,
+    "name": {
+      "english": "Poha",
+      "telugu": "పొహ",
+      "hindi": "पोहा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Flattened rice breakfast.",
+      "telugu": "చప్పట్లు చేసిన బియ్యం.",
+      "hindi": "चपटा किया हुआ चावल।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Poha - 2 cups", "Onions", "Peanuts", "Oil"],
+      "telugu": ["పొహ - 2 కప్పులు", "ఉల్లిపాయలు", "వేరుశెనగ", "నూనె"],
+      "hindi": ["पोहा - 2 कप", "प्याज", "मूंगफली", "तेल"]
+    },
+    "instructions": {
+      "english": ["Rinse poha", "Sauté onions", "Add peanuts", "Mix poha", "Serve warm"],
+      "telugu": ["పొహను కడిగిపోయండి", "ఉల్లిపాయలు తలుక్కోండి", "వేరుశెనగ కలపండి", "పొహను కలపండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["पोहा धोएं", "प्याज भूनें", "मूंगफली डालें", "पोहा मिलाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "easy", "quick"]
+  },
+
+  {
+    "id": 8,
+    "name": {
+      "english": "Paratha",
+      "telugu": "పరాఠా",
+      "hindi": "पराठा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Layered Indian bread.",
+      "telugu": "పొరలుగల భారతీయ రొట్టె.",
+      "hindi": "तहदार भारतीय ब्रेड।"
+    },
+    "time": "30 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Wheat flour", "Water", "Salt", "Ghee"],
+      "telugu": ["గోధుమ పిండి", "నీరు", "ఉప్పు", "నెయ్యి"],
+      "hindi": ["गेहूं का आटा", "पानी", "नमक", "घी"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Rest dough", "Roll thin", "Apply ghee", "Cook on tawa"],
+      "telugu": ["పిండి చేయండి", "పిండిని విశ్రాంతి ఇవ్వండి", "సన్నగా చుట్టండి", "నెయ్యి రాయండి", "తవపై కాల్చండి"],
+      "hindi": ["आटा गूंधें", "आटा आराम दें", "पतला रोलें", "घी लगाएं", "तवे पर पकाएं"]
+    },
+    "tags": ["breakfast", "bread", "indian"]
+  },
+
+  {
+    "id": 9,
+    "name": {
+      "english": "Pesarattu",
+      "telugu": "పెసరట్టు",
+      "hindi": "पेसरट्टु"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Green moong dal pancake.",
+      "telugu": "ఆకుపచ్చ మూంగ పప్పు పాన్‌కేక్.",
+      "hindi": "हरी मूंग दाल पेनकेक।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Green moong dal", "Ginger", "Green chili", "Oil"],
+      "telugu": ["ఆకుపచ్చ మూంగ పప్పు", "ఆద్రక", "ఆకుపచ్చ మిర్చి", "నూనె"],
+      "hindi": ["हरी मूंग दाल", "अदरक", "हरी मिर्च", "तेल"]
+    },
+    "instructions": {
+      "english": ["Grind dal", "Make paste", "Cook on griddle", "Serve with chutney"],
+      "telugu": ["పప్పును నిమ్మాడండి", "గుEither్ర చేయండి", "గ్రిడిల్‌పై కాల్చండి", "చట్నీతో సర్వ్ చేయండి"],
+      "hindi": ["दाल पीसें", "पेस्ट बनाएं", "ग्रिडल पर पकाएं", "चटनी के साथ परोसें"]
+    },
+    "tags": ["breakfast", "dosa", "healthy"]
+  },
+
+  {
+    "id": 10,
+    "name": {
+      "english": "Uttapam",
+      "telugu": "ఉత్తపం",
+      "hindi": "उत्तपम"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Thick rice pancake.",
+      "telugu": "నిబిడ బియ్యం కేక్.",
+      "hindi": "मोटा चावल का पेनकेक।"
+    },
+    "time": "20 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Dosa batter", "Onions", "Tomatoes", "Oil"],
+      "telugu": ["దోస పిండి", "ఉల్లిపాయలు", "టమోటోలు", "నూనె"],
+      "hindi": ["डोसा बैटर", "प्याज", "टमाटर", "तेल"]
+    },
+    "instructions": {
+      "english": ["Heat tawa", "Pour batter", "Add toppings", "Cook thick", "Serve hot"],
+      "telugu": ["తవ వేడి చేయండి", "పిండిని పోయండి", "టాపింగ్‌లు కలపండి", "నిబిడంగా కాల్చండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["तवा गरम करें", "बैटर डालें", "टॉपिंग जोड़ें", "मोटा पकाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "dosa", "south-indian"]
+  },
+
+  {
+    "id": 11,
+    "name": {
+      "english": "Pancakes",
+      "telugu": "పాన్‌కేకులు",
+      "hindi": "पेनकेक्स"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Fluffy breakfast cakes.",
+      "telugu": "పొర పొర ఆహార కేకులు.",
+      "hindi": "फूफी नाश्ता केक।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Flour", "Eggs", "Milk", "Baking powder"],
+      "telugu": ["పిండి", "గుడ్లు", "పాలు", "బేకింగ్ పౌడర్"],
+      "hindi": ["मैदा", "अंडे", "दूध", "बेकिंग पाउडर"]
+    },
+    "instructions": {
+      "english": ["Mix dry", "Add wet", "Make batter", "Cook on griddle", "Top with syrup"],
+      "telugu": ["ఎండిపోయినవి కలపండి", "తేమను కలపండి", "పిండి చేయండి", "గ్రిడిల్‌పై కాల్చండి", "సిరప్‌తో టాప్ చేయండి"],
+      "hindi": ["सूखा मिलाएं", "गीला जोड़ें", "बैटर बनाएं", "ग्रिडल पर पकाएं", "सिरप से टॉप करें"]
+    },
+    "tags": ["breakfast", "sweet", "easy"]
+  },
+
+  {
+    "id": 12,
+    "name": {
+      "english": "Oatmeal",
+      "telugu": "ఓట్‌మీల్",
+      "hindi": "ओटमील"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Nutritious grain bowl.",
+      "telugu": "పోషకమైన ధాన్యం.",
+      "hindi": "पौष्टिक अनाज का कटोरा।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Oats", "Milk", "Honey", "Fruits"],
+      "telugu": ["ఓట్‌లు", "పాలు", "తేనె", "పండ్లు"],
+      "hindi": ["ओट्स", "दूध", "शहद", "फल"]
+    },
+    "instructions": {
+      "english": ["Boil milk", "Add oats", "Simmer", "Add honey", "Top with fruits"],
+      "telugu": ["పాలు ఫుడ్చండి", "ఓట్‌లు కలపండి", "నెమ్మదిగా ఆవిరిలో ఉడికించండి", "తేనె కలపండి", "పండ్లతో టాప్ చేయండి"],
+      "hindi": ["दूध उबालें", "ओट्स जोड़ें", "धीमी आंच पर पकाएं", "शहद जोड़ें", "फल से टॉप करें"]
+    },
+    "tags": ["breakfast", "healthy", "quick"]
+  },
+
+  {
+    "id": 13,
+    "name": {
+      "english": "Eggs",
+      "telugu": "గుడ్లు",
+      "hindi": "अंडे"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Scrambled eggs.",
+      "telugu": "గోళ్లమైన గుడ్లు.",
+      "hindi": "स्क्रैम्बल्ड अंडे।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Eggs", "Butter", "Salt", "Pepper"],
+      "telugu": ["గుడ్లు", "బటర్", "ఉప్పు", "కాలిమిర్చ"],
+      "hindi": ["अंडे", "मक्खन", "नमक", "काली मिर्च"]
+    },
+    "instructions": {
+      "english": ["Beat eggs", "Melt butter", "Cook eggs", "Season", "Serve"],
+      "telugu": ["గుడ్లను కొట్టండి", "బటర్ కరిగించండి", "గుడ్లను కాల్చండి", "సీజన్ చేయండి", "సర్వ్ చేయండి"],
+      "hindi": ["अंडे फेंटें", "मक्खन पिघलाएं", "अंडे पकाएं", "नमक-मिर्च डालें", "परोसें"]
+    },
+    "tags": ["breakfast", "protein", "quick"]
+  },
+
+  {
+    "id": 14,
+    "name": {
+      "english": "Cornflakes",
+      "telugu": "కార్న్‌ఫ్లేక్‌లు",
+      "hindi": "कॉर्नफ्लेक्स"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Ready cereal with milk.",
+      "telugu": "పాలుతో సిద్ధం సిరియల్.",
+      "hindi": "दूध के साथ तैयार अनाज।"
+    },
+    "time": "5 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Cornflakes", "Milk", "Sugar", "Fruits"],
+      "telugu": ["కార్న్‌ఫ్లేక్‌లు", "పాలు", "చక్కెర", "పండ్లు"],
+      "hindi": ["कॉर्नफ्लेक्स", "दूध", "चीनी", "फल"]
+    },
+    "instructions": {
+      "english": ["Pour cereal", "Add milk", "Add sugar", "Top fruits", "Eat fresh"],
+      "telugu": ["సిరియల్ పోయండి", "పాలు కలపండి", "చక్కెర కలపండి", "పండ్లతో టాప్ చేయండి", "తాజాగా తినండి"],
+      "hindi": ["अनाज डालें", "दूध जोड़ें", "चीनी जोड़ें", "फल से टॉप करें", "ताजा खाएं"]
+    },
+    "tags": ["breakfast", "ready", "quick"]
+  },
+
+  {
+    "id": 15,
+    "name": {
+      "english": "Smoothie",
+      "telugu": "స్మూతీ",
+      "hindi": "स्मूथी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Fruit smoothie.",
+      "telugu": "పండ్ల స్మూతీ.",
+      "hindi": "फल की स्मूथी।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Banana", "Berries", "Yogurt", "Honey"],
+      "telugu": ["అరటిపండు", "బెర్రీలు", "దही", "తేనె"],
+      "hindi": ["केला", "बेरीज", "दही", "शहद"]
+    },
+    "instructions": {
+      "english": ["Slice fruits", "Add yogurt", "Blend", "Add honey", "Serve cold"],
+      "telugu": ["పండ్లను కోసండి", "దహిని కలపండి", "మిక్సర్‌లో నిమ్మాడండి", "తేనె కలపండి", "చల్లగా సర్వ్ చేయండి"],
+      "hindi": ["फल काटें", "दही जोड़ें", "मिक्स करें", "शहद जोड़ें", "ठंडा परोसें"]
+    },
+    "tags": ["breakfast", "healthy", "drink"]
+  },
+
+  {
+    "id": 16,
+    "name": {
+      "english": "Toast",
+      "telugu": "టోస్ట్",
+      "hindi": "टोस्ट"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Buttered toast.",
+      "telugu": "బటర్‌ చేసిన టోస్ట్.",
+      "hindi": "मक्खन लगी टोस्ट।"
+    },
+    "time": "5 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Bread", "Butter", "Jam", "Honey"],
+      "telugu": ["రొట్టె", "బటర్", "జామ్", "తేనె"],
+      "hindi": ["ब्रेड", "मक्खन", "जैम", "शहद"]
+    },
+    "instructions": {
+      "english": ["Toast bread", "Apply butter", "Add jam", "Serve warm"],
+      "telugu": ["రొట్టెను టోస్ట్ చేయండి", "బటర్ రాయండి", "జామ్ కలపండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["ब्रेड टोस्ट करें", "मक्खन लगाएं", "जैम डालें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "bread", "quick"]
+  },
+
+  {
+    "id": 17,
+    "name": {
+      "english": "Appam",
+      "telugu": "ఆపం",
+      "hindi": "अप्पम"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Kerala rice pancake.",
+      "telugu": "కేరళ బియ్యం పాన్‌కేక్.",
+      "hindi": "केरल चावल पेनकेक।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Rice flour", "Coconut", "Yeast", "Sugar"],
+      "telugu": ["బియ్యం పిండి", "కొబ్బరి", "ఈస్ట్", "చక్కెర"],
+      "hindi": ["चावल का आटा", "नारियल", "यीस्ट", "चीनी"]
+    },
+    "instructions": {
+      "english": ["Mix batter", "Ferment", "Cook in mold", "Serve warm"],
+      "telugu": ["పిండిని కలపండి", "ఆవకాశం ఇవ్వండి", "అచ్చులో కాల్చండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["बैटर मिलाएं", "किण्वित करें", "मोल्ड में पकाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "kerala", "rice"]
+  },
+
+  {
+    "id": 18,
+    "name": {
+      "english": "Chikhalwali",
+      "telugu": "చికహలవాలీ",
+      "hindi": "चिखलवाली"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Marathi breakfast dish.",
+      "telugu": "మరాఠీ ఆహారం.",
+      "hindi": "मराठी नाश्ता।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Gram flour", "Jaggery", "Oil", "Sesame"],
+      "telugu": ["గ్రామం పిండి", "గుడ్", "నూనె", "నువ్వుల"],
+      "hindi": ["चने का आटा", "गुड़", "तेल", "तिल"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Prepare filling", "Fry", "Serve hot"],
+      "telugu": ["పిండిని చేయండి", "నింపవటం సిద్ధం చేయండి", "డీప్ ఫ్రై చేయండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["आटा गूंधें", "भरावन तैयार करें", "तलें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "marathi", "sweet"]
+  },
+
+  {
+    "id": 19,
+    "name": {
+      "english": "Puttu",
+      "telugu": "పుట్టు",
+      "hindi": "पुट्टु"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "South Indian steamed cake.",
+      "telugu": "దక్షిణ భారత ఆవిరి కేక్.",
+      "hindi": "दक्षिण भारतीय स्टीम्ड केक।"
+    },
+    "time": "20 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Rice flour", "Coconut", "Jaggery", "Water"],
+      "telugu": ["బియ్యం పిండి", "కొబ్బరి", "గుడ్", "నీరు"],
+      "hindi": ["चावल का आटा", "नारियल", "गुड़", "पानी"]
+    },
+    "instructions": {
+      "english": ["Mix dry", "Add water", "Fill mold", "Steam", "Serve warm"],
+      "telugu": ["ఎండిపోయినవి కలపండి", "నీరు కలపండి", "అచ్చుకు నింపండి", "ఆవిరిలో ఉడికించండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["सूखा मिलाएं", "पानी जोड़ें", "मोल्ड भरें", "भाप दें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "rice", "south-indian"]
+  },
+
+  {
+    "id": 20,
+    "name": {
+      "english": "Khichiyu",
+      "telugu": "ఖిచియు",
+      "hindi": "खिचीयु"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Gujarati savory rice cake.",
+      "telugu": "గుజరాతీ రవ్వ రైస్ కేక్.",
+      "hindi": "गुजराती नमकीन चावल केक।"
+    },
+    "time": "25 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Rice", "Moong dal", "Ginger", "Oil"],
+      "telugu": ["బియ్యం", "మూంగ పప్పు", "ఆద్రక", "నూనె"],
+      "hindi": ["चावल", "मूंग दाल", "अदरक", "तेल"]
+    },
+    "instructions": {
+      "english": ["Soak rice", "Grind", "Ferment", "Cook on tawa", "Serve"],
+      "telugu": ["బియ్యం నీటిలో ఉంచండి", "నిమ్మాడండి", "ఆవకాశం ఇవ్వండి", "తవపై కాల్చండి", "సర్వ్ చేయండి"],
+      "hindi": ["चावल भिगोएं", "पीसें", "किण्वित करें", "तवे पर पकाएं", "परोसें"]
+    },
+    "tags": ["breakfast", "gujarati", "rice"]
+  },
+
+  {
+    "id": 21,
+    "name": {
+      "english": "Avial",
+      "telugu": "అవియల్",
+      "hindi": "अविल"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Kerala vegetable curry.",
+      "telugu": "కేరళ కూరగాయ కారం.",
+      "hindi": "केरल सब्जी करी।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Mixed vegetables", "Coconut", "Oil", "Turmeric"],
+      "telugu": ["మిక్స్ కూరగాయలు", "కొబ్బరి", "నూనె", "పసుపు"],
+      "hindi": ["मिश्रित सब्जियां", "नारियल", "तेल", "हल्दी"]
+    },
+    "instructions": {
+      "english": ["Cut vegetables", "Add spices", "Cook together", "Serve hot"],
+      "telugu": ["కూరగాయలను కోసండి", "స్పైస్‌లు కలపండి", "కలిసి కాల్చండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["सब्जियां काटें", "मसाले जोड़ें", "साथ पकाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "kerala", "vegetable"]
+  },
+
+  {
+    "id": 22,
+    "name": {
+      "english": "Cheela",
+      "telugu": "చీలా",
+      "hindi": "चीला"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Indian gram flour crepe.",
+      "telegu": "భారత గ్రామం పిండి క్రేప్.",
+      "hindi": "भारतीय चने का आटा क्रेप।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Gram flour", "Onions", "Spinach", "Oil"],
+      "telugu": ["గ్రామం పిండి", "ఉల్లిపాయలు", "పాలక్", "నూనె"],
+      "hindi": ["चने का आटा", "प्याज", "पालक", "तेल"]
+    },
+    "instructions": {
+      "english": ["Make batter", "Add vegetables", "Cook thin", "Serve hot"],
+      "telugu": ["పిండిని చేయండి", "కూరగాయలు కలపండి", "సన్నగా కాల్చండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["बैटर बनाएं", "सब्जियां जोड़ें", "पतला पकाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "vegetarian", "easy"]
+  },
+
+  {
+    "id": 23,
+    "name": {
+      "english": "Jalebi",
+      "telugu": "జలేబీ",
+      "hindi": "जलेबी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Sweet fried coil.",
+      "telugu": "తీపి డీప్ ఫ్రైడ్ కాయిల్.",
+      "hindi": "मीठी तली हुई कुंडली।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Flour", "Oil", "Sugar", "Saffron"],
+      "telugu": ["పిండి", "నూనె", "చక్కెర", "జాకర్"],
+      "hindi": ["मैदा", "तेल", "चीनी", "केसर"]
+    },
+    "instructions": {
+      "english": ["Make batter", "Heat oil", "Fry coils", "Soak in syrup"],
+      "telugu": ["పిండిని చేయండి", "నూనె వేడి చేయండి", "కాయిల్‌లను కాల్చండి", "సిరప్‌లో నానబెట్టండి"],
+      "hindi": ["बैटर बनाएं", "तेल गरम करें", "कुंडलियां तलें", "सिरप में भिगोएं"]
+    },
+    "tags": ["breakfast", "sweet", "fried"]
+  },
+
+  {
+    "id": 24,
+    "name": {
+      "english": "Lachcha Paratha",
+      "telugu": "లచ్చా పరాఠా",
+      "hindi": "लच्छा पराठा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Layered flat bread.",
+      "telugu": "పొరలుగల చెప్పటి రొట్టె.",
+      "hindi": "तहदार फ्लैट ब्रेड।"
+    },
+    "time": "35 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Flour", "Ghee", "Water", "Salt"],
+      "telugu": ["పిండి", "నెయ్యి", "నీరు", "ఉప్పు"],
+      "hindi": ["मैदा", "घी", "पानी", "नमक"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Rest dough", "Layer with ghee", "Cook on tawa"],
+      "telugu": ["పిండిని చేయండి", "పిండికి విశ్రాంతి ఇవ్వండి", "నెయ్యితో పొరలు చేయండి", "తవపై కాల్చండి"],
+      "hindi": ["आटा गूंधें", "आटा आराम दें", "घी से परतें बनाएं", "तवे पर पकाएं"]
+    },
+    "tags": ["breakfast", "bread", "indian"]
+  },
+
+  {
+    "id": 25,
+    "name": {
+      "english": "Andhra Chikhalwali",
+      "telugu": "ఆంధ్ర చికహలవాలీ",
+      "hindi": "आंध्र चिखलवाली"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Andhra region specialty.",
+      "telugu": "ఆంధ్ర ప్రాంతం ప్రత్యేకత.",
+      "hindi": "आंध्र क्षेत्र विशेषता।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Rice flour", "Jaggery", "Sesame", "Oil"],
+      "telugu": ["బియ్యం పిండి", "గుడ్", "నువ్వులు", "నూనె"],
+      "hindi": ["चावल का आटा", "गुड़", "तिल", "तेल"]
+    },
+    "instructions": {
+      "english": ["Mix flour", "Add jaggery", "Fry", "Serve hot"],
+      "telugu": ["పిండిని కలపండి", "గుడ్ కలపండి", "డీప్ ఫ్రై చేయండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["आटा मिलाएं", "गुड़ जोड़ें", "तलें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "andhra", "sweet"]
+  },
+
+  {
+    "id": 26,
+    "name": {
+      "english": "Methi Paratha",
+      "telugu": "మెతీ పరాఠా",
+      "hindi": "मेथी पराठा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Fenugreek bread.",
+      "telugu": "మెతీ రొట్టె.",
+      "hindi": "मेथी की ब्रेड।"
+    },
+    "time": "25 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Flour", "Fenugreek", "Ghee", "Water"],
+      "telugu": ["పిండి", "మెతీ", "నెయ్యి", "నీరు"],
+      "hindi": ["मैदा", "मेथी", "घी", "पानी"]
+    },
+    "instructions": {
+      "english": ["Add fenugreek to flour", "Knead dough", "Roll", "Cook on tawa"],
+      "telugu": ["మెతీని పిండికి కలపండి", "పిండిని చేయండి", "చుట్టండి", "తవపై కాల్చండి"],
+      "hindi": ["मेथी आटे में जोड़ें", "आटा गूंधें", "रोल करें", "तवे पर पकाएं"]
+    },
+    "tags": ["breakfast", "bread", "healthy"]
+  },
+
+  {
+    "id": 27,
+    "name": {
+      "english": "Puri",
+      "telugu": "పూరీ",
+      "hindi": "पूरी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Puffed bread.",
+      "telugu": "ఊహించిన రొట్టె.",
+      "hindi": "फूली हुई ब्रेड।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Flour", "Oil", "Salt", "Water"],
+      "telugu": ["పిండి", "నూనె", "ఉప్పు", "నీరు"],
+      "hindi": ["मैदा", "तेल", "नमक", "पानी"]
+    },
+    "instructions": {
+      "english": ["Knead dough", "Rest dough", "Roll balls", "Deep fry", "Serve hot"],
+      "telugu": ["పిండిని చేయండి", "విశ్రాంతి ఇవ్వండి", "బంతులు చేయండి", "డీప్ ఫ్రై చేయండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["आटा गूंधें", "आराम दें", "गोल बनाएं", "डीप फ्राई करें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "bread", "fried"]
+  },
+
+  {
+    "id": 28,
+    "name": {
+      "english": "Halwa",
+      "telugu": "హలవా",
+      "hindi": "हलवा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Semolina pudding.",
+      "telugu": "రవ్వ పూడింగ్.",
+      "hindi": "सूजी का हलवा।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Semolina", "Ghee", "Sugar", "Dry fruits"],
+      "telugu": ["రవ్వ", "నెయ్యి", "చక్కెర", "ఎండిన పండ్లు"],
+      "hindi": ["सूजी", "घी", "चीनी", "मेवे"]
+    },
+    "instructions": {
+      "english": ["Roast semolina", "Add sugar syrup", "Mix well", "Add dry fruits", "Serve warm"],
+      "telugu": ["రవ్వను కాల్చండి", "చక్కెర సిరప్ కలపండి", "బాగా కలపండి", "ఎండిన పండ్లు కలపండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["सूजी भूनें", "चीनी का सिरप जोड़ें", "अच्छी तरह मिलाएं", "मेवे जोड़ें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "sweet", "easy"]
+  },
+
+  {
+    "id": 29,
+    "name": {
+      "english": "Momos",
+      "telugu": "మోమోస్",
+      "hindi": "मोमोस"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Steamed dumplings.",
+      "telugu": "ఆవిరి డంప్లింగ్‌లు.",
+      "hindi": "स्टीम्ड गुलगुले।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Flour", "Vegetables", "Water", "Oil"],
+      "telugu": ["పిండి", "కూరగాయలు", "నీరు", "నూనె"],
+      "hindi": ["मैदा", "सब्जियां", "पानी", "तेल"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Prepare filling", "Wrap", "Steam", "Serve hot"],
+      "telugu": ["పిండిని చేయండి", "నింపవటం సిద్ధం చేయండి", "చుట్టండి", "ఆవిరిలో ఉడికించండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["आटा बनाएं", "भरावन तैयार करें", "लपेटें", "भाप दें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "dumpling", "healthy"]
+  },
+
+  {
+    "id": 30,
+    "name": {
+      "english": "Dhokla",
+      "telugu": "ధోక్లా",
+      "hindi": "ढोकला"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Gujarati steamed cake.",
+      "telugu": "గుజరాతీ ఆవిరి కేక్.",
+      "hindi": "गुजराती स्टीम्ड केक।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Gram flour", "Yogurt", "Oil", "Spices"],
+      "telugu": ["గ్రామం పిండి", "దही", "నూనె", "స్పైస్‌లు"],
+      "hindi": ["चने का आटा", "दही", "तेल", "मसाले"]
+    },
+    "instructions": {
+      "english": ["Mix flour", "Add yogurt", "Add spices", "Steam", "Serve hot"],
+      "telugu": ["పిండిని కలపండి", "దహిని కలపండి", "స్పైస్‌లు కలపండి", "ఆవిరిలో ఉడికించండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["आटा मिलाएं", "दही जोड़ें", "मसाले जोड़ें", "भाप दें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "gujarati", "healthy"]
+  },
+
+  {
+    "id": 31,
+    "name": {
+      "english": "Kachumber Salad",
+      "telugu": "కచుంబర్ సలాడ్",
+      "hindi": "खचुंबर सलाद"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Fresh vegetable salad.",
+      "telugu": "తాజా కూరగాయ సలాడ్.",
+      "hindi": "ताजी सब्जी सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Tomatoes", "Cucumber", "Onions", "Lemon juice"],
+      "telugu": ["టమోటోలు", "దోసకాయ", "ఉల్లిపాయలు", "నిమ్మ రసం"],
+      "hindi": ["टमाटर", "ककड़ी", "प्याज", "नींबू का रस"]
+    },
+    "instructions": {
+      "english": ["Chop vegetables", "Add lemon", "Mix", "Serve fresh"],
+      "telugu": ["కూరగాయలను చీలండి", "నిమ్మరసం కలపండి", "కలపండి", "తాజాగా సర్వ్ చేయండి"],
+      "hindi": ["सब्जियां काटें", "नींबू रस जोड़ें", "मिलाएं", "ताजा परोसें"]
+    },
+    "tags": ["breakfast", "salad", "fresh"]
+  },
+
+  {
+    "id": 32,
+    "name": {
+      "english": "Baghare Baingan",
+      "telugu": "బాగరే బెంగన్",
+      "hindi": "बाघारे बैंगन"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Eggplant curry.",
+      "telugu": "వంటకాయ కారం.",
+      "hindi": "बैंगन की करी।"
+    },
+    "time": "25 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Eggplant", "Sesame", "Oil", "Spices"],
+      "telugu": ["వంటకాయ", "నువ్వులు", "నూనె", "స్పైస్‌లు"],
+      "hindi": ["बैंगन", "तिल", "तेल", "मसाले"]
+    },
+    "instructions": {
+      "english": ["Cut eggplant", "Fry lightly", "Add paste", "Simmer", "Serve hot"],
+      "telugu": ["వంటకాయను కోసండి", "తేలికగా కాల్చండి", "పేస్ట్ కలపండి", "నెమ్మదిగా ఆవిరిలో ఉడికించండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["बैंगन काटें", "हल्का तलें", "पेस्ट जोड़ें", "धीमी आंच पर पकाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "vegetable", "andhra"]
+  },
+
+  {
+    "id": 33,
+    "name": {
+      "english": "Besan Chikhalwali",
+      "telugu": "బెసన్ చికహలవాలీ",
+      "hindi": "बेसन चिखलवाली"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Gram flour snack.",
+      "telugu": "గ్రామం పిండి స్నాక్.",
+      "hindi": "चने का आटा स्नैक्स।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Gram flour", "Oil", "Spices", "Water"],
+      "telugu": ["గ్రామం పిండి", "నూనె", "స్పైస్‌లు", "నీరు"],
+      "hindi": ["चने का आटा", "तेल", "मसाले", "पानी"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Shape", "Fry", "Drain", "Serve warm"],
+      "telugu": ["పిండిని చేయండి", "ఆకారం ఇవ్వండి", "డీప్ ఫ్రై చేయండి", "నీరు పోయండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["आटा गूंधें", "आकार दें", "तलें", "तेल निकालें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "snack", "easy"]
+  },
+
+  {
+    "id": 34,
+    "name": {
+      "english": "Mint Chutney",
+      "telugu": "పుదీనా చట్నీ",
+      "hindi": "पुदीना चटनी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Fresh mint condiment.",
+      "telugu": "తాజా పుదీనా సీజనింగ్.",
+      "hindi": "ताजी पुदीना की चटनी।"
+    },
+    "time": "5 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Mint leaves", "Green chili", "Lemon juice", "Salt"],
+      "telugu": ["పుదీనా ఆకులు", "ఆకుపచ్చ మిర్చి", "నిమ్మ రసం", "ఉప్పు"],
+      "hindi": ["पुदीना की पत्तियां", "हरी मिर्च", "नींबू का रस", "नमक"]
+    },
+    "instructions": {
+      "english": ["Grind mint", "Add chili", "Add lemon", "Mix", "Serve with meals"],
+      "telugu": ["పుదీనాను నిమ్మాడండి", "మిర్చి కలపండి", "నిమ్మ రసం కలపండి", "కలపండి", "భోజనంతో సర్వ్ చేయండి"],
+      "hindi": ["पुदीना पीसें", "मिर्च जोड़ें", "नींबू रस जोड़ें", "मिलाएं", "भोजन के साथ परोसें"]
+    },
+    "tags": ["breakfast", "chutney", "condiment"]
+  },
+
+  {
+    "id": 35,
+    "name": {
+      "english": "Coconut Chutney",
+      "telugu": "కొబ్బరి చట్నీ",
+      "hindi": "नारियल चटनी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "South Indian coconut condiment.",
+      "telugu": "దక్షిణ భారత కొబ్బరి సీజనింగ్.",
+      "hindi": "दक्षिण भारतीय नारियल चटनी।"
+    },
+    "time": "10 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Coconut", "Green chili", "Ginger", "Lemon juice"],
+      "telugu": ["కొబ్బరి", "ఆకుపచ్చ మిర్చి", "ఆద్రక", "నిమ్మ రసం"],
+      "hindi": ["नारियल", "हरी मिर्च", "अदरक", "नींबू का रस"]
+    },
+    "instructions": {
+      "english": ["Grate coconut", "Grind with spices", "Add lemon juice", "Serve"],
+      "telugu": ["కొబ్బరిని రుద్ది నిమ్మాడండి", "స్పైస్‌తో నిమ్మాడండి", "నిమ్మ రసం కలపండి", "సర్వ్ చేయండి"],
+      "hindi": ["नारियल कद्दूकस करें", "मसालों के साथ पीसें", "नींबू रस जोड़ें", "परोसें"]
+    },
+    "tags": ["breakfast", "chutney", "south-indian"]
+  },
+
+  {
+    "id": 36,
+    "name": {
+      "english": "Tomato Chutney",
+      "telugu": "టమోటో చట్నీ",
+      "hindi": "टमाटर चटनी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Spicy tomato condiment.",
+      "telugu": "తీక్ష్ణమైన టమోటో సీజనింగ్.",
+      "hindi": "तीखी टमाटर की चटनी।"
+    },
+    "time": "15 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Tomatoes", "Red chili", "Oil", "Salt"],
+      "telugu": ["టమోటోలు", "ఎర్ర మిర్చి", "నూనె", "ఉప్పు"],
+      "hindi": ["टमाटर", "लाल मिर्च", "तेल", "नमक"]
+    },
+    "instructions": {
+      "english": ["Chop tomatoes", "Fry with chili", "Simmer", "Serve warm"],
+      "telugu": ["టమోటోలను చీలండి", "మిర్చితో కాల్చండి", "నెమ్మదిగా ఆవిరిలో ఉడికించండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["टमाटर काटें", "मिर्च के साथ तलें", "धीमी आंच पर पकाएं", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "chutney", "spicy"]
+  },
+
+  {
+    "id": 37,
+    "name": {
+      "english": "Gajar Halwa",
+      "telugu": "గజర్ హలవా",
+      "hindi": "गाजर का हलवा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Carrot pudding.",
+      "telugu": "గజార్ పూడింగ్.",
+      "hindi": "गाजर का हलवा।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Carrots", "Ghee", "Milk", "Dry fruits"],
+      "telugu": ["గజార్", "నెయ్యి", "పాలు", "ఎండిన పండ్లు"],
+      "hindi": ["गाजर", "घी", "दूध", "मेवे"]
+    },
+    "instructions": {
+      "english": ["Grate carrots", "Cook in ghee", "Add milk", "Add dry fruits", "Serve warm"],
+      "telugu": ["గజార్‌ను రుద్దండి", "నెయ్యిలో కాల్చండి", "పాలు కలపండి", "ఎండిన పండ్లు కలపండి", "ఉష్ణంగా సర్వ్ చేయండి"],
+      "hindi": ["गाजर कद्दूकस करें", "घी में पकाएं", "दूध जोड़ें", "मेवे जोड़ें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "sweet", "healthy"]
+  },
+
+  {
+    "id": 38,
+    "name": {
+      "english": "Payasam",
+      "telugu": "పాయసం",
+      "hindi": "पायसम"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Kerala rice pudding.",
+      "telugu": "కేరళ బియ్యం పూడింగ్.",
+      "hindi": "केरल चावल का हलवा।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Rice", "Milk", "Jaggery", "Coconut"],
+      "telugu": ["బియ్యం", "పాలు", "గుడ్", "కొబ్బరి"],
+      "hindi": ["चावल", "दूध", "गुड़", "नारियल"]
+    },
+    "instructions": {
+      "english": ["Cook rice", "Add milk", "Add jaggery", "Add coconut", "Simmer"],
+      "telugu": ["బియ్యం ఉడికించండి", "పాలు కలపండి", "గుడ్ కలపండి", "కొబ్బరి కలపండి", "నెమ్మదిగా కాల్చండి"],
+      "hindi": ["चावल पकाएं", "दूध जोड़ें", "गुड़ जोड़ें", "नारियल जोड़ें", "धीमी आंच पर पकाएं"]
+    },
+    "tags": ["breakfast", "sweet", "kerala"]
+  },
+
+  {
+    "id": 39,
+    "name": {
+      "english": "Rabri",
+      "telugu": "రబ్రీ",
+      "hindi": "रबड़ी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Condensed milk dessert.",
+      "telugu": "గాఢ పాలు డెజర్ట్.",
+      "hindi": "दूध का मीठा व्यंजन।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Milk", "Sugar", "Cardamom", "Dry fruits"],
+      "telugu": ["పాలు", "చక్కెర", "ఏలక్కిలు", "ఎండిన పండ్లు"],
+      "hindi": ["दूध", "चीनी", "इलायची", "मेवे"]
+    },
+    "instructions": {
+      "english": ["Simmer milk", "Reduce milk", "Add sugar", "Add cardamom", "Top with dry fruits"],
+      "telugu": ["పాలను కాల్చండి", "పాలు గాఢ చేయండి", "చక్కెర కలపండి", "ఏలక్కిలు కలపండి", "ఎండిన పండ్లతో టాప్ చేయండి"],
+      "hindi": ["दूध पकाएं", "दूध गाढ़ा करें", "चीनी जोड़ें", "इलायची जोड़ें", "मेवों से सजाएं"]
+    },
+    "tags": ["breakfast", "sweet", "dessert"]
+  },
+
+  {
+    "id": 40,
+    "name": {
+      "english": "Semiya Upma",
+      "telugu": "సెమియ ఉప్మా",
+      "hindi": "सेवइयां उपमा"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Noodle breakfast.",
+      "telugu": "నూడిల్ ఆహారం.",
+      "hindi": "नूडल्स का नाश्ता।"
+    },
+    "time": "20 min",
+    "servings": 3,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Vermicelli", "Oil", "Vegetables", "Salt"],
+      "telugu": ["సెమియ", "నూనె", "కూరగాయలు", "ఉప్పు"],
+      "hindi": ["सेवइयां", "तेल", "सब्जियां", "नमक"]
+    },
+    "instructions": {
+      "english": ["Roast vermicelli", "Heat oil", "Add vegetables", "Add vermicelli", "Serve hot"],
+      "telugu": ["సెమియ కాల్చండి", "నూనె వేడి చేయండి", "కూరగాయలు కలపండి", "సెమియ కలపండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["सेवइयां भूनें", "तेल गरम करें", "सब्जियां जोड़ें", "सेवइयां जोड़ें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "noodles", "quick"]
+  },
+
+  {
+    "id": 41,
+    "name": {
+      "english": "Aloo Parathas",
+      "telugu": "ఆలూ పరాఠాలు",
+      "hindi": "आलू के पराठे"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Potato stuffed bread.",
+      "telugu": "ఆలూ పూరిన రొట్టె.",
+      "hindi": "आलू भरे पराठे।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Flour", "Potatoes", "Onions", "Ghee"],
+      "telugu": ["పిండి", "ఆలూ", "ఉల్లిపాయలు", "నెయ్యి"],
+      "hindi": ["मैदा", "आलू", "प्याज", "घी"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Boil potatoes", "Prepare filling", "Roll", "Cook on tawa"],
+      "telugu": ["పిండిని చేయండి", "ఆలూ ఫుడ్చండి", "నింపవటం సిద్ధం చేయండి", "చుట్టండి", "తవపై కాల్చండి"],
+      "hindi": ["आटा गूंधें", "आलू उबालें", "भरावन तैयार करें", "रोल करें", "तवे पर पकाएं"]
+    },
+    "tags": ["breakfast", "bread", "filling"]
+  },
+
+  {
+    "id": 42,
+    "name": {
+      "english": "Bread Omelette",
+      "telugu": "బ్రెడ్ ఆమ్లెట్",
+      "hindi": "ब्रेड ऑमलेट"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Egg and bread dish.",
+      "telugu": "గుడ్ మరియు బ్రెడ్ వంటకం.",
+      "hindi": "अंडा और ब्रेड का व्यंजन।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Bread", "Eggs", "Milk", "Butter"],
+      "telugu": ["బ్రెడ్", "గుడ్లు", "పాలు", "బటర్"],
+      "hindi": ["ब्रेड", "अंडे", "दूध", "मक्खन"]
+    },
+    "instructions": {
+      "english": ["Cut bread", "Beat eggs", "Dip bread", "Fry", "Serve hot"],
+      "telugu": ["బ్రెడ్ కోసండి", "గుడ్లను కొట్టండి", "బ్రెడ్ నీటిలో నానబెట్టండి", "కాల్చండి", "వేడిగా సర్వ్ చేయండి"],
+      "hindi": ["ब्रेड काटें", "अंडे फेंटें", "ब्रेड डुबोएं", "तलें", "गरम परोसें"]
+    },
+    "tags": ["breakfast", "egg", "bread"]
+  },
+
+  {
+    "id": 43,
+    "name": {
+      "english": "Sandwich",
+      "telugu": "సాండ్‌విచ్",
+      "hindi": "सैंडविच"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Vegetable sandwich.",
+      "telugu": "కూరగాయ సాండ్‌విచ్.",
+      "hindi": "सब्जी सैंडविच।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Bread", "Vegetables", "Cheese", "Butter"],
+      "telugu": ["బ్రెడ్", "కూరగాయలు", "చీజ్", "బటర్"],
+      "hindi": ["ब्रेड", "सब्जियां", "पनीर", "मक्खन"]
+    },
+    "instructions": {
+      "english": ["Toast bread", "Add filling", "Add cheese", "Toast again", "Serve"],
+      "telugu": ["బ్రెడ్ టోస్ట్ చేయండి", "నింపవటం కలపండి", "చీజ్ కలపండి", "మరిన్ని టోస్ట్ చేయండి", "సర్వ్ చేయండి"],
+      "hindi": ["ब्रेड टोस्ट करें", "भरावन जोड़ें", "चीज जोड़ें", "फिर टोस्ट करें", "परोसें"]
+    },
+    "tags": ["breakfast", "bread", "quick"]
+  },
+
+  {
+    "id": 44,
+    "name": {
+      "english": "Banana Bread",
+      "telugu": "అరటిపండు బ్రెడ్",
+      "hindi": "केला ब्रेड"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Sweet banana loaf.",
+      "telugu": "తీపి అరటిపండు లోఫ్.",
+      "hindi": "मीठी केले की ब्रेड।"
+    },
+    "time": "45 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Bananas", "Flour", "Sugar", "Butter"],
+      "telugu": ["అరటిపండు", "పిండి", "చక్కెర", "బటర్"],
+      "hindi": ["केला", "मैदा", "चीनी", "मक्खन"]
+    },
+    "instructions": {
+      "english": ["Mix dry", "Mash bananas", "Mix wet", "Combine", "Bake"],
+      "telugu": ["ఎండిపోయినవి కలపండి", "అరటిపండు పిండి చేయండి", "తేమను కలపండి", "కలపండి", "బేక్ చేయండి"],
+      "hindi": ["सूखा मिलाएं", "केला मसलें", "गीला मिलाएं", "मिश्रण करें", "बेक करें"]
+    },
+    "tags": ["breakfast", "sweet", "baked"]
+  },
+
+  {
+    "id": 45,
+    "name": {
+      "english": "Muffins",
+      "telugu": "మఫిన్‌లు",
+      "hindi": "मफिन्स"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Baked sweet cups.",
+      "telugu": "బేక్ చేసిన తీపి కప్పులు.",
+      "hindi": "बेक किए गए मीठे कप।"
+    },
+    "time": "30 min",
+    "servings": 6,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Flour", "Sugar", "Eggs", "Oil"],
+      "telugu": ["పిండి", "చక్కెర", "గుడ్లు", "నూనె"],
+      "hindi": ["मैदा", "चीनी", "अंडे", "तेल"]
+    },
+    "instructions": {
+      "english": ["Mix batter", "Fill cups", "Bake", "Cool", "Serve"],
+      "telugu": ["పిండిని కలపండి", "కప్పులు నింపండి", "బేక్ చేయండి", "చల్లబరచండి", "సర్వ్ చేయండి"],
+      "hindi": ["बैटर मिलाएं", "कप भरें", "बेक करें", "ठंडा करें", "परोसें"]
+    },
+    "tags": ["breakfast", "sweet", "baked"]
+  },
+
+  {
+    "id": 46,
+    "name": {
+      "english": "Waffles",
+      "telugu": "వాఫల్‌లు",
+      "hindi": "वेफल्स"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Crispy grid cakes.",
+      "telugu": "కరకరలాడే గ్రిడ్ కేకులు.",
+      "hindi": "कुरकुरे ग्रिड केक।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Flour", "Eggs", "Milk", "Butter"],
+      "telugu": ["పిండి", "గుడ్లు", "పాలు", "బటర్"],
+      "hindi": ["मैदा", "अंडे", "दूध", "मक्खन"]
+    },
+    "instructions": {
+      "english": ["Make batter", "Heat waffle maker", "Pour batter", "Cook", "Serve with syrup"],
+      "telugu": ["పిండిని చేయండి", "వాఫిల్ మేకర్ వేడి చేయండి", "పిండిని పోయండి", "కాల్చండి", "సిరప్‌తో సర్వ్ చేయండి"],
+      "hindi": ["बैटर बनाएं", "वेफल मेकर गरम करें", "बैटर डालें", "पकाएं", "सिरप के साथ परोसें"]
+    },
+    "tags": ["breakfast", "sweet", "crispy"]
+  },
+
+  {
+    "id": 47,
+    "name": {
+      "english": "Chakli",
+      "telugu": "చాకली",
+      "hindi": "चकली"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Spiral rice snack.",
+      "telugu": "సర్పిలాకార బియ్యం స్నాక్.",
+      "hindi": "सर्पिल चावल स्नैक्स।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Rice flour", "Oil", "Spices", "Salt"],
+      "telugu": ["బియ్యం పిండి", "నూనె", "స్పైస్‌లు", "ఉప్పు"],
+      "hindi": ["चावल का आटा", "तेल", "मसाले", "नमक"]
+    },
+    "instructions": {
+      "english": ["Make batter", "Prepare piping bag", "Fry spirals", "Drain", "Serve"],
+      "telugu": ["పిండిని చేయండి", "పైపింగ్ బ్యాగ్ సిద్ధం చేయండి", "సర్పిల్‌లు కాల్చండి", "నీరు పోయండి", "సర్వ్ చేయండి"],
+      "hindi": ["बैटर बनाएं", "पाइपिंग बैग तैयार करें", "सर्पिल तलें", "तेल निकालें", "परोसें"]
+    },
+    "tags": ["breakfast", "snack", "fried"]
+  },
+
+  {
+    "id": 48,
+    "name": {
+      "english": "Dahi Bhalle",
+      "telugu": "దహి భల్లె",
+      "hindi": "दही भल्ले"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Yogurt balls.",
+      "telugu": "దహి బంతులు.",
+      "hindi": "दही की गोलियां।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Moong dal", "Oil", "Yogurt", "Sugar"],
+      "telugu": ["మూంగ పప్పు", "నూనె", "దही", "చక్కెర"],
+      "hindi": ["मूंग दाल", "तेल", "दही", "चीनी"]
+    },
+    "instructions": {
+      "english": ["Soak dal", "Grind", "Shape balls", "Fry", "Soak in yogurt"],
+      "telugu": ["పప్పు నీటిలో ఉంచండి", "నిమ్మాడండి", "బంతులు చేయండి", "కాల్చండి", "దహిలో నానబెట్టండి"],
+      "hindi": ["दाल भिगोएं", "पीसें", "गोल बनाएं", "तलें", "दही में भिगोएं"]
+    },
+    "tags": ["breakfast", "sweet", "yogurt"]
+  },
+
+  {
+    "id": 49,
+    "name": {
+      "english": "Gulab Jamun",
+      "telugu": "గులాబ్ జమూన్",
+      "hindi": "गुलाब जामुन"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Fried milk solid balls.",
+      "telugu": "కాల్చిన పాల ఘనపదార్థ బంతులు.",
+      "hindi": "तली हुई दूध की गोलियां।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమ",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": ["Milk powder", "Oil", "Sugar syrup", "Cardamom"],
+      "telugu": ["పాల పౌడర్", "నూనె", "చక్కెర సిరప్", "ఏలక్కిలు"],
+      "hindi": ["दूध पाउडर", "तेल", "चीनी का सिरप", "इलायची"]
+    },
+    "instructions": {
+      "english": ["Make dough", "Form balls", "Fry", "Soak in syrup"],
+      "telugu": ["పిండిని చేయండి", "బంతులు చేయండి", "కాల్చండి", "సిరప్‌లో నానబెట్టండి"],
+      "hindi": ["आटा बनाएं", "गोल बनाएं", "तलें", "सिरप में भिगोएं"]
+    },
+    "tags": ["breakfast", "sweet", "dessert"]
+  },
+
+  {
+    "id": 50,
+    "name": {
+      "english": "Pav Bhaji",
+      "telugu": "పావ్ భాజీ",
+      "hindi": "पाव भाजी"
+    },
+    "category": {
+      "english": "Breakfast",
+      "telugu": "అల్పాహారం",
+      "hindi": "नाश्ता"
+    },
+    "description": {
+      "english": "Spiced vegetable curry with bread.",
+      "telugu": "రొట్టెతో మసాలా కూరగాయ కారం.",
+      "hindi": "मसालेदार सब्जी करी और ब्रेड।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": ["Mixed vegetables", "Oil", "Spices", "Bread"],
+      "telugu": ["మిక్స్ కూరగాయలు", "నూనె", "స్పైస్‌లు", "బ్రెడ్"],
+      "hindi": ["मिश्रित सब्जियां", "तेल", "मसाले", "ब्रेड"]
+    },
+    "instructions": {
+      "english": ["Cook vegetables", "Mash", "Add spices", "Toast bread", "Serve together"],
+      "telugu": ["కూరగాయలు కాల్చండి", "పిండి చేయండి", "స్పైస్‌లు కలపండి", "బ్రెడ్ టోస్ట్ చేయండి", "కలిసి సర్వ్ చేయండి"],
+      "hindi": ["सब्जियां पकाएं", "मसलें", "मसाले जोड़ें", "ब्रेड टोस्ट करें", "साथ परोसें"]
+    },
+    "tags": ["breakfast", "street-food", "popular"]
+  }
+]

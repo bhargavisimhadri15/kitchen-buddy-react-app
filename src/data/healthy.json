@@ -1,0 +1,3674 @@
+[
+  {
+    "id": 601,
+    "name": {
+      "english": "Sprouts Salad",
+      "telugu": "మొలకల సలాడ్",
+      "hindi": "स्प्राउट्स सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "A healthy protein-rich sprouts salad.",
+      "telugu": "ప్రోటీన్ ఎక్కువగా ఉండే ఆరోగ్యకరమైన మొలకల సలాడ్.",
+      "hindi": "प्रोटीन से भरपूर हेल्दी स्प्राउट्स सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Sprouts - 1 cup",
+        "Onion - 1 small",
+        "Tomato - 1 small",
+        "Lemon juice - 1 spoon",
+        "Salt - as needed"
+      ],
+      "telugu": [
+        "మొలకలు - 1 కప్పు",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "టమాటా - 1 చిన్నది",
+        "నిమ్మరసం - 1 చెంచా",
+        "ఉప్పు - అవసరానికి"
+      ],
+      "hindi": [
+        "स्प्राउट्स - 1 कप",
+        "प्याज - 1 छोटा",
+        "टमाटर - 1 छोटा",
+        "नींबू रस - 1 चम्मच",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Add sprouts to a bowl.",
+        "Add chopped onion and tomato.",
+        "Add lemon juice and salt.",
+        "Mix well.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "ఒక గిన్నెలో మొలకలు వేయండి.",
+        "తరిగిన ఉల్లిపాయ మరియు టమాటా వేయండి.",
+        "నిమ్మరసం మరియు ఉప్పు వేయండి.",
+        "బాగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "एक कटोरे में स्प्राउट्स डालें।",
+        "कटा प्याज और टमाटर डालें।",
+        "नींबू रस और नमक डालें।",
+        "अच्छी तरह मिलाएं।",
+        "ताजा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "protein"]
+  },
+  {
+    "id": 602,
+    "name": {
+      "english": "Fruit Salad",
+      "telugu": "ఫ్రూట్ సలాడ్",
+      "hindi": "फ्रूट सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "A refreshing mix of seasonal fruits.",
+      "telugu": "కాలమిట్ల ఫలాలతో తాజా మిశ్రమం.",
+      "hindi": "मौसमी फलों का ताजगी भरा मिश्रण।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Apple - 1",
+        "Banana - 1",
+        "Orange - 1",
+        "Grapes - 10",
+        "Honey - 1 tsp"
+      ],
+      "telugu": [
+        "ఆపిల్ - 1",
+        "బనానా - 1",
+        "ఒరంజ్ - 1",
+        "ద్రాక్ష - 10",
+        "తేనె - 1 చమచా"
+      ],
+      "hindi": [
+        "सेब - 1",
+        "केला - 1",
+        "संतरा - 1",
+        "अंगूर - 10",
+        "शहद - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Chop all fruits.",
+        "Mix in a bowl.",
+        "Add honey.",
+        "Toss gently.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "అన్ని ఫలాలను తరిగండి.",
+        "ఒక గిన్నెలో కలపండి.",
+        "తేనె వేసి.",
+        "సొంతంగా మిక్స్ చేయండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सभी फलों को काटें।",
+        "एक कटोरे में मिलाएं।",
+        "शहद डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "fruit", "salad"]
+  },
+  {
+    "id": 603,
+    "name": {
+      "english": "Oats Porridge",
+      "telugu": "ఓట్స్ పోర్రిడ్జ్",
+      "hindi": "ओट्स पोरीज"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Warm oats porridge with nuts and fruits.",
+      "telugu": "కాయలతో మరియు ఫలాలతో వేడి ఓట్స్ పోర్రిడ్జ్.",
+      "hindi": "मेवों और फलों के साथ गर्म ओट्स पोरीज।"
+    },
+    "time": "12 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Oats - 1/2 cup",
+        "Milk - 1 cup",
+        "Almonds - 5",
+        "Banana - 1/2",
+        "Honey - to taste"
+      ],
+      "telugu": [
+        "ఓట్స్ - 1/2 కప్పు",
+        "పాలను - 1 కప్పు",
+        "బదాం - 5",
+        "బనానా - 1/2",
+        "తేనె - రుచికి అనుసారం"
+      ],
+      "hindi": [
+        "ओट्स - 1/2 कप",
+        "दूध - 1 कप",
+        "बादाम - 5",
+        "केला - 1/2",
+        "शहद - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat milk in a pan.",
+        "Add oats and cook.",
+        "Top with almonds and banana.",
+        "Drizzle honey.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పాన్‌లో పాలు వేడి చేయండి.",
+        "ఓట్స్ వేసి వండండి.",
+        "బదాములు మరియు బనానా పెట్టండి.",
+        "తేనె జత చేయండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पैन में दूध गर्म करें।",
+        "ओट्स डालें और पकाएँ।",
+        "बादाम और केला डालें।",
+        "शहद डालें।",
+        "गरमा गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "breakfast", "oats"]
+  },
+  {
+    "id": 604,
+    "name": {
+      "english": "Mixed Vegetable Soup",
+      "telugu": "మిక్స్ వెజిటబుల్ సూప్",
+      "hindi": "मिक्स वेजिटेबल सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Light and nutritious mixed vegetable soup.",
+      "telugu": "లైట్ మరియు పోషకమైన మిక్స్ వెజిటబుల్ సూప్.",
+      "hindi": "हल्का और पौष्टिक मिक्स वेजिटेबल सूप।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Carrot - 1",
+        "Beans - 10",
+        "Potato - 1",
+        "Tomato - 1",
+        "Water - 2 cups"
+      ],
+      "telugu": [
+        "క్యారెట్ - 1",
+        "బీన్స్ - 10",
+        "బంగాళదుంప - 1",
+        "టమాటా - 1",
+        "నీరు - 2 కప్పులు"
+      ],
+      "hindi": [
+        "गाजर - 1",
+        "बीन्स - 10",
+        "आलू - 1",
+        "टमाटर - 1",
+        "पानी - 2 कप"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Chop vegetables.",
+        "Boil in water.",
+        "Blend until smooth.",
+        "Season with salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "కూరగాయలు తరిగండి.",
+        "నీటిలో ఉడికించండి.",
+        "మృదువుగా బ్లెండ్ చేయండి.",
+        "ఉప్పు చేర్చండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सब्जियाँ काटें।",
+        "पानी में उबालें।",
+        "मुलायम होने तक ब्लेंड करें।",
+        "नमक डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "vegetable"]
+  },
+  {
+    "id": 605,
+    "name": {
+      "english": "Quinoa Salad",
+      "telugu": "క్వినోవా సలాడ్",
+      "hindi": "क्विनोआ सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "A protein-rich quinoa salad with veggies.",
+      "telugu": "కూరగాయలతో ప్రోటీన్ సింక్ క్వినోవా సలాడ్.",
+      "hindi": "सब्जियों के साथ प्रोटीन युक्त क्विनोआ सलाद।"
+    },
+    "time": "25 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Quinoa - 1/2 cup",
+        "Cucumber - 1/2",
+        "Bell pepper - 1/2",
+        "Olive oil - 1 tbsp",
+        "Lemon juice - 1 tsp"
+      ],
+      "telugu": [
+        "క్వినోవా - 1/2 కప్పు",
+        "వేలుకుల కీర - 1/2",
+        "గుండ్రె మిరపకాయ - 1/2",
+        "ఆలివ్ నూనె - 1 టేబుల్ స్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "क्विनोआ - 1/2 कप",
+        "खीरा - 1/2",
+        "शिमला मिर्च - 1/2",
+        "जैतून का तेल - 1 बड़ा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook quinoa.",
+        "Chop vegetables.",
+        "Mix with olive oil and lemon.",
+        "Season with salt.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "క్వినోవాను ఉడికించండి.",
+        "కూరగాయలు తరిగండి.",
+        "ఆలివ్ నూనె మరియు నిమ్మ రసం కలపండి.",
+        "ఉప్పు వేయండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "क्विनोआ पकाएँ।",
+        "सब्जियाँ काटें।",
+        "जैतून का तेल और नींबू मिलाएँ।",
+        "नमक डालें।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "quinoa", "salad"]
+  },
+  {
+    "id": 606,
+    "name": {
+      "english": "Vegetable Stir Fry",
+      "telugu": "వెజిటబుల్ స్టిర్ ఫ్రై",
+      "hindi": "वेजिटेबल स्टिर फ्राय"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Quick stir-fried seasonal vegetables.",
+      "telugu": "వేగంగా స్టిర్-ఫ్రై చేసిన సీజనల్ కూరగాయలు.",
+      "hindi": "तेजी से भूनी हुई मौसमी सब्जियाँ।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Broccoli - 1 cup",
+        "Capsicum - 1/2",
+        "Carrot - 1",
+        "Soy sauce - 1 tbsp",
+        "Olive oil - 1 tsp"
+      ],
+      "telugu": [
+        "బ్రొక్కలీ - 1 కప్పు",
+        "క్యాప్సికం - 1/2",
+        "క్యారెట్ - 1",
+        "సోయా సాస్ - 1 టేబుల్ స్పూన్",
+        "ఆలివ్ నూనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "ब्रोकली - 1 कप",
+        "कैप्सिकम - 1/2",
+        "गाजर - 1",
+        "सोया सॉस - 1 बड़ा चम्मच",
+        "जैतून का तेल - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil in a pan.",
+        "Add vegetables and stir fry.",
+        "Add soy sauce.",
+        "Cook until tender.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పాన్‌లో నూనె వేడి చేయండి.",
+        "కూరగాయలు వేయించి స్టిర్ ఫ్రై చేయండి.",
+        "సోయా సాస్ వేయండి.",
+        "సున్నితంగా అయ్యేవరకు వండండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पैन में तेल गर्म करें।",
+        "सब्जियाँ डालकर भूनें।",
+        "सोया सॉस डालें।",
+        "नरम होने तक पकाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "vegetable", "stir-fry"]
+  },
+  {
+    "id": 607,
+    "name": {
+      "english": "Chia Seed Pudding",
+ "telugu": "చియా సీడ్ పుడ్డింగ్",
+      "hindi": "चिया सीड पुडिंग"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Creamy chia seed pudding with berries.",
+      "telugu": "బెర్రీలతో క్రీమియర్ చియా పుడ్డింగ్.",
+      "hindi": "बेरियों के साथ क्रीमी चिया सीड पुडिंग।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Chia seeds - 2 tbsp",
+        "Milk - 1 cup",
+        "Honey - 1 tsp",
+        "Berries - 1/4 cup",
+        "Vanilla extract - 1/2 tsp"
+      ],
+      "telugu": [
+        "చియా గింజలు - 2 టేబుల్ స్పూన్లు",
+        "పాలు - 1 కప్పు",
+        "తేనె - 1 టీస్పూన్",
+        "బెర్రీలు - 1/4 కప్పు",
+        "వనిల్లా ఎక్స్‌ట్రాక్ట్ - 1/2 టీస్పూన్"
+      ],
+      "hindi": [
+        "चिया बीज - 2 बड़े चम्मच",
+        "दूध - 1 कप",
+        "शहद - 1 छोटा चम्मच",
+        "बेरियाँ - 1/4 कप",
+        "वनीला अर्क - 1/2 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix chia seeds and milk.",
+        "Add honey and vanilla.",
+        "Refrigerate for 2 hours.",
+        "Top with berries.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "చియా గింజలు మరియు పాలను కలపండి.",
+        "తేనె మరియు వనిల్లా వేయండి.",
+        "2 గంటల పాటు ఫ్రిజ్‌లో ఉంచండి.",
+        "బెర్రీలు పెట్టండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चिया बीज और दूध मिलाएँ।",
+        "शहद और वनीला डालें।",
+        "2 घंटे के लिए फ्रिज में रखें।",
+        "बेरियाँ डालें।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "dessert", "chia"]
+  },
+  {
+    "id": 608,
+    "name": {
+      "english": "Greek Yogurt Bowl",
+      "telugu": "గ్రీకు యోగర్ట్ బౌల్",
+      "hindi": "ग्रीक योगर्ट बाउल"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Yogurt bowl topped with fruits and nuts.",
+      "telugu": "ఫలాలు మరియు బియ్యాలతో టాప్ చేసిన యోగర్ట్ బౌల్.",
+      "hindi": "फलों और मेवों से सजी योगर्ट बाउल।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Greek yogurt - 1 cup",
+        "Strawberries - 4",
+        "Blueberries - 1/4 cup",
+        "Walnuts - 4",
+        "Honey - 1 tsp"
+      ],
+      "telugu": [
+        "గ్రీకు యోగర్ట్ - 1 కప్పు",
+        "స్ట్రాబెర్రీలు - 4",
+        "బ్లూబెర్రీలు - 1/4 కప్పు",
+        "ఓట్స్ - 4",
+        "తేనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "ग्रीक योगर्ट - 1 कप",
+        "स्ट्रॉबेरी - 4",
+        "ब्लूबेरी - 1/4 कप",
+        "अखरोट - 4",
+        "शहद - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Add yogurt to a bowl.",
+        "Top with fruits and nuts.",
+        "Drizzle honey.",
+        "Mix lightly.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "బౌల్లో యోగర్ట్ వేసండి.",
+        "ఫలాలు మరియు బియ్యాలు పెట్టండి.",
+        "తేనె చల్లి.",
+        "హాలీగా కలపండి.",
+        "తక్షణమే సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "बाउल में योगर्ट डालें।",
+        "फलों और मेवों से सजाएँ।",
+        "शहद डालें।",
+        "हल्का मिलाएँ।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["healthy", "yogurt", "breakfast"]
+  },
+  {
+    "id": 609,
+    "name": {
+      "english": "Avocado Toast",
+      "telugu": "అవకాడో టోస్ట్",
+      "hindi": "एवोकाडो टोस्ट"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Whole grain toast topped with mashed avocado.",
+      "telugu": "మ్యాష్ చేయబడిన అవకాడోతో పూర్తి ధాన్య టోస్ట్.",
+      "hindi": "मैश्ड एवोकाडो से भरा होल ग्रेन टोस्ट।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Bread slice - 1",
+        "Avocado - 1/2",
+        "Lemon juice - 1 tsp",
+        "Salt - to taste",
+        "Chili flakes - a pinch"
+      ],
+      "telugu": [
+        "బ్రెడ్ స్లైస్ - 1",
+        "అవకాడో - 1/2",
+        "నిమ్మరసం - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి",
+        "మిరియాల పొడి - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "ब्रेड स्लाइस - 1",
+        "एवोकाडो - 1/2",
+        "नींबू रस - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार",
+        "मिर्च के फ्लेक्स - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Toast the bread.",
+        "Mash avocado with lemon juice.",
+        "Spread on toast.",
+        "Sprinkle salt and chili.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "బ్రెడ్‌ను టోస్ట్ చేయండి.",
+        "నిమ్మరసం తో అవకాడోను పేస్ట్ చేయండి.",
+        "టోస్ట్ పై విస్తరించండి.",
+        "ఉప్పు మరియు మిరియాల చల్లండి.",
+        "తక్షణమే సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "ब्रेड टोस्ट करें।",
+        "एवोकाडो को नींबू रस के साथ मैश करें।",
+        "टोस्ट पर फैलाएँ।",
+        "नमक और मिर्च डालें।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["healthy", "toast", "avocado"]
+  },
+  {
+    "id": 610,
+    "name": {
+      "english": "Spinach Smoothie",
+      "telugu": "పాలకూర స్మూతీ",
+      "hindi": "पालक स्मूदी"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Green smoothie with spinach and banana.",
+      "telugu": "పాలకూర మరియు బనానాతో ఆకుపచ్చ స్మూతీ.",
+      "hindi": "पालक और केले के साथ हरी स्मूदी।"
+    },
+    "time": "8 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Spinach - 1 cup",
+        "Banana - 1",
+        "Milk - 1 cup",
+        "Honey - 1 tsp",
+        "Ice cubes - 3"
+      ],
+      "telugu": [
+        "పాలకూర - 1 కప్పు",
+        "బనానా - 1",
+        "పాలు - 1 కప్పు",
+        "తేనె - 1 టీస్పూన్",
+        "ఐస్ క్యూబ్స్ - 3"
+      ],
+      "hindi": [
+        "पालक - 1 कप",
+        "केला - 1",
+        "दूध - 1 कप",
+        "शहद - 1 छोटा चम्मच",
+        "बर्फ के टुकड़े - 3"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend all ingredients.",
+        "Adjust sweetness.",
+        "Pour into a glass.",
+        "Serve chilled.",
+        "Enjoy immediately."
+      ],
+      "telugu": [
+        "అన్ని పదార్థాలు బ్లెండ్ చేయండి.",
+        "ఎకరీతిని సర్దుబాటు చేసుకోండి.",
+        "గ్లాస్‌లో పోయండి.",
+        "తణిమించి సర్వ్ చేయండి.",
+        "తక్షణమే ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "सभी सामग्री ब्लेंड करें।",
+        "मीठास समायोजित करें।",
+        "ग्लास में डालें।",
+        "ठंडा परोसें।",
+        "तुरंत आनंद लें।"
+      ]
+    },
+    "tags": ["healthy", "smoothie", "green"]
+  },
+  {
+    "id": 611,
+    "name": {
+      "english": "Lentil Soup",
+      "telugu": "పప్పు సూప్",
+      "hindi": "दाल सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Comforting lentil soup with spices.",
+      "telugu": "మసాలాలతో సాంత్వనాపూర్వక పప్పు సూప్.",
+      "hindi": "मसालों के साथ आरामदायक दाल सूप।"
+    },
+    "time": "30 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Red lentils - 1/2 cup",
+        "Onion - 1 small",
+        "Garlic - 2 cloves",
+        "Turmeric - 1/2 tsp",
+        "Water - 2 cups"
+      ],
+      "telugu": [
+        "ఎర్ర పప్పు - 1/2 కప్పు",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "బెల్లుల్లి - 2 రెమ్మలు",
+        "పసుపు - 1/2 టీస్పూన్",
+        "నీరు - 2 కప్పులు"
+      ],
+      "hindi": [
+        "लाल दाल - 1/2 कप",
+        "प्याज - 1 छोटा",
+        "लहसुन - 2 कलियाँ",
+        "हल्दी - 1/2 छोटा चम्मच",
+        "पानी - 2 कप"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onions and garlic.",
+        "Add lentils and water.",
+        "Add turmeric and simmer.",
+        "Cook until soft.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "ఉల్లిపాయలు మరియు బెల్లుల్లిని వేపండి.",
+        "పప్పు మరియు నీరు చేర్చండి.",
+        "పసుపు చేర్పి మరిగించండి.",
+        "గుడవగా అయ్యేవరకు వండండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज और लहसुन भूनें।",
+        "दाल और पानी डालें।",
+        "हल्दी डालकर उबालें।",
+        "नरम होने तक पकाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "lentil"]
+  },
+  {
+    "id": 612,
+    "name": {
+      "english": "Cucumber Raita",
+      "telugu": "క్కుకుంబర్ రైటా",
+      "hindi": "खीरे की रायता"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Cooling cucumber raita with yogurt.",
+      "telugu": "యోగర్ట్‌తో చల్లని కుకుంబర్ రైటా.",
+      "hindi": "दही के साथ ताज़ा खीरे की रायता।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Cucumber - 1",
+        "Yogurt - 1 cup",
+        "Cumin powder - 1/2 tsp",
+        "Salt - to taste",
+        "Coriander leaves - few"
+      ],
+      "telugu": [
+        "కుకుంబర్ - 1",
+        "దహి - 1 కప్పు",
+        "జీలకర్ర పొడి - 1/2 టీస్పూన్",
+        "ఉప్పు - రుచికి",
+        "కొత్తిమీర ఆకులు - కొన్ని"
+      ],
+      "hindi": [
+        "खीरा - 1",
+        "दही - 1 कप",
+        "जीरा पाउडर - 1/2 छोटा चम्मच",
+        "नमक - स्वादानुसार",
+        "धनिए के पत्ते - कुछ"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Grate cucumber.",
+        "Mix with yogurt.",
+        "Add cumin and salt.",
+        "Garnish with coriander.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "కుకుంబర్ గరిటె చేయండి.",
+        "దహితో కలపండి.",
+        "జీలకర్ర మరియు ఉప్పు జత చేయండి.",
+        "కొత్తిమీర ఏకరం చేయండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "खीरे को कद्दूकस करें।",
+        "दही के साथ मिलाएँ।",
+        "जीरा और नमक डालें।",
+        "हरी धनिया सजाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "raita", "yogurt"]
+  },
+  {
+    "id": 613,
+    "name": {
+      "english": "Hummus",
+      "telugu": "హమ్మస్",
+      "hindi": "हमस"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Creamy chickpea dip with tahini.",
+      "telugu": "తాహిని తో కరకమైన చిక్పీ డిప్.",
+      "hindi": "ताहिनी के साथ क्रीमी चने की डिप।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Chickpeas - 1 cup",
+        "Tahini - 1 tbsp",
+        "Garlic - 1 clove",
+        "Lemon juice - 1 tbsp",
+        "Olive oil - 1 tbsp"
+      ],
+      "telugu": [
+        "చిక్పీస్ - 1 కప్పు",
+        "తాహిని - 1 టేబుల్ స్పూన్",
+        "బెల్లుల్లి - 1 రెమ్మ",
+        "నిమ్మరసం - 1 టేబుల్ స్పూన్",
+        "ఆలివ్ నూనె - 1 టేబుల్ స్పూన్"
+      ],
+      "hindi": [
+        "चने - 1 कप",
+        "ताहिनी - 1 बड़ा चम्मच",
+        "लहसुन - 1 कलिया",
+        "नींबू रस - 1 बड़ा चम्मच",
+        "जैतून का तेल - 1 बड़ा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend all ingredients until smooth.",
+        "Adjust seasoning.",
+        "Drizzle olive oil.",
+        "Serve with veggies.",
+        "Store leftovers chilled."
+      ],
+      "telugu": [
+        "అన్ని పదార్థాలను మృదువుగా బ్లెండ్ చేయండి.",
+        "సీజనింగ్ సర్దుబాటు చేయండి.",
+        "ఆలివ్ నూనె చల్లి.",
+        "కూరగాయలతో సర్వ్ చేయండి.",
+        "మిగిలిన వాటిని తణిమించి ఉంచండి."
+      ],
+      "hindi": [
+        "सभी सामग्री को चिकना होने तक ब्लेंड करें।",
+        "मसाला समायोजित करें।",
+        "जैतून का तेल डालें।",
+        "सब्जियों के साथ परोसें।",
+        "बचे हुए को ठंडा रखें।"
+      ]
+    },
+    "tags": ["healthy", "dip", "chickpea"]
+  },
+  {
+    "id": 614,
+    "name": {
+      "english": "Beetroot Salad",
+      "telugu": "బీట్‌రూట్ సలాడ్",
+      "hindi": "चुकंदर सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Fresh beetroot salad with lemon dressing.",
+      "telugu": "నిమ్మరసం డ్రెస్సింగ్ తో తాజా బీట్‌రూట్ సలాడ్.",
+      "hindi": "नींबू ड्रेसिंग के साथ ताज़ा चुकंदर सलाद।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Beetroot - 1",
+        "Carrot - 1",
+        "Lemon juice - 1 tsp",
+        "Salt - to taste",
+        "Olive oil - 1 tsp"
+      ],
+      "telugu": [
+        "బీట్‌రూట్ - 1",
+        "క్యారెట్ - 1",
+        "నిమ్మరసం - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి",
+        "ఆలివ్ నూనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "चुकंदर - 1",
+        "गाजर - 1",
+        "नींबू रस - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार",
+        "जैतून का तेल - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Grate beetroot and carrot.",
+        "Mix with lemon juice.",
+        "Add oil and salt.",
+        "Toss well.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "బీట్‌రూట్ మరియు క్యారెట్‌ను గరిటె చేయండి.",
+        "నిమ్మరసం తో కలపండి.",
+        "నూనె మరియు ఉప్పు చేర్చండి.",
+        "బాగా మిక్స్ చేయండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चुकंदर और गाजर कद्दूकस करें।",
+        "नींबू रस के साथ मिलाएँ।",
+        "तेल और नमक डालें।",
+        "अच्छी तरह मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "beetroot"]
+  },
+  {
+    "id": 615,
+    "name": {
+      "english": "Apple Cinnamon Oats",
+      "telugu": "ఆపిల్ సైనమన్ ఓట్స్",
+      "hindi": "सेब दालचीनी ओट्स"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Warm oats with apple and cinnamon.",
+      "telugu": "ఆపిల్ మరియు సైనమన్ తో వేడి ఓట్స్.",
+      "hindi": "सेब और दालचीनी के साथ गर्म ओट्स।"
+    },
+    "time": "12 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Oats - 1/2 cup",
+        "Apple - 1/2",
+        "Milk - 1 cup",
+        "Cinnamon - 1/2 tsp",
+        "Honey - 1 tsp"
+      ],
+      "telugu": [
+        "ఓట్స్ - 1/2 కప్పు",
+        "ఆపిల్ - 1/2",
+        "పాలు - 1 కప్పు",
+        "సైనమన్ - 1/2 టీస్పూన్",
+        "తేనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "ओट्स - 1/2 कप",
+        "सेब - 1/2",
+        "दूध - 1 कप",
+        "दालचीनी - 1/2 छोटा चम्मच",
+        "शहद - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook oats with milk.",
+        "Add diced apple.",
+        "Stir in cinnamon.",
+        "Sweeten with honey.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "పాలుతో ఓట్స్ వండి.",
+        "తరిగిన ఆపిల్ జత చేయండి.",
+        "సైనమన్ కలపండి.",
+        "తేనెతో తీపి చేయండి.",
+        "వేడి గా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "दूध के साथ ओट्स पकाएँ।",
+        "कटे हुए सेब डालें।",
+        "दालचीनी मिलाएँ।",
+        "शहद डालकर मीठा करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "oats", "breakfast"]
+  },
+  {
+    "id": 616,
+    "name": {
+      "english": "Brown Rice Bowl",
+      "telugu": "బ్రౌన్ రైస్ బౌల్",
+      "hindi": "ब्राउन राइस बाउल"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Brown rice bowl with veggies and beans.",
+      "telugu": "కూరగాయలు మరియు బీన్స్ తో బ్రౌన్ రైస్ బౌల్.",
+      "hindi": "सब्जियों और बीन्स के साथ ब्राउन राइस बाउल।"
+    },
+    "time": "30 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Brown rice - 1 cup",
+        "Mixed beans - 1/2 cup",
+        "Corn - 1/4 cup",
+        "Carrot - 1",
+        "Soy sauce - 1 tbsp"
+      ],
+      "telugu": [
+        "బ్రౌన్ రైస్ - 1 కప్పు",
+        "మిక్స్ బీన్స్ - 1/2 కప్పు",
+        "కోర్న్ - 1/4 కప్పు",
+        "క్యారెట్ - 1",
+        "సోయా సాస్ - 1 టేబుల్ స్పూన్"
+      ],
+      "hindi": [
+        "ब्राउन राइस - 1 कप",
+        "मिक्स बीन्स - 1/2 कप",
+        "मकई - 1/4 कप",
+        "गाजर - 1",
+        "सोया सॉस - 1 बड़ा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice and beans.",
+        "Saute vegetables.",
+        "Mix with rice.",
+        "Add soy sauce.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "అన్నం మరియు బీన్స్ వండి.",
+        "కూరగాయలను వేయించండి.",
+        "అన్నంతో కలపండి.",
+        "సోయా సాస్ జత చేయండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और बीन्स पकाएँ।",
+        "सब्जियाँ भूनें।",
+        "चावल के साथ मिलाएँ।",
+        "सोया सॉस डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "rice", "bowl"]
+  },
+  {
+    "id": 617,
+    "name": {
+      "english": "Tomato Basil Soup",
+      "telugu": "టమాటా బేసిల్ సూప్",
+      "hindi": "टमाटर बेसिल सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Simple tomato soup with basil leaves.",
+      "telugu": "తాకి ఆకులతో సరళమైన టమాటా సూప్.",
+      "hindi": "तुलसी के पत्तों के साथ सरल टमाटर सूप।"
+    },
+    "time": "18 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Tomatoes - 3",
+        "Basil leaves - a handful",
+        "Onion - 1 small",
+        "Garlic - 1 clove",
+        "Water - 2 cups"
+      ],
+      "telugu": [
+        "టమాటాలు - 3",
+        "బేసిల్ ఆకు - ఒక మోస్తరు",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "బెల్లుల్లి - 1 రెమ్మ",
+        "నీరు - 2 కప్పులు"
+      ],
+      "hindi": [
+        "टमाटर - 3",
+        "बेसिल पत्ते - एक मुठ्ठी",
+        "प्याज - 1 छोटा",
+        "लहसुन - 1 कलिया",
+        "पानी - 2 कप"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onion and garlic.",
+        "Add chopped tomatoes.",
+        "Add water and basil.",
+        "Simmer and blend.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "ఉల్లిపాయ మరియు బెల్లుల్లిని వెయ్యండి.",
+        "కట్చిన టమాటాలు చేర్చండి.",
+        "నీరు మరియు బేసిల్ జత చేయండి.",
+        "మరిగించండి మరియు బ్లెండ్ చేయండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज और लहसुन भूनें।",
+        "कटे हुए टमाटर डालें।",
+        "पानी और बेसिल डालें।",
+        "उबालें और ब्लेंड करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "tomato"]
+  },
+  {
+    "id": 618,
+    "name": {
+      "english": "Banana Pancakes",
+      "telugu": "బనానా ప్యాన్కేక్‌లు",
+      "hindi": "केले के पैनकेक"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Fluffy banana pancakes with oats.",
+      "telugu": "ఓట్స్‌తో ఫ్లఫీ బనానా ప్యాన్కేక్‌లు.",
+      "hindi": "ओट्स के साथ फुलकेले केले के पैनकेक।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Banana - 1",
+        "Oats - 1/2 cup",
+        "Egg - 1",
+        "Milk - 1/4 cup",
+        "Baking powder - 1/4 tsp"
+      ],
+      "telugu": [
+        "బనానా - 1",
+        "ఓట్స్ - 1/2 కప్పు",
+        "గుడ్డు - 1",
+        "పాలు - 1/4 కప్పు",
+        "బేకింగ్ పొడి - 1/4 టీస్పూన్"
+      ],
+      "hindi": [
+        "केला - 1",
+        "ओट्स - 1/2 कप",
+        "अंडा - 1",
+        "दूध - 1/4 कप",
+        "बेकिंग पाउडर - 1/4 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend banana, oats and milk.",
+        "Add egg and baking powder.",
+        "Heat a pan and pour batter.",
+        "Cook on both sides.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "బనానా, ఓట్స్ మరియు పాలను బ్లెండ్ చేయండి.",
+        "గుడ్డు మరియు బేకింగ్ పొడి వేయండి.",
+        "పాన్ వేడి చేసి బాటర్ పోయండి.",
+        "రెండు వైపులా వండండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "केला, ओट्स और दूध ब्लेंड करें।",
+        "अंडा और बेकिंग पाउडर डालें।",
+        "पैन गर्म करें और घोल डालें।",
+        "दोनों तरफ से पकाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "pancake", "breakfast"]
+  },
+  {
+    "id": 619,
+    "name": {
+      "english": "Broccoli Salad",
+      "telugu": "బ్రొక్కలీ సలాడ్",
+      "hindi": "ब्रोकली सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Crunchy broccoli salad with light dressing.",
+      "telugu": "లైట్ డ్రెస్సింగ్ తో کروంచీ బ్రొక్కలీ సలాడ్.",
+      "hindi": "हल्की ड्रेसिंग के साथ कुरकुरा ब्रोकली सलाद।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Broccoli - 1 cup",
+        "Cherry tomatoes - 6",
+        "Olive oil - 1 tsp",
+        "Lemon juice - 1 tsp",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "బ్రొక్కలీ - 1 కప్పు",
+        "చెర్రీ టమాటాలు - 6",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "ब्रोकली - 1 कप",
+        "चेरी टमाटर - 6",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blanch broccoli.",
+        "Mix with tomatoes.",
+        "Add oil and lemon.",
+        "Season with salt.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "బ్రొక్కలీని బ్లాంచ్ చేయండి.",
+        "టమాటాలతో కలపండి.",
+        "నూనె మరియు నిమ్మ వేసండి.",
+        "ఉప్పు వేయండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "ब्रोकली ब्लांच करें।",
+        "टमाटरों के साथ मिलाएँ।",
+        "तेल और नींबू डालें।",
+        "नमक डालें।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "broccoli"]
+  },
+  {
+    "id": 620,
+    "name": {
+      "english": "Carrot Ginger Soup",
+      "telugu": "క్యారెట్ ఇంజర్ సూప్",
+      "hindi": "गाजर अदरक सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Comforting carrot soup with ginger.",
+      "telugu": "అల్లంతో సాంత్వనాపూర్వక క్యారెట్ సూప్.",
+      "hindi": "अदरक के साथ आरामदेह गाजर सूप।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Carrots - 3",
+        "Ginger - 1 inch",
+        "Onion - 1 small",
+        "Water - 2 cups",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "క్యారెట్లు - 3",
+        "అల్లం - 1 అంగుళం",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "నీరు - 2 కప్పులు",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "गाजर - 3",
+        "अदरक - 1 इंच",
+        "प्याज - 1 छोटा",
+        "पानी - 2 कप",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook carrots, onion and ginger.",
+        "Blend until smooth.",
+        "Add water and simmer.",
+        "Season with salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "క్యారెట్లు, ఉల్లిపాయ మరియు అల్లం వండండి.",
+        "మృదువుగా బ్లెండ్ చేయండి.",
+        "నీరు చేర్చి మరిగించండి.",
+        "ఉప్పు వేసి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "गाजर, प्याज और अदरक पकाएँ।",
+        "चिकना होने तक ब्लेंड करें।",
+        "पानी डालकर उबालें।",
+        "नमक डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "carrot"]
+  },
+  {
+    "id": 621,
+    "name": {
+      "english": "Chickpea Salad",
+      "telugu": "చిక్పీ సలాడ్",
+      "hindi": "चना सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Protein-rich chickpea salad with herbs.",
+      "telugu": "ఒషదాలతో ప్రోటీన్-పోయిన చిక్పీ సలాడ్.",
+      "hindi": "जड़ी-बूटियों के साथ प्रोटीन युक्त चना सलाद।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Chickpeas - 1 cup",
+        "Cucumber - 1/2",
+        "Tomato - 1",
+        "Coriander - a handful",
+        "Lemon juice - 1 tbsp"
+      ],
+      "telugu": [
+        "చిక్పీస్ - 1 కప్పు",
+        "కుకుంబర్ - 1/2",
+        "టమాటా - 1",
+        "కొత్తిమీర - ఒక మోస్తరు",
+        "నిమ్మరసం - 1 టేబుల్ స్పూన్"
+      ],
+      "hindi": [
+        "चना - 1 कप",
+        "खीरा - 1/2",
+        "टमाटर - 1",
+        "धनिया - एक मुठ्ठी",
+        "नींबू रस - 1 बड़ा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix chickpeas and chopped vegetables.",
+        "Add coriander and lemon.",
+        "Season with salt.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "చిక్పీస్ మరియు తరిగిన కూరగాయలను కలపండి.",
+        "కొత్తిమీర మరియు నిమ్మ జత చేయండి.",
+        "ఉప్పు చేర్చండి.",
+        "జాగ్రత్తగా గుమ్మండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चना और कटी हुई सब्जियाँ मिलाएँ।",
+        "धनिया और नींबू डालें।",
+        "नमक डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "chickpea"]
+  },
+  {
+    "id": 622,
+    "name": {
+      "english": "Apple Cinnamon Smoothie",
+      "telugu": "ఆపిల్ సైనమన్ స్మూతీ",
+      "hindi": "सेब दालचीनी स्मूदी"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Smoothie with apple, cinnamon and oats.",
+      "telugu": "ఆపిల్, సైనమన్ మరియు ఓట్స్‌తో స్మూతీ.",
+      "hindi": "सेब, दालचीनी और ओट्स के साथ स्मूदी।"
+    },
+    "time": "8 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Apple - 1",
+        "Oats - 2 tbsp",
+        "Cinnamon - 1/2 tsp",
+        "Milk - 1 cup",
+        "Honey - 1 tsp"
+      ],
+      "telugu": [
+        "ఆపిల్ - 1",
+        "ఓట్స్ - 2 టేబుల్ స్పూన్లు",
+        "సైనమన్ - 1/2 టీస్పూన్",
+        "పాలు - 1 కప్పు",
+        "తేనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "सेब - 1",
+        "ओट्स - 2 बड़े चम्मच",
+        "दालचीनी - 1/2 छोटा चम्मच",
+        "दूध - 1 कप",
+        "शहद - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend all ingredients.",
+        "Pour into a glass.",
+        "Serve chilled.",
+        "Enjoy immediately.",
+        "Stir before serving."
+      ],
+      "telugu": [
+        "అన్ని పదార్థాలను బ్లెండ్ చేయండి.",
+        "గ్లాస్‌లో పోయండి.",
+        "తణిమించి సర్వ్ చేయండి.",
+        "తక్షణమే ఆస్వాదించండి.",
+        "సర్వ్ కు ముందు కలపండి."
+      ],
+      "hindi": [
+        "सभी सामग्री ब्लेंड करें।",
+        "ग्लास में डालें।",
+        "ठंडा परोसें।",
+        "तुरंत आनंद लें।",
+        "परोसने से पहले हिलाएँ।"
+      ]
+    },
+    "tags": ["healthy", "smoothie", "apple"]
+  },
+  {
+    "id": 623,
+    "name": {
+      "english": "Mango Salad",
+      "telugu": "మామిడి సలాడ్",
+      "hindi": "आम का सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Sweet and tangy mango salad.",
+      "telugu": "తీపి మరియు కలపిపోయే మామిడి సలాడ్.",
+      "hindi": "मीठा और खट्टा आम का सलाद।"
+    },
+    "time": "12 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Mango - 1",
+        "Onion - 1/2",
+        "Coriander - a handful",
+        "Lime juice - 1 tsp",
+        "Chili flakes - a pinch"
+      ],
+      "telugu": [
+        "మామిడి - 1",
+        "ఉల్లిపాయ - 1/2",
+        "కొత్తిమీర - ఒక మోస్తరు",
+        "నిమ్మరసం - 1 టీస్పూన్",
+        "మిరియాల పొడి - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "आम - 1",
+        "प्याज - 1/2",
+        "धनिया - एक मुठ्ठी",
+        "नींबू रस - 1 छोटा चम्मच",
+        "मिर्च के फ्लेक्स - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Chop mango and onion.",
+        "Mix with coriander.",
+        "Add lime juice and chili.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "మామిడి మరియు ఉల్లిపాయ తరిగండి.",
+        "కొత్తిమీరతో కలపండి.",
+        "నిమ్మరసం మరియు మిరియాల చేర్చండి.",
+        "సొంతంగా ఉర్రగొట్టండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "आम और प्याज काटें।",
+        "धनिया के साथ मिलाएँ।",
+        "नींबू रस और मिर्च डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "mango"]
+  },
+  {
+    "id": 624,
+    "name": {
+      "english": "Cottage Cheese Salad",
+      "telugu": "పన్నీర్ సలాడ్",
+      "hindi": "पनीर सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Paneer salad with cucumber and tomatoes.",
+      "telugu": "కుకుంబర్ మరియు టమాటాలతో పన్నీర్ సలాడ్.",
+      "hindi": "खीरा और टमाटर के साथ पनीर सलाद।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Paneer - 100g",
+        "Cucumber - 1/2",
+        "Tomato - 1",
+        "Olive oil - 1 tsp",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "పన్నీర్ - 100 గురం",
+        "కుకుంబర్ - 1/2",
+        "టమాటా - 1",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "पनीर - 100 ग्राम",
+        "खीरा - 1/2",
+        "टमाटर - 1",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Dice paneer, cucumber and tomato.",
+        "Mix in a bowl.",
+        "Add oil and salt.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "పన్నీర్, కుకుంబర్ మరియు టమాటా నుడిచండి.",
+        "ఒక గిన్నెలో కలపండి.",
+        "నూనె మరియు ఉప్పు వేయండి.",
+        "తక్కువగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पनीर, खीरा और टमाटर काटें।",
+        "एक कटोरे में मिलाएँ।",
+        "तेल और नमक डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "paneer"]
+  },
+  {
+    "id": 625,
+    "name": {
+      "english": "Methi Paratha",
+      "telugu": "మెంతి పరాఠా",
+      "hindi": "मेथी पराठा"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Whole wheat paratha with fresh fenugreek.",
+      "telugu": "తాజా మెంతితో పూర్తి గోధుమ పరాఠా.",
+      "hindi": "ताज़ी मेथी के साथ होल व्हीट पराठा।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Whole wheat flour - 1 cup",
+        "Fenugreek leaves - 1/2 cup",
+        "Salt - to taste",
+        "Water - as needed",
+        "Oil - 1 tsp"
+      ],
+      "telugu": [
+        "గోధుమ పిండి - 1 కప్పు",
+        "మెంతి ఆకులు - 1/2 కప్పు",
+        "ఉప్పు - రుచికి",
+        "నీరు - అవసరానికి",
+        "నూనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "गेहूं का आटा - 1 कप",
+        "मेथी पत्ते - 1/2 कप",
+        "नमक - स्वादानुसार",
+        "पानी - आवश्यकतानुसार",
+        "तेल - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix flour, fenugreek and salt.",
+        "Knead dough with water.",
+        "Roll into parathas.",
+        "Cook on a skillet with oil.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పిండి, మెంతి మరియు ఉప్పు కలపండి.",
+        "నీటితో మావు ముద్ద చేయండి.",
+        "పరాఠాలు గడగండి.",
+        "వెనిగోతో స్కిలెట్ పై వండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "आटा, मेथी और नमक मिलाएँ।",
+        "पानी से आटा गूँथें।",
+        "पराठे बेलें।",
+        "तेल में तवे पर पकाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "bread", "fenugreek"]
+  },
+  {
+    "id": 626,
+    "name": {
+      "english": "Berry Parfait",
+      "telugu": "బెర్రీ పర్ఫైట్",
+      "hindi": "बेरी पारफेट"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Layered yogurt parfait with berries and granola.",
+      "telugu": "బెర్రీలు మరియు గ్రానోలా తో లేయర్డ్ యోగర్ట్ పర్ఫైట్.",
+      "hindi": "बेरियों और ग्रेनोला के साथ लेयर्ड योगर्ट पारफेट।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Greek yogurt - 1 cup",
+        "Mixed berries - 1/2 cup",
+        "Granola - 1/4 cup",
+        "Honey - 1 tsp",
+        "Mint - for garnish"
+      ],
+      "telugu": [
+        "గ్రీకు యోగర్ట్ - 1 కప్పు",
+        "మిక్సడ్ బెర్రీలు - 1/2 కప్పు",
+        "గ్రానోలా - 1/4 కప్పు",
+        "తేనె - 1 టీస్పూన్",
+        "పుదీనా - అలంకరణకు"
+      ],
+      "hindi": [
+        "ग्रीक योगर्ट - 1 कप",
+        "मिक्स्ड बेरी - 1/2 कप",
+        "ग्रेनोला - 1/4 कप",
+        "शहद - 1 छोटा चम्मच",
+        "पुदीना - सजावट के लिए"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Layer yogurt, berries and granola.",
+        "Drizzle honey.",
+        "Garnish with mint.",
+        "Serve immediately.",
+        "Enjoy chilled."
+      ],
+      "telugu": [
+        "యోగర్ట్, బెర్రీలు మరియు గ్రానోలా లేయర్ చేయండి.",
+        "తేనె చల్లి.",
+        "పుదీనాతో అలంకరించండి.",
+        "తక్షణమే సర్వ్ చేయండి.",
+        "తణిమించి ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "योगर्ट, बेरी और ग्रेनोला की परत बनाएं।",
+        "शहद डालें।",
+        "पुदीने से सजाएँ।",
+        "तुरंत परोसें।",
+        "ठंडा आनंद लें।"
+      ]
+    },
+    "tags": ["healthy", "dessert", "yogurt"]
+  },
+  {
+    "id": 627,
+    "name": {
+      "english": "Lemon Quinoa",
+      "telugu": "నిమ్మ క్వినోవా",
+      "hindi": "नींबू क्विनोआ"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Light quinoa with lemon and herbs.",
+      "telugu": "నిమ్మ మరియు ఓషధాలతో లైట్ క్వినోవా.",
+      "hindi": "नींबू और जड़ी-बूटियों के साथ हल्का क्विनोआ।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Quinoa - 1/2 cup",
+        "Lemon juice - 1 tbsp",
+        "Parsley - 1 tbsp",
+        "Olive oil - 1 tsp",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "క్వినోవా - 1/2 కప్పు",
+        "నిమ్మరసం - 1 టేబుల్ స్పూన్",
+        "పసుపు - 1 టేబుల్ స్పూన్",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "क्विनोआ - 1/2 कप",
+        "नींबू रस - 1 बड़ा चम्मच",
+        "अजवायन - 1 बड़ा चम्मच",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook quinoa.",
+        "Mix with lemon and herbs.",
+        "Add oil and salt.",
+        "Toss well.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "క్వినోవా వండి.",
+        "నిమ్మ మరియు ఓషధాలతో కలపండి.",
+        "నూనె మరియు ఉప్పు జత చేయండి.",
+        "బాగా మిక్స్ చేయండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "क्विनोआ पकाएँ।",
+        "नींबू और जड़ी-बूटी से मिलाएँ।",
+        "तेल और नमक डालें।",
+        "अच्छी तरह मिलाएँ।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "quinoa", "lemon"]
+  },
+  {
+    "id": 628,
+    "name": {
+      "english": "Pear Salad",
+      "telugu": "పేర్ సలాడ్",
+      "hindi": "नाशपाती सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Sweet pear salad with greens.",
+      "telugu": "ఆకులకూరలతో తీపి పేర్ సలాడ్.",
+      "hindi": "हरी पत्तियों के साथ मीठा नाशपाती सलाद।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Pear - 1",
+        "Mixed greens - 1 cup",
+        "Olive oil - 1 tsp",
+        "Lemon juice - 1 tsp",
+        "Honey - 1 tsp"
+      ],
+      "telugu": [
+        "పేరు - 1",
+        "మిక్స్డ్ ఆకులు - 1 కప్పు",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్",
+        "తేనె - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "नाशपाती - 1",
+        "मिक्स्ड साग - 1 कप",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच",
+        "शहद - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Slice pear.",
+        "Mix with greens.",
+        "Add oil, lemon and honey.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "పేరు స్లైస్ చేయండి.",
+        "ఆకులతో కలపండి.",
+        "నూనె, నిమ్మ మరియు తేనె చేర్చండి.",
+        "తక్కువగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "नाशपाती काटें।",
+        "पत्तियों के साथ मिलाएँ।",
+        "तेल, नींबू और शहद डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "pear"]
+  },
+  {
+    "id": 629,
+    "name": {
+      "english": "Green Pea Curry",
+      "telugu": "గ్రీన్ పీ కర్రీ",
+      "hindi": "हरी मटर की करी"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Simple green pea curry with mild spices.",
+      "telugu": "సంబంధిత మసాలాలతో సులభమైన గ్రీన్ పీ కర్రీ.",
+      "hindi": "हल्के मसालों वाली सरल हरी मटर की करी।"
+    },
+    "time": "25 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Green peas - 1 cup",
+        "Onion - 1 small",
+        "Tomato - 1",
+        "Turmeric - 1/4 tsp",
+        "Coriander powder - 1 tsp"
+      ],
+      "telugu": [
+        "గ్రీన్ పీస్ - 1 కప్పు",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "టమాటా - 1",
+        "పసుపు - 1/4 టీస్పూన్",
+        "ధనియాల పొడి - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "हरी मटर - 1 कप",
+        "प्याज - 1 छोटा",
+        "टमाटर - 1",
+        "हल्दी - 1/4 छोटा चम्मच",
+        "धनिया पाउडर - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onion and tomato.",
+        "Add peas and spices.",
+        "Cook until peas are tender.",
+        "Season with salt.",
+        "Serve with rice."
+      ],
+      "telugu": [
+        "ఉల్లిపాయ మరియు టమాటా వేయండి.",
+        "పీస్ మరియు మసాలాలు చేర్చండి.",
+        "పీస్ మృదువుగా అయ్యేవరకు వండండి.",
+        "ఉప్పు వేసి.",
+        "అన్నంతో సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज और टमाटर भूनें।",
+        "मटर और मसाले डालें।",
+        "मटर नरम होने तक पकाएँ।",
+        "नमक डालें।",
+        "चावल के साथ परोसें।"
+      ]
+    },
+    "tags": ["healthy", "curry", "peas"]
+  },
+  {
+    "id": 630,
+    "name": {
+      "english": "Pumpkin Soup",
+      "telugu": "పంప్కిన్ సూప్",
+      "hindi": "कद्दू सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Creamy pumpkin soup with mild spices.",
+      "telugu": "సున్నితమైన మసాలాలతో క్రీమీ పంప్కిన్ సూప్.",
+      "hindi": "हल्के मसालों के साथ क्रीमी कद्दू सूप।"
+    },
+    "time": "25 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Pumpkin - 1 cup",
+        "Onion - 1 small",
+        "Garlic - 1 clove",
+        "Water - 2 cups",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "పంప్కిన్ - 1 కప్పు",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "బెల్లుల్లి - 1 రెమ్మ",
+        "నీరు - 2 కప్పులు",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "कद्दू - 1 कप",
+        "प्याज - 1 छोटा",
+        "लहसुन - 1 कलिया",
+        "पानी - 2 कप",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook pumpkin, onion and garlic.",
+        "Blend until smooth.",
+        "Simmer with water.",
+        "Season with salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పంప్కిన్, ఉల్లిపాయ మరియు బెల్లుల్లిని వండండి.",
+        "మృదువుగా బ్లెండ్ చేయండి.",
+        "నీటితో మరిగించండి.",
+        "ఉప్పు వేసి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "कद्दू, प्याज और लहसुन पकाएँ।",
+        "चिकना होने तक ब्लेंड करें।",
+        "पानी के साथ उबालें।",
+        "नमक डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "pumpkin"]
+  },
+  {
+    "id": 631,
+    "name": {
+      "english": "Beetroot Smoothie",
+      "telugu": "బీట్‌రూట్ స్మూతీ",
+      "hindi": "चुकंदर स्मूदी"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Beetroot smoothie with apple and yogurt.",
+      "telugu": "ఆపిల్ మరియు యోగర్ట్‌తో బీట్‌రూట్ స్మూతీ.",
+      "hindi": "सेब और दही के साथ चुकंदर स्मूदी।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Beetroot - 1/2",
+        "Apple - 1/2",
+        "Yogurt - 1/2 cup",
+        "Honey - 1 tsp",
+        "Water - 1/4 cup"
+      ],
+      "telugu": [
+        "బీట్‌రూట్ - 1/2",
+        "ఆపిల్ - 1/2",
+        "యోగర్ట్ - 1/2 కప్పు",
+        "తేనె - 1 టీస్పూన్",
+        "నీరు - 1/4 కప్పు"
+      ],
+      "hindi": [
+        "चुकंदर - 1/2",
+        "सेब - 1/2",
+        "दही - 1/2 कप",
+        "शहद - 1 छोटा चम्मच",
+        "पानी - 1/4 कप"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend all ingredients.",
+        "Adjust sweetness.",
+        "Pour into a glass.",
+        "Serve chilled.",
+        "Enjoy."
+      ],
+      "telugu": [
+        "అన్ని పదార్థాలను బ్లెండ్ చేయండి.",
+        "తీపి సర్దుబాటు చేయండి.",
+        "గ్లాస్‌లో పోయండి.",
+        "తణిమించి సర్వ్ చేయండి.",
+        "ఆనందించండి."
+      ],
+      "hindi": [
+        "सभी सामग्री मिलाएँ और ब्लेंड करें।",
+        "मीठास समायोजित करें।",
+        "गिलास में डालें।",
+        "ठंडा परोसें।",
+        "आनंद लें।"
+      ]
+    },
+    "tags": ["healthy", "smoothie", "beetroot"]
+  },
+  {
+    "id": 632,
+    "name": {
+      "english": "Almond Milkshake",
+      "telugu": "బదాం మిల్క్‌షేక్",
+      "hindi": "बादाम मिल्कशेक"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Nutty almond milkshake with dates.",
+      "telugu": "ఖర్జూరాలతో ఘృణా బదాం మిల్క్‌షేక్.",
+      "hindi": "खजूरों के साथ नट्टी बादाम मिल्कशेक।"
+    },
+    "time": "8 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Almonds - 5",
+        "Milk - 1 cup",
+        "Dates - 2",
+        "Honey - 1 tsp",
+        "Cardamom powder - a pinch"
+      ],
+      "telugu": [
+        "బాదం - 5",
+        "పాలు - 1 కప్పు",
+        "ఖర్జూరం - 2",
+        "తేనె - 1 టీస్పూన్",
+        "ఏలక పొడి - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "बादाम - 5",
+        "दूध - 1 कप",
+        "खजूर - 2",
+        "शहद - 1 छोटा चम्मच",
+        "इलायची पाउडर - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak almonds and dates.",
+        "Blend with milk.",
+        "Add honey and cardamom.",
+        "Serve chilled.",
+        "Enjoy immediately."
+      ],
+      "telugu": [
+        "బాదం మరియు ఖర్జూరాలను నానబెట్టండి.",
+        "పాలతో బ్లెండ్ చేయండి.",
+        "తేనె మరియు ఏలక జత చేయండి.",
+        "తణిమించి సర్వ్ చేయండి.",
+        "తక్షణమే ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "बादाम और खजूर भिगो दें।",
+        "दूध के साथ ब्लेंड करें।",
+        "शहद और इलायची डालें।",
+        "ठंडा परोसें।",
+        "तुरंत आनंद लें।"
+      ]
+    },
+    "tags": ["healthy", "drink", "almond"]
+  },
+  {
+    "id": 633,
+    "name": {
+      "english": "Methi Soup",
+      "telugu": "మెంతి సూప్",
+      "hindi": "मेथी सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Fenugreek soup with mild spices.",
+      "telugu": "ఉరుకులైన మసాలాలతో మెంతి సూప్.",
+      "hindi": "हल्के मसालों के साथ मेथी सूप।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Fenugreek leaves - 1 cup",
+        "Onion - 1 small",
+        "Garlic - 1 clove",
+        "Water - 2 cups",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "మెంతి ఆకులు - 1 కప్పు",
+        "ఉల్లిపాయ - 1 చిన్నది",
+        "బెల్లుల్లి - 1 రెమ్మ",
+        "నీరు - 2 కప్పులు",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "मेथी पत्ते - 1 कप",
+        "प्याज - 1 छोटा",
+        "लहसुन - 1 कलिया",
+        "पानी - 2 कप",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onion and garlic.",
+        "Add fenugreek leaves.",
+        "Add water and simmer.",
+        "Blend slightly.",
+        "Serve warm."
+      ],
+      "telugu": [
+        "ఉల్లిపాయ మరియు బెల్లుల్లి వేయండి.",
+        "మెంతి ఆకులు చేర్చండి.",
+        "నీరు జత చేసి మరిగించండి.",
+        "కొంచెం బ్లెండ్ చేయండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज और लहसुन भूनें।",
+        "मेथी पत्ते डालें।",
+        "पानी डालें और उबालें।",
+        "हल्का ब्लेंड करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "fenugreek"]
+  },
+  {
+    "id": 634,
+    "name": {
+      "english": "Papaya Salad",
+      "telugu": "పపాయి సలాడ్",
+      "hindi": "पपीता सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Fresh papaya salad with lime dressing.",
+      "telugu": "నిమ్మరసం డ్రెస్సింగ్‌తో తాజా పపాయి సలాడ్.",
+      "hindi": "नींबू ड्रेसिंग के साथ ताज़ा पपीता सलाद।"
+    },
+    "time": "12 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Papaya - 1 cup",
+        "Carrot - 1",
+        "Lime juice - 1 tbsp",
+        "Salt - to taste",
+        "Chili flakes - a pinch"
+      ],
+      "telugu": [
+        "పపాయి - 1 కప్పు",
+        "క్యారెట్ - 1",
+        "నిమ్మరసం - 1 టేబుల్ స్పూన్",
+        "ఉప్పు - రుచికి",
+        "మిరియాల పొడి - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "पपीता - 1 कप",
+        "गाजर - 1",
+        "नींबू रस - 1 बड़ा चम्मच",
+        "नमक - स्वादानुसार",
+        "मिर्च के फ्लेक्स - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Grate papaya and carrot.",
+        "Mix with lime juice.",
+        "Add salt and chili.",
+        "Toss well.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "పపాయి మరియు క్యారెట్‌ను గరిటె చేయండి.",
+        "నిమ్మరసం తో కలపండి.",
+        "ఉప్పు మరియు మిరియాల చేర్చండి.",
+        "బాగా మిక్స్ చేయండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पपीता और गाजर कद्दूकस करें।",
+        "नींबू रस के साथ मिलाएँ।",
+        "नमक और मिर्च डालें।",
+        "अच्छी तरह मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "papaya"]
+  },
+  {
+    "id": 635,
+    "name": {
+      "english": "Chickpea Stew",
+      "telugu": "చిక్పీ స్ట్యూ",
+      "hindi": "चना स्टू"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "A hearty chickpea stew with vegetables.",
+      "telugu": "కూరగాయలతో ఓ హార్టీ చిక్పీ స్ట్యూ.",
+      "hindi": "सब्जियों के साथ पौष्टिक चना स्टू।"
+    },
+    "time": "35 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Chickpeas - 1 cup",
+        "Carrot - 1",
+        "Potato - 1",
+        "Tomato - 1",
+        "Cumin powder - 1 tsp"
+      ],
+      "telugu": [
+        "చిక్పీస్ - 1 కప్పు",
+        "క్యారెట్ - 1",
+        "బంగాళదుంప - 1",
+        "టమాటా - 1",
+        "జీలకర్ర పొడి - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "चना - 1 कप",
+        "गाजर - 1",
+        "आलू - 1",
+        "टमाटर - 1",
+        "जीरा पाउडर - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil chickpeas and vegetables.",
+        "Add tomatoes and spices.",
+        "Simmer until thick.",
+        "Season with salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "చిక్పీస్ మరియు కూరగాయలను ఉడికించండి.",
+        "టమాటాలు మరియు మసాలాలు చేర్చండి.",
+        "పత్తిగా ఉన్నంత పెద్దగా ఉడికించండి.",
+        "ఉప్పు వేసి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चना और सब्जियाँ उबालें।",
+        "टमाटर और मसाले डालें।",
+        "मोटी होने तक पकाएँ।",
+        "नमक डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "stew", "chickpea"]
+  },
+  {
+    "id": 636,
+    "name": {
+      "english": "Tomato Salad",
+      "telugu": "టమాటా సలాడ్",
+      "hindi": "टमाटर सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Simple tomato salad with basil.",
+      "telugu": "బేసిల్ తో సరళమైన టమాటా సలాడ్.",
+      "hindi": "तुलसी के साथ सरल टमाटर सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Tomato - 2",
+        "Basil leaves - a handful",
+        "Olive oil - 1 tsp",
+        "Salt - to taste",
+        "Black pepper - a pinch"
+      ],
+      "telugu": [
+        "టమాటాలు - 2",
+        "బేసిల్ ఆకులు - ఒక మోస్తరు",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి",
+        "నల్ల మిరియాల - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "टमाटर - 2",
+        "बेसिल पत्ते - एक मुठ्ठी",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार",
+        "काली मिर्च - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Slice tomatoes.",
+        "Add basil leaves.",
+        "Drizzle oil.",
+        "Season with salt and pepper.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "టమాటాలను స్లైస్ చేయండి.",
+        "బేసిల్ ఆకులు జత చేయండి.",
+        "నూనె చల్లి.",
+        "ఉప్పు మరియు మిరియాలతో సీజన్ చేయండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "टमाटर काटें।",
+        "बेसिल पत्ते डालें।",
+        "तेल डालें।",
+        "नमक और मिर्च डालें।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "tomato"]
+  },
+  {
+    "id": 637,
+    "name": {
+      "english": "Oatmeal Cookies",
+      "telugu": "ఓట్స్ కుకీస్",
+      "hindi": "ओटमील कुकीज़"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆரோగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Healthy oatmeal cookies with raisins.",
+      "telugu": "ఒలకాలు మరియు రైసిన్స్ తో ఆరోగ్యకరమైన ఓట్స్ కుకీస్.",
+      "hindi": "किशमिश के साथ स्वस्थ ओटमील कुकीज़।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Oats - 1 cup",
+        "Banana - 1",
+        "Raisins - 1/4 cup",
+        "Honey - 2 tbsp",
+        "Cinnamon - 1/2 tsp"
+      ],
+      "telugu": [
+        "ఓట్స్ - 1 కప్పు",
+        "బనానా - 1",
+        "రైసిన్స్ - 1/4 కప్పు",
+        "తేనె - 2 టేబుల్ స్పూన్లు",
+        "సైనమన్ - 1/2 టీస్పూన్"
+      ],
+      "hindi": [
+        "ओट्स - 1 कप",
+        "केला - 1",
+        "किशमिश - 1/4 कप",
+        "शहद - 2 बड़े चम्मच",
+        "दालचीनी - 1/2 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mash banana and mix with oats.",
+        "Add raisins and honey.",
+        "Shape into cookies.",
+        "Bake for 15 minutes.",
+        "Cool and serve."
+      ],
+      "telugu": [
+        "బనానాను పిండి చేసి ఓట్స్‌తో కలపండి.",
+        "రైసిన్స్ మరియు తేనె వేసి.",
+        "కుకీస్ ఆకారముగా చేయండి.",
+        "15 నిమిషాల పాటు బేక్ చేయండి.",
+        "కూల్ చేసి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "केले को मैश करें और ओट्स मिलाएँ।",
+        "किशमिश और शहद डालें।",
+        "कुकीज़ का आकार दें।",
+        "15 मिनट के लिए बेक करें।",
+        "ठंडा करें और परोसें।"
+      ]
+    },
+    "tags": ["healthy", "snack", "oats"]
+  },
+  {
+    "id": 638,
+    "name": {
+      "english": "Spinach Salad",
+      "telugu": "పాలకూర సలాడ్",
+      "hindi": "पालक सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Fresh spinach salad with nuts.",
+      "telugu": "బియ్యాలతో తాజా పాలకూర సలాడ్.",
+      "hindi": "मेवों के साथ ताज़ा पालक सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Spinach - 1 cup",
+        "Walnuts - 4",
+        "Cherry tomatoes - 6",
+        "Olive oil - 1 tsp",
+        "Lemon juice - 1 tsp"
+      ],
+      "telugu": [
+        "పాలకూర - 1 కప్పు",
+        "అఖరోట - 4",
+        "చెర్రీ టమాటాలు - 6",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "पालक - 1 कप",
+        "अखरोट - 4",
+        "चेरी टमाटर - 6",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix spinach and nuts.",
+        "Add tomatoes.",
+        "Drizzle oil and lemon.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "పాలకూర మరియు బియ్యాలను కలపండి.",
+        "టమాటాలు చేర్చండి.",
+        "నూనె మరియు నిమ్మరసం చల్లండి.",
+        "తక్కువగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पालक और मेवों को मिलाएँ।",
+        "टमाटर डालें।",
+        "तेल और नींबू डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "spinach"]
+  },
+  {
+    "id": 639,
+    "name": {
+      "english": "Citrus Salad",
+      "telugu": "సిట్రస్ సలాడ్",
+      "hindi": "सिट्रस सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Bright citrus salad with mint.",
+      "telugu": "పుదీనాతో ప్రకాశవంతమైన సిట్రస్ సలాడ్.",
+      "hindi": "पुदीने के साथ चमकदार सिट्रस सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Orange - 1",
+        "Grapefruit - 1/2",
+        "Mint - a handful",
+        "Honey - 1 tsp",
+        "Salt - a pinch"
+      ],
+      "telugu": [
+        "ఒరంజ్ - 1",
+        "గ్రేప్‌ఫ్రూట్ - 1/2",
+        "పుదీనా - ఒక మోస్తరు",
+        "తేనె - 1 టీస్పూన్",
+        "ఉప్పు - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "संतरा - 1",
+        "चकोतरा - 1/2",
+        "पुदीना - एक मुठ्ठी",
+        "शहद - 1 छोटा चम्मच",
+        "नमक - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Segment citrus fruits.",
+        "Mix with mint.",
+        "Add honey and salt.",
+        "Toss gently.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "సిట్రస్ ఫలాలను రంగులుగా చేయండి.",
+        "పుదీనాతో కలపండి.",
+        "తేనె మరియు ఉప్పు జత చేయండి.",
+        "తక్కువగా కలపండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सिट्रस फलों को काटें।",
+        "पुदीना के साथ मिलाएँ।",
+        "शहद और नमक डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "citrus"]
+  },
+  {
+    "id": 640,
+    "name": {
+      "english": "Lentil Salad",
+      "telugu": "పప్పు సలాడ్",
+      "hindi": "दाल सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Hearty lentil salad with vegetables.",
+      "telugu": "కూరగాయలతో హార్టీ పప్పు సలాడ్.",
+      "hindi": "सब्जियों के साथ भरपूर दाल सलाद।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Cooked lentils - 1 cup",
+        "Cucumber - 1/2",
+        "Tomato - 1",
+        "Onion - 1/2",
+        "Lemon juice - 1 tbsp"
+      ],
+      "telugu": [
+        "వండిన పప్పు - 1 కప్పు",
+        "కుకుంబర్ - 1/2",
+        "టమాటా - 1",
+        "ఉల్లిపాయ - 1/2",
+        "నిమ్మరసం - 1 టేబుల్ స్పూన్"
+      ],
+      "hindi": [
+        "पकी हुई दाल - 1 कप",
+        "खीरा - 1/2",
+        "टमाटर - 1",
+        "प्याज - 1/2",
+        "नींबू रस - 1 बड़ा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix lentils and chopped vegetables.",
+        "Add lemon juice.",
+        "Season with salt.",
+        "Toss well.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "పప్పు మరియు తరిగిన కూరగాయలు కలపండి.",
+        "నిమ్మరసం వేయండి.",
+        "ఉప్పు చేర్చండి.",
+        "బాగా కలపండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "दाल और कटी हुई सब्जियाँ मिलाएँ।",
+        "नींबू रस डालें।",
+        "नमक डालें।",
+        "अच्छी तरह मिलाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "lentil"]
+  },
+  {
+    "id": 641,
+    "name": {
+      "english": "Pomegranate Salad",
+      "telugu": "దానిమ్మ సలాడ్",
+      "hindi": "अनार सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Colorful salad with pomegranate seeds.",
+      "telugu": "దానిమ్మ గింజలతో రంగురంగుల సలాడ్.",
+      "hindi": "अनार के दानों के साथ रंगीन सलाद।"
+    },
+    "time": "12 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Pomegranate seeds - 1/2 cup",
+        "Mixed greens - 1 cup",
+        "Cucumber - 1/2",
+        "Olive oil - 1 tsp",
+        "Lemon juice - 1 tsp"
+      ],
+      "telugu": [
+        "దానిమ్మ గింజలు - 1/2 కప్పు",
+        "మిక్స్డ్ ఆకులు - 1 కప్పు",
+        "కుకుంబర్ - 1/2",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "अनार के दाने - 1/2 कप",
+        "मिक्स्ड साग - 1 कप",
+        "खीरा - 1/2",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Combine greens and cucumber.",
+        "Add pomegranate seeds.",
+        "Drizzle oil and lemon.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "ఆకులు మరియు కుకుంబర్ కలపండి.",
+        "దానిమ్మ గింజలు జత చేయండి.",
+        "నూనె మరియు నిమ్మరసం చల్లండి.",
+        "తక్కువగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "साग और खीरे को मिलाएँ।",
+        "अनार के दाने डालें।",
+        "तेल और नींबू डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "pomegranate"]
+  },
+  {
+    "id": 642,
+    "name": {
+      "english": "Mint Lemonade",
+      "telugu": "పుదీనా నిమ్మరసం",
+      "hindi": "पुदीना लेमनेड"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Refreshing mint lemonade with less sugar.",
+      "telugu": "తక్కువ చక్కరతో చల్లగా పుదీనా నిమ్మరసం.",
+      "hindi": "कम चीनी के साथ ताज़ा पुदीना नींबू पानी।"
+    },
+    "time": "5 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Lemon - 1",
+        "Mint leaves - a handful",
+        "Water - 2 cups",
+        "Honey - 1 tsp",
+        "Ice cubes - as needed"
+      ],
+      "telugu": [
+        "నిమ్మ - 1",
+        "పుదీనా పత్తులు - ఒక మోస్తరు",
+        "నీరు - 2 కప్పులు",
+        "తేనె - 1 టీస్పూన్",
+        "ఐస్ క్యూబ్స్ - అవసరానికి"
+      ],
+      "hindi": [
+        "नींबू - 1",
+        "पुदीने के पत्ते - एक मुठ्ठी",
+        "पानी - 2 कप",
+        "शहद - 1 छोटा चम्मच",
+        "बर्फ के टुकड़े - आवश्यकतानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix lemon juice and honey.",
+        "Add water and mint.",
+        "Stir well.",
+        "Add ice cubes.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "నిమ్మరసం మరియు తేనె కలపండి.",
+        "నీరు మరియు పుదీనా జత చేయండి.",
+        "బాగా కలపండి.",
+        "ఐస్ క్యూబ్స్ వేసుకోండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "नींबू रस और शहद मिलाएँ।",
+        "पानी और पुदीना डालें।",
+        "अच्छी तरह मिलाएँ।",
+        "बर्फ डालें।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "drink", "mint"]
+  },
+  {
+    "id": 643,
+    "name": {
+      "english": "Mixed Bean Salad",
+      "telugu": "మిక్స్ బీన్ సలాడ్",
+      "hindi": "मिक्स बीन्स सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Protein-packed mixed bean salad.",
+      "telugu": "ప్రోటీన్ సజావుగా మిక్స్ బీన్ సలాడ్.",
+      "hindi": "प्रोटीन से भरपूर मिक्स बीन्स सलाद।"
+    },
+    "time": "20 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Kidney beans - 1/2 cup",
+        "Chickpeas - 1/2 cup",
+        "Corn - 1/4 cup",
+        "Cucumber - 1/2",
+        "Lemon juice - 1 tbsp"
+      ],
+      "telugu": [
+        "రాజ్మా - 1/2 కప్పు",
+        "చిక్పీస్ - 1/2 కప్పు",
+        "కోర్న్ - 1/4 కప్పు",
+        "కుకుంబర్ - 1/2",
+        "నిమ్మరసం - 1 టేబుల్ స్పూన్"
+      ],
+      "hindi": [
+        "राजमा - 1/2 कप",
+        "चना - 1/2 कप",
+        "मकई - 1/4 कप",
+        "खीरा - 1/2",
+        "नींबू रस - 1 बड़ा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix beans and vegetables.",
+        "Add lemon juice.",
+        "Season with salt.",
+        "Toss gently.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "బీన్స్ మరియు కూరగాయలు కలపండి.",
+        "నిమ్మరసం జత చేయండి.",
+        "ఉప్పు వేయండి.",
+        "తక్కువగా కలపండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "बीन्स और सब्जियाँ मिलाएँ।",
+        "नींबू रस डालें।",
+        "नमक डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "beans"]
+  },
+  {
+    "id": 644,
+    "name": {
+      "english": "Mushroom Stir Fry",
+      "telugu": "మష్రూమ్ స్టిర్ ఫ్రై",
+      "hindi": "मशरूम स्टिर फ्राय"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Quick stir-fried mushrooms with herbs.",
+      "telugu": "ఓషధాలుతో వేగంగా స్టిర్-ఫ్రై చేసిన మష్రూమ్స్.",
+      "hindi": "जड़ी-बूटियों के साथ तेज़ी से भुने हुए मशरूम।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Mushrooms - 1 cup",
+        "Garlic - 1 clove",
+        "Olive oil - 1 tsp",
+        "Parsley - a pinch",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "మష్రూమ్స్ - 1 కప్పు",
+        "బెల్లుల్లి - 1 రెమ్మ",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "ప parsely - ఒక చిటికెన",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "मशरूम - 1 कप",
+        "लहसुन - 1 कलिया",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "पार्सले - एक चुटकी",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil and sauté garlic.",
+        "Add mushrooms.",
+        "Cook until tender.",
+        "Season with herbs and salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "నూనెను వేడి చేసి బెల్లుల్లిని వేయండి.",
+        "మష్రూమ్స్ జత చేయండి.",
+        "సున్నితంగా అయ్యేవరకు వండండి.",
+        "ఓషధాలు మరియు ఉప్పు తో సీజన్ చేయండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "तेल गर्म करें और लहसुन भूनें।",
+        "मशरूम डालें।",
+        "नरम होने तक पकाएँ।",
+        "जड़ी-बूटियों और नमक से सीज़न करें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "stir-fry", "mushroom"]
+  },
+  {
+    "id": 645,
+    "name": {
+      "english": "Cabbage Salad",
+      "telugu": "పత్తి కూర సలాడ్",
+      "hindi": "पत्ता गोभी सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Crunchy cabbage salad with carrots.",
+      "telugu": "క్యారెట్‌లతో క్రంచీ పత్తి కూర సలాడ్.",
+      "hindi": "गाजर के साथ कुरकुरा पत्ता गोभी सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Cabbage - 1 cup",
+        "Carrot - 1",
+        "Olive oil - 1 tsp",
+        "Lemon juice - 1 tsp",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "పత్తి కూర - 1 కప్పు",
+        "క్యారెట్ - 1",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "पत्ता गोभी - 1 कप",
+        "गाजर - 1",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Shred cabbage and carrot.",
+        "Mix with oil and lemon.",
+        "Season with salt.",
+        "Toss gently.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "పత్తి కూర మరియు క్యారెట్‌ను నురుగండి.",
+        "నూనె మరియు నిమ్మతో కలపండి.",
+        "ఉప్పు వేయండి.",
+        "తక్కువగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पत्ता गोभी और गाजर को कद्दूकस करें।",
+        "तेल और नींबू के साथ मिलाएँ।",
+        "नमक डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "cabbage"]
+  },
+  {
+    "id": 646,
+    "name": {
+      "english": "Oat and Fruit Bowl",
+      "telugu": "ఓట్స్ మరియు ఫ్రూట్ బౌల్",
+      "hindi": "ओट और फल बाउल"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Healthy breakfast bowl with oats and fruit.",
+      "telugu": "ఓట్స్ మరియు ఫలాలతో ఆరోగ్యకరమైన బ్రేక్‌ఫాస్ట్ బౌల్.",
+      "hindi": "ओट्स और फल के साथ स्वास्थ्यवर्धक नाश्ते का बाउल।"
+    },
+    "time": "10 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Oats - 1/2 cup",
+        "Mixed fruit - 1/2 cup",
+        "Yogurt - 1/2 cup",
+        "Honey - 1 tsp",
+        "Almonds - 4"
+      ],
+      "telugu": [
+        "ఓట్స్ - 1/2 కప్పు",
+        "మిక్స్డ్ ఫలాలు - 1/2 కప్పు",
+        "యోగర్ట్ - 1/2 కప్పు",
+        "తేనె - 1 టీస్పూన్",
+        "బాదం - 4"
+      ],
+      "hindi": [
+        "ओट्स - 1/2 कप",
+        "मिक्स्ड फल - 1/2 कप",
+        "दही - 1/2 कप",
+        "शहद - 1 छोटा चम्मच",
+        "बादाम - 4"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Combine oats and yogurt.",
+        "Top with fruit.",
+        "Add honey and almonds.",
+        "Mix lightly.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "ఓట్స్ మరియు యోగర్ట్ కలపండి.",
+        "ఫలాలతో టాప్ చేయండి.",
+        "తేనె మరియు బాదం జత చేయండి.",
+        "హాలీగా మిక్స్ చేయండి.",
+        "తక్షణమే సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "ओट्स और दही मिलाएँ।",
+        "फल डालें।",
+        "शहद और बादाम डालें।",
+        "हल्का मिलाएँ।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["healthy", "breakfast", "oats"]
+  },
+  {
+    "id": 647,
+    "name": {
+      "english": "Berry Smoothie",
+      "telugu": "బెర్రీ స్మూతీ",
+      "hindi": "बेरी स्मूदी"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Berry smoothie with yogurt and honey.",
+      "telugu": "యోగర్ట్ మరియు తేనెతో బెర్రీ స్మూతీ.",
+      "hindi": "दही और शहद के साथ बेरी स्मूदी।"
+    },
+    "time": "8 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Mixed berries - 1 cup",
+        "Yogurt - 1/2 cup",
+        "Honey - 1 tsp",
+        "Milk - 1/2 cup",
+        "Ice cubes - 3"
+      ],
+      "telugu": [
+        "మిక్స్డ్ బెర్రీలు - 1 కప్పు",
+        "యోగర్ట్ - 1/2 కప్పు",
+        "తేనె - 1 టీస్పూన్",
+        "పాలు - 1/2 కప్పు",
+        "ఐస్ క్యూబ్స్ - 3"
+      ],
+      "hindi": [
+        "मिक्स्ड बेरी - 1 कप",
+        "दही - 1/2 कप",
+        "शहद - 1 छोटा चम्मच",
+        "दूध - 1/2 कप",
+        "बर्फ के टुकड़े - 3"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blend all ingredients until smooth.",
+        "Pour into a glass.",
+        "Serve chilled.",
+        "Stir before drinking.",
+        "Enjoy fresh."
+      ],
+      "telugu": [
+        "అన్ని పదార్థాలను మృదువుగా బ్లెండ్ చేయండి.",
+        "గ్లాస్‌లో పోయండి.",
+        "తణిమించి సర్వ్ చేయండి.",
+        "కలిపి త్రాగే ముందే తగలండి.",
+        "తాజాగా ఆస్వాదించండి."
+      ],
+      "hindi": [
+        "सभी सामग्री चिकना होने तक ब्लेंड करें।",
+        "गिलास में डालें।",
+        "ठंडा परोसें।",
+        "पीने से पहले हिलाएँ।",
+        "ताज़ा आनंद लें।"
+      ]
+    },
+    "tags": ["healthy", "smoothie", "berry"]
+  },
+  {
+    "id": 648,
+    "name": {
+      "english": "Watermelon Salad",
+      "telugu": "వాటర్మెలన్ సలాడ్",
+      "hindi": "तरबूज सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Refreshing watermelon salad with mint.",
+      "telugu": "పుదీనాతో చల్లని వాటర్మెలన్ సలాడ్.",
+      "hindi": "पुदीने के साथ ताज़ा तरबूज सलाद।"
+    },
+    "time": "10 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Watermelon - 1 cup",
+        "Mint leaves - a handful",
+        "Feta cheese - 2 tbsp",
+        "Lime juice - 1 tsp",
+        "Salt - a pinch"
+      ],
+      "telugu": [
+        "వాటర్మెలన్ - 1 కప్పు",
+        "పుదీనా ఆకులు - ఒక మోస్తరు",
+        "ఫెటా చీజ్ - 2 టేబుల్ స్పూన్లు",
+        "లైమ్ జ్యూస్ - 1 టీస్పూన్",
+        "ఉప్పు - ఒక చిటికెన"
+      ],
+      "hindi": [
+        "तरबूज - 1 कप",
+        "पुदीने के पत्ते - एक मुठ्ठी",
+        "फेटा चीज़ - 2 बड़े चम्मच",
+        "नींबू रस - 1 छोटा चम्मच",
+        "नमक - एक चुटकी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cube watermelon.",
+        "Mix with mint and cheese.",
+        "Add lime juice and salt.",
+        "Toss gently.",
+        "Serve chilled."
+      ],
+      "telugu": [
+        "వాటర్మెలన్‌ను క్యూబ్‌లుగా చేయండి.",
+        "పుదీనా మరియు చీజ్ తో కలపండి.",
+        "లైమ్ జ్యూస్ మరియు ఉప్పు వేయండి.",
+        "తక్కువగా కలపండి.",
+        "తణిమించి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "तरबूज को क्यूब में काटें।",
+        "पुदीना और चीज़ के साथ मिलाएँ।",
+        "नींबू रस और नमक डालें।",
+        "धीरे-धीरे मिलाएँ।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "watermelon"]
+  },
+  {
+    "id": 649,
+    "name": {
+      "english": "Broccoli Soup",
+      "telugu": "బ్రొక్కలీ సూప్",
+      "hindi": "ब्रोकली सूप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Creamy broccoli soup with garlic.",
+      "telugu": "బెల్లుల్లితో క్రీమి బ్రొక్కలీ సూప్.",
+      "hindi": "लहसुन के साथ क्रीमी ब्रोकली सूप।"
+    },
+    "time": "25 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యమం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Broccoli - 1 cup",
+        "Onion - 1 small",
+        "Garlic - 2 cloves",
+        "Water - 2 cups",
+        "Salt - to taste"
+      ],
+      "telugu": [
+        "బ్రొక్కలీ - 1 కప్పు",
+        "ఉल्लిపాయ - 1 చిన్నది",
+        "బెల్లుల్లి - 2 రెమ్మలు",
+        "నీరు - 2 కప్పులు",
+        "ఉప్పు - రుచికి"
+      ],
+      "hindi": [
+        "ब्रोकली - 1 कप",
+        "प्याज - 1 छोटा",
+        "लहसुन - 2 कलियाँ",
+        "पानी - 2 कप",
+        "नमक - स्वादानुसार"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook broccoli, onion, and garlic.",
+        "Blend until smooth.",
+        "Simmer with water.",
+        "Season with salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బ్రొక్కలీ, ఉల్లిపాయ, మరియు బెల్లుల్లిని వండి.",
+        "మృదువుగా బ్లెండ్ చేయండి.",
+        "నీటితో మరిగించండి.",
+        "ఉప్పు వేసి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "ब्रोकली, प्याज और लहसुन पकाएँ।",
+        "चिकना होने तक ब्लेंड करें।",
+        "पानी के साथ उबालें।",
+        "नमक डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["healthy", "soup", "broccoli"]
+  },
+  {
+    "id": 650,
+    "name": {
+      "english": "Healthy Wrap",
+      "telugu": "ఆరోగ్యకరమైన wrap",
+      "hindi": "स्वस्थ रैप"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Whole wheat wrap filled with veggies.",
+      "telugu": "కూరగాయలతో నింపిన పూర్తి గోధుమ wrap.",
+      "hindi": "सब्जियों से भरा हुआ होल व्हीट रैप।"
+    },
+    "time": "15 min",
+    "servings": 1,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Whole wheat tortilla - 1",
+        "Lettuce - 1 leaf",
+        "Cucumber - 1/2",
+        "Tomato - 1/2",
+        "Hummus - 2 tbsp"
+      ],
+      "telugu": [
+        "పూర్తి గోధుమ టార్టిల్లా - 1",
+        "లెట్టస్ ఆకులు - 1",
+        "కుకుంబర్ - 1/2",
+        "టమాటా - 1/2",
+        "హమ్మస్ - 2 టేబుల్ స్పూన్లు"
+      ],
+      "hindi": [
+        "होल व्हीट टॉर्टिला - 1",
+        "लेट्यूस पत्ता - 1",
+        "खीरा - 1/2",
+        "टमाटर - 1/2",
+        "हमस - 2 बड़े चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Spread hummus on tortilla.",
+        "Add lettuce, cucumber and tomato.",
+        "Roll tightly.",
+        "Cut in half.",
+        "Serve immediately."
+      ],
+      "telugu": [
+        "టార్టిల్లాపై హమ్మస్ బాగా పించండి.",
+        "లెట్టస్, కుకుంబర్ మరియు టమాటా పెంచండి.",
+        "దృఢంగా ముడివేయండి.",
+        "అరగని భాగంగా కట్ చేయండి.",
+        "తక్షణమే సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "टॉर्टिला पर हमस फैलाएँ।",
+        "लेट्यूस, खीरा और टमाटर डालें।",
+        "अच्छी तरह रोल करें।",
+        "आधे में काटें।",
+        "तुरंत परोसें।"
+      ]
+    },
+    "tags": ["healthy", "wrap", "vegetable"]
+  },
+  {
+    "id": 651,
+    "name": {
+      "english": "Kale Salad",
+      "telugu": "కేల్ సలాడ్",
+      "hindi": "केल सलाद"
+    },
+    "category": {
+      "english": "Healthy",
+      "telugu": "ఆరోగ్యకరమైనది",
+      "hindi": "हेल्दी"
+    },
+    "description": {
+      "english": "Crunchy kale salad with nuts and seeds.",
+      "telugu": "నట్స్ మరియు బీజులతో క్రంచీ కేల్ సలాడ్.",
+      "hindi": "नट्स और बीजों के साथ कुरकुरा केल सलाद।"
+    },
+    "time": "15 min",
+    "servings": 2,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Kale - 1 cup",
+        "Almonds - 5",
+        "Sunflower seeds - 1 tbsp",
+        "Olive oil - 1 tsp",
+        "Lemon juice - 1 tsp"
+      ],
+      "telugu": [
+        "కేల్ - 1 కప్పు",
+        "బాదం - 5",
+        "సన్ఫ్లవర్ బీజాలు - 1 టేబుల్ స్పూన్",
+        "ఆలివ్ నూనె - 1 టీస్పూన్",
+        "నిమ్మరసం - 1 టీస్పూన్"
+      ],
+      "hindi": [
+        "केल - 1 कप",
+        "बादाम - 5",
+        "सूरजमुखी के बीज - 1 बड़ा चम्मच",
+        "जैतून का तेल - 1 छोटा चम्मच",
+        "नींबू रस - 1 छोटा चम्मच"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Chop kale finely.",
+        "Mix with nuts and seeds.",
+        "Add oil and lemon.",
+        "Toss well.",
+        "Serve fresh."
+      ],
+      "telugu": [
+        "కేల్‌ను బాగా తరిగండి.",
+        "నట్స్ మరియు బీజాలతో కలపండి.",
+        "నూనె మరియు నిమ్మ జత చేయండి.",
+        "బాగా కలపండి.",
+        "తాజాగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "केल को बारीक काटें।",
+        "नट्स और बीज डालें।",
+        "तेल और नींबू डालें।",
+        "अच्छी तरह मिलाएँ।",
+        "ताज़ा परोसें।"
+      ]
+    },
+    "tags": ["healthy", "salad", "kale"]
+  }
+]

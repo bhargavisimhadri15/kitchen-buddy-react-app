@@ -1,0 +1,2384 @@
+[
+  {
+    "id": 201,
+    "name": {
+      "english": "Vegetable Fried Rice",
+      "telugu": "వెజిటేబుల్ ఫ్రైడ్ రైస్",
+      "hindi": "वेजिटेबल फ्राइड राइस"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Quick and tasty vegetable fried rice.",
+      "telugu": "రుచికరమైన మరియు త్వరగా తయారయ్యే ఫ్రైడ్ రైస్.",
+      "hindi": "स्वादिष्ट और जल्दी बनने वाला फ्राइड राइस।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Cooked Rice",
+        "Carrot",
+        "Beans",
+        "Capsicum",
+        "Soy Sauce",
+        "Oil"
+      ],
+      "telugu": [
+        "వండిన అన్నం",
+        "క్యారెట్",
+        "బీన్స్",
+        "క్యాప్సికం",
+        "సోయా సాస్",
+        "నూనె"
+      ],
+      "hindi": [
+        "पका हुआ चावल",
+        "गाजर",
+        "बीन्स",
+        "शिमला मिर्च",
+        "सोया सॉस",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil in a pan.",
+        "Saute vegetables.",
+        "Add cooked rice.",
+        "Add soy sauce.",
+        "Mix and serve."
+      ],
+      "telugu": [
+        "పాన్‌లో నూనె వేడి చేయండి.",
+        "కూరగాయలు వేయించండి.",
+        "వండిన అన్నం వేయండి.",
+        "సోయా సాస్ వేయండి.",
+        "కలిపి సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पैन में तेल गरम करें।",
+        "सब्जियां भूनें।",
+        "पका हुआ चावल डालें।",
+        "सोया सॉस डालें।",
+        "मिलाकर परोसें।"
+      ]
+    },
+    "tags": ["dinner", "rice", "vegetable"]
+  },
+  {
+    "id": 202,
+    "name": {
+      "english": "Chapati and Dal",
+      "telugu": "చపాతీ మరియు పప్పు",
+      "hindi": "चपाती और दाल"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Healthy and nutritious dinner.",
+      "telugu": "ఆరోగ్యకరమైన మరియు పోషకమైన రాత్రి భోజనం.",
+      "hindi": "स्वस्थ और पौष्टिक रात का भोजन।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Wheat Flour",
+        "Water",
+        "Toor Dal",
+        "Salt",
+        "Turmeric"
+      ],
+      "telugu": [
+        "గోధుమ పిండి",
+        "నీరు",
+        "కందిపప్పు",
+        "ఉప్పు",
+        "పసుపు"
+      ],
+      "hindi": [
+        "गेहूं का आटा",
+        "पानी",
+        "तूर दाल",
+        "नमक",
+        "हल्दी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare chapati dough.",
+        "Roll and cook chapatis.",
+        "Cook dal with turmeric.",
+        "Add salt.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "చపాతీ పిండి కలపండి.",
+        "చపాతీలు తయారు చేయండి.",
+        "పప్పు ఉడికించండి.",
+        "ఉప్పు వేయండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चपाती का आटा तैयार करें।",
+        "चपाती बनाएं।",
+        "दाल पकाएं।",
+        "नमक डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "chapati", "dal"]
+  },
+  {
+    "id": 203,
+    "name": {
+      "english": "Vegetable Biryani",
+      "telugu": "వెజిటేబుల్ బిర్యానీ",
+      "hindi": "वेजिटेबल बिरयानी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Flavorful vegetable biryani.",
+      "telugu": "రుచికరమైన వెజిటేబుల్ బిర్యానీ.",
+      "hindi": "स्वादिष्ट वेजिटेबल बिरयानी।"
+    },
+    "time": "45 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Basmati Rice",
+        "Mixed Vegetables",
+        "Biryani Masala",
+        "Onion",
+        "Oil"
+      ],
+      "telugu": [
+        "బాస్మతి బియ్యం",
+        "మిశ్రమ కూరగాయలు",
+        "బిర్యానీ మసాలా",
+        "ఉల్లిపాయ",
+        "నూనె"
+      ],
+      "hindi": [
+        "बासमती चावल",
+        "मिक्स सब्जियां",
+        "बिरयानी मसाला",
+        "प्याज",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook rice separately.",
+        "Prepare vegetable masala.",
+        "Layer rice and masala.",
+        "Cook on low flame.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బియ్యం వేరుగా ఉడికించండి.",
+        "కూరగాయల మసాలా తయారు చేయండి.",
+        "అన్నం మరియు మసాలా పొరలు వేయండి.",
+        "తక్కువ మంటపై ఉడికించండి.",
+        "వేడి వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल अलग पकाएं।",
+        "सब्जी मसाला बनाएं।",
+        "चावल और मसाला परतों में रखें।",
+        "धीमी आंच पर पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "biryani", "rice"]
+  },
+  {
+    "id": 204,
+    "name": {
+      "english": "Paneer Butter Masala",
+      "telugu": "పనీర్ బటర్ మసాలా",
+      "hindi": "पनीर बटर मसाला"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Creamy and delicious paneer curry.",
+      "telugu": "క్రీమీ మరియు맛 రుచికరమైన పనీర్ కర్రీ.",
+      "hindi": "मलाईदार और स्वादिष्ट पनीर करी।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Paneer",
+        "Butter",
+        "Cream",
+        "Tomato",
+        "Ginger Garlic Paste",
+        "Garam Masala"
+      ],
+      "telugu": [
+        "పనీర్",
+        "బటర్",
+        "క్రీమ్",
+        "టమాటో",
+        "అల్లం-వెల్లుళ్ళ పేస్ట్",
+        "గరం మసాలా"
+      ],
+      "hindi": [
+        "पनीर",
+        "मक्खन",
+        "क्रीम",
+        "टमाटर",
+        "अदरक लहसुन पेस्ट",
+        "गरम मसाला"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Fry paneer cubes.",
+        "Sauté ginger garlic paste.",
+        "Add tomato paste.",
+        "Add cream and butter.",
+        "Add spices and cook.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పనీర్ కిటికిలను ఫ్రై చేయండి.",
+        "అల్లం-వెల్లుళ్ళ పేస్ట్ను సాటీ చేయండి.",
+        "టమాటో పేస్ట్ జోడించండి.",
+        "క్రీమ్ మరియు బటర్ జోడించండి.",
+        "మసాలాలు జోడించి వేడుకోండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पनीर के टुकड़ों को तलें।",
+        "अदरक-लहसुन पेस्ट को भूनें।",
+        "टमाटर पेस्ट डालें।",
+        "क्रीम और मक्खन डालें।",
+        "मसाले डालकर पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "paneer", "curry"]
+  },
+  {
+    "id": 205,
+    "name": {
+      "english": "Chole Bhature",
+      "telugu": "చోలె భతూరే",
+      "hindi": "छोले भटूरे"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Traditional North Indian favorite.",
+      "telugu": "ఐతిహ్యపరమైన ఉత్తర భారతీయ ప్రియమైనది.",
+      "hindi": "पारंपरिक उत्तर भारतीय पसंदीदा।"
+    },
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Chickpeas",
+        "Maida",
+        "Yogurt",
+        "Onion",
+        "Ginger Garlic",
+        "Spices"
+      ],
+      "telugu": [
+        "కుమ్మాయి",
+        "మైదా",
+        "టయోగర్ట్",
+        "ఉల్లిపాయ",
+        "అల్లం వెల్లుళ్ళ",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "छोले",
+        "मैदा",
+        "दही",
+        "प्याज",
+        "अदरक लहसुन",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare dough for bhature.",
+        "Let dough rise.",
+        "Cook chickpeas.",
+        "Prepare spicy curry.",
+        "Deep fry bhature.",
+        "Serve with curry."
+      ],
+      "telugu": [
+        "భతూరెకు పిండి తయారు చేయండి.",
+        "పిండిని పెరుగుతానని ఉంచండి.",
+        "చోలెలను వేడుకోండి.",
+        "ఉత్కంఠ కర్రీ తయారు చేయండి.",
+        "భతూరెను డీప్ ఫ్రై చేయండి.",
+        "కర్రీ ఉండిపై సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "भटूरे के लिए आटा तैयार करें।",
+        "आटा को उठने दें।",
+        "छोले पकाएं।",
+        "मसालेदार करी बनाएं।",
+        "भटूरे को तेल में तलें।",
+        "करी के साथ परोसें।"
+      ]
+    },
+    "tags": ["dinner", "chickpeas", "bread"]
+  },
+  {
+    "id": 206,
+    "name": {
+      "english": "Chicken Tandoori",
+      "telugu": "చికెన్ తందూరీ",
+      "hindi": "चिकन तंदूरी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Smoky and aromatic grilled chicken.",
+      "telugu": "ధూమపూర్ణమైన మరియు సుగంధ విసర్జన కాకపిట్టన చికెన్.",
+      "hindi": "धुएँदार और सुगंधित ग्रिल्ड चिकन।"
+    },
+    "time": "45 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Chicken Pieces",
+        "Yogurt",
+        "Tandoori Masala",
+        "Lemon Juice",
+        "Ginger Garlic Paste",
+        "Oil"
+      ],
+      "telugu": [
+        "చికెన్ ముక్కలు",
+        "దही",
+        "తందూరీ మసాలా",
+        "నిమ్మ రసం",
+        "అల్లం వెల్లుళ్ళ పేస్ట్",
+        "నూనె"
+      ],
+      "hindi": [
+        "चिकन के टुकड़े",
+        "दही",
+        "तंदूरी मसाला",
+        "नींबू का रस",
+        "अदरक-लहसुन पेस्ट",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Marinate chicken.",
+        "Grill on tandoor.",
+        "Cook until done.",
+        "Brush with butter.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "చికెన్‌ను ఊటలో ఉంచండి.",
+        "తందూరీ పై గ్రిల్ చేయండి.",
+        "సిద్ధమయ్యే వరకు చేయండి.",
+        "వెన్న సూద్రింపుకుండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चिकन को मैरिनेट करें।",
+        "तंदूर पर ग्रिल करें।",
+        "तब तक पकाएं जब तक पक न जाए।",
+        "मक्खन लगाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "chicken", "tandoori"]
+  },
+  {
+    "id": 207,
+    "name": {
+      "english": "Fish Curry",
+      "telugu": "చేపల కర్రీ",
+      "hindi": "मछली करी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Spicy fish in coconut gravy.",
+      "telugu": "కొబ్బరి గ్రేవీలో ఉత్కంఠ చేపలు.",
+      "hindi": "नारियल ग्रेवी में मसालेदार मछली।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Fish Fillet",
+        "Coconut Milk",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Chili Powder"
+      ],
+      "telugu": [
+        "చేపల ఫిలిట్",
+        "కొబ్బరి పాలు",
+        "ఉల్లిపాయ",
+        "టమాటో",
+        "అల్లం",
+        "మిర్చి పొడి"
+      ],
+      "hindi": [
+        "मछली फिलीट",
+        "नारियल दूध",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "लाल मिर्च पाउडर"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onion.",
+        "Add ginger and tomato.",
+        "Add spices.",
+        "Add coconut milk.",
+        "Add fish and cook.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "ఉల్లిపాయ సాటీ చేయండి.",
+        "అల్లం మరియు టమాటో జోడించండి.",
+        "మసాలాలు జోడించండి.",
+        "కొబ్బరి పాలు జోడించండి.",
+        "చేపలను జోడించి వేడుకోండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज को भूनें।",
+        "अदरक और टमाटर डालें।",
+        "मसाले डालें।",
+        "नारियल दूध डालें।",
+        "मछली डालकर पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "fish", "curry"]
+  },
+  {
+    "id": 208,
+    "name": {
+      "english": "Rajma Rice",
+      "telugu": "రాజ్‌మా రైస్",
+      "hindi": "राजमा राइस"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Kidney beans with rice.",
+      "telugu": "అన్నంతో కిడ్నీ బీన్‌లు.",
+      "hindi": "चावल के साथ राजमा।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Kidney Beans",
+        "Rice",
+        "Onion",
+        "Tomato",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "కిడ్నీ బీన్‌లు",
+        "అన్నం",
+        "ఉల్లిపాయ",
+        "టమాటో",
+        "మసాలాలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "राजमा",
+        "चावल",
+        "प्याज",
+        "टमाटर",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook beans.",
+        "Prepare rice.",
+        "Sauté onion.",
+        "Add tomato and spices.",
+        "Add beans and rice.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "బీన్‌లను వేడుకోండి.",
+        "అన్నం తయారు చేయండి.",
+        "ఉల్లిపాయ సాటీ చేయండి.",
+        "టమాటో మరియు మసాలాలు జోడించండి.",
+        "బీన్‌లు మరియు అన్నం జోడించండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "राजमा पकाएं।",
+        "चावल तैयार करें।",
+        "प्याज को भूनें।",
+        "टमाटर और मसाले डालें।",
+        "राजमा और चावल डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "beans", "rice"]
+  },
+  {
+    "id": 209,
+    "name": {
+      "english": "Sambar",
+      "telugu": "సాంబారు",
+      "hindi": "सांभार"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "South Indian lentil and vegetable stew.",
+      "telugu": "దక్షిణ భారతీయ డాల్ మరియు కూరగాయల స్టూ.",
+      "hindi": "दक्षिण भारतीय दाल और सब्जी का स्टू।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Lentils",
+        "Mixed Vegetables",
+        "Sambar Powder",
+        "Tamarind",
+        "Curry Leaves",
+        "Oil"
+      ],
+      "telugu": [
+        "దాలు",
+        "మిశ్రమ కూరగాయలు",
+        "సాంబారు పొడి",
+        "నిమ్మకాయ",
+        "కరివేపలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "दाल",
+        "मिक्स सब्जियां",
+        "सांभार पाउडर",
+        "इमली",
+        "करी पत्ते",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook lentils.",
+        "Sauté spices.",
+        "Add vegetables.",
+        "Add lentils.",
+        "Add tamarind.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "దాలు వేడుకోండి.",
+        "మసాలాలు సాటీ చేయండి.",
+        "కూరగాయలు జోడించండి.",
+        "దాలు జోడించండి.",
+        "నిమ్మకాయ జోడించండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "दाल पकाएं।",
+        "मसालों को भूनें।",
+        "सब्जियां डालें।",
+        "दाल डालें।",
+        "इमली डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "lentils", "sambar"]
+  },
+  {
+    "id": 210,
+    "name": {
+      "english": "Rasam",
+      "telugu": "రసం",
+      "hindi": "रसम"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Aromatic South Indian soup.",
+      "telugu": "సుగంధ విసర్జన దక్షిణ భారతీయ సూప్.",
+      "hindi": "सुगंधित दक्षिण भारतीय सूप।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Tomato",
+        "Tamarind",
+        "Cumin",
+        "Black Pepper",
+        "Curry Leaves",
+        "Water"
+      ],
+      "telugu": [
+        "టమాటో",
+        "నిమ్మకాయ",
+        "జీలకర",
+        "నల్లమిర్చి",
+        "కరివేపలు",
+        "నీరు"
+      ],
+      "hindi": [
+        "टमाटर",
+        "इमली",
+        "जीरा",
+        "काली मिर्च",
+        "करी पत्ते",
+        "पानी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat water.",
+        "Add tomato juice.",
+        "Add tamarind.",
+        "Add spices.",
+        "Simmer.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "నీరు వేడి చేయండి.",
+        "టమాటో రసం జోడించండి.",
+        "నిమ్మకాయ జోడించండి.",
+        "మసాలాలు జోడించండి.",
+        "నెమ్మదిగా వేడుకోండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पानी गर्म करें।",
+        "टमाटर का रस डालें।",
+        "इमली डालें।",
+        "मसाले डालें।",
+        "धीमी आंच पर पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "soup", "rasam"]
+  },
+  {
+    "id": 211,
+    "name": {
+      "english": "Dosa",
+      "telugu": "దోస",
+      "hindi": "डोसा"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Crispy South Indian crepe.",
+      "telugu": "చలకుటపైన దక్షిణ భారతీయ క్రీప్.",
+      "hindi": "कुरकुरा दक्षिण भारतीय पेनकेक।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Lentils",
+        "Water",
+        "Salt",
+        "Oil"
+      ],
+      "telugu": [
+        "అన్నం",
+        "దాలు",
+        "నీరు",
+        "ఉప్పు",
+        "నూనె"
+      ],
+      "hindi": [
+        "चावल",
+        "दाल",
+        "पानी",
+        "नमक",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak rice and lentils.",
+        "Grind into batter.",
+        "Ferment batter.",
+        "Heat griddle.",
+        "Pour batter and spread.",
+        "Cook until crispy."
+      ],
+      "telugu": [
+        "అన్నం మరియు దాలు నీటిలో ఉంచండి.",
+        "పేస్టుగా అరకలు.",
+        "బ్యాటరు కిణ్వనీయం చేయండి.",
+        "గ్రిడిల్ వేడి చేయండి.",
+        "బ్యాటరు పోసి చాపండి.",
+        "చలకుటపై జరిగే వరకు వేడుకోండి."
+      ],
+      "hindi": [
+        "चावल और दाल को भिगोएं।",
+        "बेसन में पीसें।",
+        "बेसन को किण्वित करें।",
+        "तवे को गर्म करें।",
+        "बेसन डालकर फैलाएं।",
+        "क्रिस्पी होने तक पकाएं।"
+      ]
+    },
+    "tags": ["dinner", "dosa", "crepe"]
+  },
+  {
+    "id": 212,
+    "name": {
+      "english": "Idli",
+      "telugu": "ఇడ్లీ",
+      "hindi": "इडली"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Soft steamed South Indian cake.",
+      "telugu": "మృదువైన ఆవిరితో వండిన దక్షిణ భారతీయ కేక్.",
+      "hindi": "नरम उबले हुए दक्षिण भारतीय केक।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Lentils",
+        "Water",
+        "Salt"
+      ],
+      "telugu": [
+        "అన్నం",
+        "దాలు",
+        "నీరు",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "चावल",
+        "दाल",
+        "पानी",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak rice and lentils.",
+        "Grind into batter.",
+        "Ferment overnight.",
+        "Pour into molds.",
+        "Steam until cooked.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "అన్నం మరియు దాలు నీటిలో ఉంచండి.",
+        "పేస్టుగా అరకలు.",
+        "రాత్రిపూర్వకం కిణ్వనీయం చేయండి.",
+        "అచ్చులలో పోయండి.",
+        "వండిన వరకు ఆవిరితో వండండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चावल और दाल को भिगोएं।",
+        "बेसन में पीसें।",
+        "रातभर किण्वित करें।",
+        "मोल्ड में डालें।",
+        "उबलते हुए पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "idli", "steamed"]
+  },
+  {
+    "id": 213,
+    "name": {
+      "english": "Upma",
+      "telugu": "ఉప్మా",
+      "hindi": "उपमा"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Savory semolina porridge.",
+      "telugu": "రుచికరమైన సూজీ గ్రాహం.",
+      "hindi": "स्वादिष्ट सूजी की खीर।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Semolina",
+        "Vegetables",
+        "Peanuts",
+        "Curry Leaves",
+        "Water",
+        "Oil"
+      ],
+      "telugu": [
+        "సూజీ",
+        "కూరగాయలు",
+        "వేరుసెనగ",
+        "కరివేపలు",
+        "నీరు",
+        "నూనె"
+      ],
+      "hindi": [
+        "सूजी",
+        "सब्जियां",
+        "मूंगफली",
+        "करी पत्ते",
+        "पानी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Toast semolina.",
+        "Sauté vegetables.",
+        "Add water.",
+        "Add semolina.",
+        "Mix well.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "సూజీని రోస్ట్ చేయండి.",
+        "కూరగాయలు సాటీ చేయండి.",
+        "నీరు జోడించండి.",
+        "సూజీ జోడించండి.",
+        "బాగా కలపండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सूजी को भूनें।",
+        "सब्जियों को भूनें।",
+        "पानी डालें।",
+        "सूजी डालें।",
+        "अच्छी तरह मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "upma", "semolina"]
+  },
+  {
+    "id": 214,
+    "name": {
+      "english": "Dal Makhani",
+      "telugu": "డాల్ మఖానీ",
+      "hindi": "दाल मखानी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Creamy lentils with spices.",
+      "telugu": "క్రీమీ డాల్ మసాలాలతో.",
+      "hindi": "मसालों के साथ मलाईदार दाल।"
+    },
+    "time": "50 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Black Lentils",
+        "Kidney Beans",
+        "Butter",
+        "Cream",
+        "Tomato",
+        "Spices"
+      ],
+      "telugu": [
+        "నల్లలు",
+        "కిడ్నీ బీన్‌లు",
+        "బటర్",
+        "క్రీమ్",
+        "టమాటో",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "काली दाल",
+        "राजमा",
+        "मक्खन",
+        "क्रीम",
+        "टमाटर",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Soak lentils overnight.",
+        "Cook lentils.",
+        "Add tomato puree.",
+        "Add cream and butter.",
+        "Add spices.",
+        "Simmer and serve."
+      ],
+      "telugu": [
+        "రాత్రిపూర్వకం దాలు నీటిలో ఉంచండి.",
+        "దాలు వేడుకోండి.",
+        "టమాటో పూరీ జోడించండి.",
+        "క్రీమ్ మరియు బటర్ జోడించండి.",
+        "మసాలాలు జోడించండి.",
+        "నెమ్మదిగా వేడుకుని సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "रातभर दाल को भिगोएं।",
+        "दाल पकाएं।",
+        "टमाटर प्यूरी डालें।",
+        "क्रीम और मक्खन डालें।",
+        "मसाले डालें।",
+        "धीमी आंच पर पकाकर परोसें।"
+      ]
+    },
+    "tags": ["dinner", "dal", "creamy"]
+  },
+  {
+    "id": 215,
+    "name": {
+      "english": "Naan",
+      "telugu": "నాన్",
+      "hindi": "नान"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Soft Indian bread with butter.",
+      "telugu": "వెన్న వేసిన మృదువైన భారతీయ రొట్టె.",
+      "hindi": "मक्खन के साथ नरम भारतीय ब्रेड।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Wheat Flour",
+        "Yogurt",
+        "Baking Powder",
+        "Salt",
+        "Butter",
+        "Water"
+      ],
+      "telugu": [
+        "గోధుమ పిండి",
+        "దही",
+        "బేకింగ్ పౌడర్",
+        "ఉప్పు",
+        "బటర్",
+        "నీరు"
+      ],
+      "hindi": [
+        "गेहूं का आटा",
+        "दही",
+        "बेकिंग पाउडर",
+        "नमक",
+        "मक्खन",
+        "पानी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Prepare dough.",
+        "Let rest for 2 hours.",
+        "Divide into portions.",
+        "Roll into oval shape.",
+        "Cook on tandoor.",
+        "Brush with butter."
+      ],
+      "telugu": [
+        "పిండి తయారు చేయండి.",
+        "2 గంటలు విశ్రమించండి.",
+        "భాగాలుగా విభజించండి.",
+        "ఆవాల ఆకారంలో చేపి.",
+        "తందూరీ పై వేడుకోండి.",
+        "వెన్న సూద్రింపుకుండి."
+      ],
+      "hindi": [
+        "आटा तैयार करें।",
+        "2 घंटे आराम दें।",
+        "भागों में बाँटें।",
+        "अंडाकार आकार में बेलें।",
+        "तंदूर पर पकाएं।",
+        "मक्खन लगाएं।"
+      ]
+    },
+    "tags": ["dinner", "naan", "bread"]
+  },
+  {
+    "id": 216,
+    "name": {
+      "english": "Roti",
+      "telugu": "రొట్టె",
+      "hindi": "रोटी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Simple whole wheat bread.",
+      "telugu": "సాధారణ గోధుమ రొట్టె.",
+      "hindi": "साधारण गेहूं की रोटी।"
+    },
+    "time": "20 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Wheat Flour",
+        "Salt",
+        "Water",
+        "Oil"
+      ],
+      "telugu": [
+        "గోధుమ పిండి",
+        "ఉప్పు",
+        "నీరు",
+        "నూనె"
+      ],
+      "hindi": [
+        "गेहूं का आटा",
+        "नमक",
+        "पानी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix flour and water.",
+        "Knead dough.",
+        "Divide and roll.",
+        "Heat pan.",
+        "Cook rotis.",
+        "Brush with oil."
+      ],
+      "telugu": [
+        "పిండి మరియు నీరు కలపండి.",
+        "పిండి చేపండి.",
+        "విభజించి చేపండి.",
+        "పాన్ వేడి చేయండి.",
+        "రొట్టెలు వేడుకోండి.",
+        "నూనె సూద్రింపుకుండి."
+      ],
+      "hindi": [
+        "आटा और पानी मिलाएं।",
+        "आटा गूंधें।",
+        "भाग करके बेलें।",
+        "तवा गर्म करें।",
+        "रोटी पकाएं।",
+        "तेल लगाएं।"
+      ]
+    },
+    "tags": ["dinner", "roti", "bread"]
+  },
+  {
+    "id": 217,
+    "name": {
+      "english": "Aloo Gobi",
+      "telugu": "ఆలూ గోబీ",
+      "hindi": "आलू गोभी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Potato and cauliflower curry.",
+      "telugu": "బంగాళదుంప మరియు గోబీ కర్రీ.",
+      "hindi": "आलू और गोभी की करी।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Potato",
+        "Cauliflower",
+        "Onion",
+        "Ginger",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "బంగాళదుంప",
+        "గోబీ",
+        "ఉల్లిపాయ",
+        "అల్లం",
+        "మసాలాలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "आलू",
+        "गोभी",
+        "प्याज",
+        "अदरक",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil.",
+        "Add onion and ginger.",
+        "Add potatoes.",
+        "Add cauliflower.",
+        "Add spices.",
+        "Cook until done."
+      ],
+      "telugu": [
+        "నూనె వేడి చేయండి.",
+        "ఉల్లిపాయ మరియు అల్లం జోడించండి.",
+        "బంగాళదుంపలు జోడించండి.",
+        "గోబీ జోడించండి.",
+        "మసాలాలు జోడించండి.",
+        "సిద్ధమయ్యే వరకు చేయండి."
+      ],
+      "hindi": [
+        "तेल गर्म करें।",
+        "प्याज और अदरक डालें।",
+        "आलू डालें।",
+        "गोभी डालें।",
+        "मसाले डालें।",
+        "तब तक पकाएं जब तक तैयार न हो।"
+      ]
+    },
+    "tags": ["dinner", "vegetable", "curry"]
+  },
+  {
+    "id": 218,
+    "name": {
+      "english": "Palak Paneer",
+      "telugu": "పాలక్ పనీర్",
+      "hindi": "पालक पनीर"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Spinach and paneer dish.",
+      "telugu": "కుండ్రు కూర మరియు పనీర్.",
+      "hindi": "पालक और पनीर का व्यंजन।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Spinach",
+        "Paneer",
+        "Onion",
+        "Garlic",
+        "Cream",
+        "Spices"
+      ],
+      "telugu": [
+        "కుండ్రు కూర",
+        "పనీర్",
+        "ఉల్లిపాయ",
+        "వెల్లుళ్ళ",
+        "క్రీమ్",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "पालक",
+        "पनीर",
+        "प्याज",
+        "लहसुन",
+        "क्रीम",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Blanch spinach.",
+        "Puree spinach.",
+        "Sauté onion and garlic.",
+        "Add spinach puree.",
+        "Add paneer and cream.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "కుండ్రు కూర బ్లాంచ్ చేయండి.",
+        "కుండ్రు కూర పూరీ చేయండి.",
+        "ఉల్లిపాయ మరియు వెల్లుళ్ళ సాటీ చేయండి.",
+        "కుండ్రు కూర పూరీ జోడించండి.",
+        "పనీర్ మరియు క్రీమ్ జోడించండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "पालक को उबालें।",
+        "पालक को प्यूरी करें।",
+        "प्याज और लहसुन भूनें।",
+        "पालक की प्यूरी डालें।",
+        "पनीर और क्रीम डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "spinach", "paneer"]
+  },
+  {
+    "id": 219,
+    "name": {
+      "english": "Butter Chicken",
+      "telugu": "బటర్ చికెన్",
+      "hindi": "बटर चिकन"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Tender chicken in butter gravy.",
+      "telugu": "వెన్న గ్రేవీలో కోమలమైన చికెన్.",
+      "hindi": "मक्खन की ग्रेवी में नरम चिकन।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Chicken",
+        "Butter",
+        "Cream",
+        "Tomato",
+        "Ginger Garlic",
+        "Spices"
+      ],
+      "telugu": [
+        "చికెన్",
+        "బటర్",
+        "క్రీమ్",
+        "టమాటో",
+        "అల్లం-వెల్లుళ్ళ",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "चिकन",
+        "मक्खन",
+        "क्रीम",
+        "टमाटर",
+        "अदरक लहसुन",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Marinate chicken.",
+        "Cook chicken.",
+        "Prepare gravy.",
+        "Add butter and cream.",
+        "Add cooked chicken.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "చికెన్‌ను ఊటలో ఉంచండి.",
+        "చికెన్ వేడుకోండి.",
+        "గ్రేవీ తయారు చేయండి.",
+        "వెన్న మరియు క్రీమ్ జోడించండి.",
+        "వండిన చికెన్ జోడించండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "चिकन को मैरिनेट करें।",
+        "चिकन पकाएं।",
+        "ग्रेवी तैयार करें।",
+        "मक्खन और क्रीम डालें।",
+        "पका हुआ चिकन डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "chicken", "butter"]
+  },
+  {
+    "id": 220,
+    "name": {
+      "english": "Lamb Curry",
+      "telugu": "చేమచేందిన గడ్డ కర్రీ",
+      "hindi": "मेमने की करी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Aromatic lamb in spiced gravy.",
+      "telugu": "మసాలా గ్రేవీలో సుగంధ విసర్జన గడ్డ.",
+      "hindi": "मसालेदार ग्रेवी में सुगंधित मेमना।"
+    },
+    "time": "60 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Hard",
+      "telugu": "కఠినమైన",
+      "hindi": "कठिन"
+    },
+    "ingredients": {
+      "english": [
+        "Lamb",
+        "Yogurt",
+        "Onion",
+        "Ginger Garlic",
+        "Spices",
+        "Oil"
+      ],
+      "telugu": [
+        "గడ్డ",
+        "దही",
+        "ఉల్లిపాయ",
+        "అల్లం-వెల్లుళ్ళ",
+        "మసాలాలు",
+        "నూనె"
+      ],
+      "hindi": [
+        "मेमना",
+        "दही",
+        "प्याज",
+        "अदरक-लहसुन",
+        "मसाले",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Marinate lamb.",
+        "Sauté onions.",
+        "Add ginger garlic.",
+        "Add lamb.",
+        "Add spices.",
+        "Simmer until tender."
+      ],
+      "telugu": [
+        "గడ్డను ఊటలో ఉంచండి.",
+        "ఉల్లిపాయ సాటీ చేయండి.",
+        "అల్లం-వెల్లుళ్ళ జోడించండి.",
+        "గడ్డ జోడించండి.",
+        "మసాలాలు జోడించండి.",
+        "కోమలమయ్యే వరకు నెమ్మదిగా వేడుకోండి."
+      ],
+      "hindi": [
+        "मेमने को मैरिनेट करें।",
+        "प्याज को भूनें।",
+        "अदरक-लहसुन डालें।",
+        "मेमना डालें।",
+        "मसाले डालें।",
+        "नरम होने तक धीमी आंच पर पकाएं।"
+      ]
+    },
+    "tags": ["dinner", "lamb", "curry"]
+  },
+  {
+    "id": 221,
+    "name": {
+      "english": "Mixed Vegetable Curry",
+      "telugu": "మిశ్రమ కూరగాయల కర్రీ",
+      "hindi": "मिक्स सब्जी करी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Variety of vegetables in spices.",
+      "telugu": "మసాలాలలో వివిధ కూరగాయలు.",
+      "hindi": "मसालों में विभिन्न सब्जियां।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Carrots",
+        "Beans",
+        "Peas",
+        "Potato",
+        "Onion",
+        "Spices"
+      ],
+      "telugu": [
+        "క్యారెట్",
+        "బీన్స్",
+        "బఠానీ",
+        "బంగాళదుంప",
+        "ఉల్లిపాయ",
+        "మసాలాలు"
+      ],
+      "hindi": [
+        "गाजर",
+        "बीन्स",
+        "मटर",
+        "आलू",
+        "प्याज",
+        "मसाले"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Sauté onion.",
+        "Add spices.",
+        "Add vegetables.",
+        "Cook covered.",
+        "Mix well.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "ఉల్లిపాయ సాటీ చేయండి.",
+        "మసాలాలు జోడించండి.",
+        "కూరగాయలు జోడించండి.",
+        "కవర్‌లో వేడుకోండి.",
+        "బాగా కలపండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "प्याज को भूनें।",
+        "मसाले डालें।",
+        "सब्जियां डालें।",
+        "ढक्कन लगाकर पकाएं।",
+        "अच्छी तरह मिलाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "vegetables", "curry"]
+  },
+  {
+    "id": 222,
+    "name": {
+      "english": "Tandoori Fish",
+      "telugu": "తందూరీ చేపలు",
+      "hindi": "तंदूरी मछली"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Grilled fish with tandoori spices.",
+      "telugu": "తందూరీ మసాలాలతో గ్రిల్ చేసిన చేపలు.",
+      "hindi": "तंदूरी मसालों के साथ ग्रिल्ड मछली।"
+    },
+    "time": "40 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Fish Fillets",
+        "Yogurt",
+        "Tandoori Masala",
+        "Lemon",
+        "Ginger",
+        "Oil"
+      ],
+      "telugu": [
+        "చేపల ఫిలిట్‌లు",
+        "దही",
+        "తందూరీ మసాలా",
+        "నిమ్మ",
+        "అల్లం",
+        "నూనె"
+      ],
+      "hindi": [
+        "मछली फिलीट",
+        "दही",
+        "तंदूरी मसाला",
+        "नींबू",
+        "अदरक",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Marinate fish.",
+        "Grill fish.",
+        "Cook thoroughly.",
+        "Brush with oil.",
+        "Squeeze lemon.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "చేపలను ఊటలో ఉంచండి.",
+        "చేపలను గ్రిల్ చేయండి.",
+        "పూర్తిగా వేడుకోండి.",
+        "నూనె సూద్రింపుకుండి.",
+        "నిమ్మ పిండుకోండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "मछली को मैरिनेट करें।",
+        "मछली को ग्रिल करें।",
+        "पूरी तरह पकाएं।",
+        "तेल लगाएं।",
+        "नींबू निचोड़ें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "fish", "tandoori"]
+  },
+  {
+    "id": 223,
+    "name": {
+      "english": "Shrimp Garlic",
+      "telugu": "రొయ్య వెల్లుళ్ళ",
+      "hindi": "झींगे की लहसुन करी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Quick shrimp with garlic.",
+      "telugu": "వెల్లుళ్ళతో త్వరితమైన రొయ్యలు.",
+      "hindi": "लहसुन के साथ झींगे।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Shrimp",
+        "Garlic",
+        "Onion",
+        "Chili Peppers",
+        "Oil",
+        "Lemon"
+      ],
+      "telugu": [
+        "రొయ్యలు",
+        "వెల్లుళ్ళ",
+        "ఉల్లిపాయ",
+        "మిర్చిపండు",
+        "నూనె",
+        "నిమ్మ"
+      ],
+      "hindi": [
+        "झींगे",
+        "लहसुन",
+        "प्याज",
+        "मिर्च",
+        "तेल",
+        "नींबू"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil.",
+        "Add garlic.",
+        "Add shrimp.",
+        "Cook until pink.",
+        "Add lemon.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "నూనె వేడి చేయండి.",
+        "వెల్లుళ్ళ జోడించండి.",
+        "రొయ్యలు జోడించండి.",
+        "గులాబీ రంగు జరిగే వరకు చేయండి.",
+        "నిమ్మ జోడించండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "तेल गर्म करें।",
+        "लहसुन डालें।",
+        "झींगे डालें।",
+        "गुलाबी होने तक पकाएं।",
+        "नींबू डालें।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "shrimp", "garlic"]
+  },
+  {
+    "id": 224,
+    "name": {
+      "english": "Baingan Bharta",
+      "telugu": "వంకాయ భర్త",
+      "hindi": "बैंगन भर्ता"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Roasted eggplant mash.",
+      "telugu": "కాలిన వంకాయ చాచు.",
+      "hindi": "भुनी हुई बैंगन की मैश।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Eggplant",
+        "Onion",
+        "Tomato",
+        "Ginger",
+        "Green Chili",
+        "Oil"
+      ],
+      "telugu": [
+        "వంకాయ",
+        "ఉల్లిపాయ",
+        "టమాటో",
+        "అల్లం",
+        "ఆకుపచ్చ మిర్చి",
+        "నూనె"
+      ],
+      "hindi": [
+        "बैंगन",
+        "प्याज",
+        "टमाटर",
+        "अदरक",
+        "हरी मिर्च",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Roast eggplant.",
+        "Peel eggplant.",
+        "Mash eggplant.",
+        "Sauté onion.",
+        "Add mashed eggplant.",
+        "Cook and serve."
+      ],
+      "telugu": [
+        "వంకాయ కాలిబొమ్మకు చేయండి.",
+        "వంకాయ తీసివేయండి.",
+        "వంకాయ చాచండి.",
+        "ఉల్లిపాయ సాటీ చేయండి.",
+        "చాచిన వంకాయ జోడించండి.",
+        "వేడుకుని సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "बैंगन को भूनें।",
+        "बैंगन को छीलें।",
+        "बैंगन को मैश करें।",
+        "प्याज को भूनें।",
+        "मसली हुई बैंगन डालें।",
+        "पकाएं और परोसें।"
+      ]
+    },
+    "tags": ["dinner", "eggplant", "vegetable"]
+  },
+  {
+    "id": 225,
+    "name": {
+      "english": "Chana Masala",
+      "telugu": "చనా మసాలా",
+      "hindi": "छना मसाला"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Spicy chickpea curry.",
+      "telugu": "తీవ్రమైన కుమ్మాయి కర్రీ.",
+      "hindi": "मसालेदार छना करी।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Chickpeas",
+        "Onion",
+        "Tomato",
+        "Ginger Garlic",
+        "Chana Masala",
+        "Oil"
+      ],
+      "telugu": [
+        "కుమ్మాయి",
+        "ఉల్లిపాయ",
+        "టమాటో",
+        "అల్లం-వెల్లుళ్ళ",
+        "చనా మసాలా",
+        "నూనె"
+      ],
+      "hindi": [
+        "छना",
+        "प्याज",
+        "टमाटर",
+        "अदरक-लहसुन",
+        "छना मसाला",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil.",
+        "Sauté onion.",
+        "Add ginger garlic.",
+        "Add tomato puree.",
+        "Add chickpeas.",
+        "Add spices and cook."
+      ],
+      "telugu": [
+        "నూనె వేడి చేయండి.",
+        "ఉల్లిపాయ సాటీ చేయండి.",
+        "అల్లం-వెల్లుళ్ళ జోడించండి.",
+        "టమాటో పూరీ జోడించండి.",
+        "కుమ్మాయి జోడించండి.",
+        "మసాలాలు జోడించి వేడుకోండి."
+      ],
+      "hindi": [
+        "तेल गर्म करें।",
+        "प्याज को भूनें।",
+        "अदरक-लहसुन डालें।",
+        "टमाटर प्यूरी डालें।",
+        "छना डालें।",
+        "मसाले डालकर पकाएं।"
+      ]
+    },
+    "tags": ["dinner", "chickpeas", "curry"]
+  },
+  {
+    "id": 226,
+    "name": {
+      "english": "Vegetable Pulao",
+      "telugu": "కూరగాయల పులావు",
+      "hindi": "सब्जी पुलाव"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Fragrant rice with vegetables.",
+      "telugu": "కూరగాయలతో సుగంధ విసర్జన చावలు.",
+      "hindi": "सब्जियों के साथ सुगंधित चावल।"
+    },
+    "time": "40 min",
+    "servings": 5,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Vegetables",
+        "Onion",
+        "Spices",
+        "Oil",
+        "Water"
+      ],
+      "telugu": [
+        "అన్నం",
+        "కూరగాయలు",
+        "ఉల్లిపాయ",
+        "మసాలాలు",
+        "నూనె",
+        "నీరు"
+      ],
+      "hindi": [
+        "चावल",
+        "सब्जियां",
+        "प्याज",
+        "मसाले",
+        "तेल",
+        "पानी"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat oil.",
+        "Add onion.",
+        "Add rice.",
+        "Add spices.",
+        "Add vegetables.",
+        "Cook with water."
+      ],
+      "telugu": [
+        "నూనె వేడి చేయండి.",
+        "ఉల్లిపాయ జోడించండి.",
+        "అన్నం జోడించండి.",
+        "మసాలాలు జోడించండి.",
+        "కూరగాయలు జోడించండి.",
+        "నీరుతో వేడుకోండి."
+      ],
+      "hindi": [
+        "तेल गर्म करें।",
+        "प्याज डालें।",
+        "चावल डालें।",
+        "मसाले डालें।",
+        "सब्जियां डालें।",
+        "पानी में पकाएं।"
+      ]
+    },
+    "tags": ["dinner", "rice", "vegetables"]
+  },
+  {
+    "id": 227,
+    "name": {
+      "english": "Methi Paratha",
+      "telugu": "మెంతి పరాట",
+      "hindi": "मेथी पराठा"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Fenugreek bread.",
+      "telugu": "మెంతి రొట్టె.",
+      "hindi": "मेथी की ब्रेड।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Medium",
+      "telugu": "మధ్యస్థం",
+      "hindi": "मध्यम"
+    },
+    "ingredients": {
+      "english": [
+        "Wheat Flour",
+        "Fenugreek Leaves",
+        "Salt",
+        "Water",
+        "Oil"
+      ],
+      "telugu": [
+        "గోధుమ పిండి",
+        "మెంతి ఆకులు",
+        "ఉప్పు",
+        "నీరు",
+        "నూనె"
+      ],
+      "hindi": [
+        "गेहूं का आटा",
+        "मेथी की पत्तियां",
+        "नमक",
+        "पानी",
+        "तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Mix flour and fenugreek.",
+        "Prepare dough.",
+        "Roll into circles.",
+        "Cook on griddle.",
+        "Brush with oil.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "పిండి మరియు మెంతి కలపండి.",
+        "పిండి తయారు చేయండి.",
+        "వృత్తాలలో చేపండి.",
+        "గ్రిడిల్ పై వేడుకోండి.",
+        "నూనె సూద్రింపుకుండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "आटे को मेथी के साथ मिलाएं।",
+        "आटा तैयार करें।",
+        "वृत्तों में बेलें।",
+        "तवे पर पकाएं।",
+        "तेल लगाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "paratha", "bread"]
+  },
+  {
+    "id": 228,
+    "name": {
+      "english": "Khichdi",
+      "telugu": "ఖిచ్డీ",
+      "hindi": "खिचड़ी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Easy comfort rice and lentils.",
+      "telugu": "సులభమైన సుఖకరమైన అన్నం మరియు దాలు.",
+      "hindi": "आसान आराम से चावल और दाल।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Rice",
+        "Lentils",
+        "Ghee",
+        "Water",
+        "Salt",
+        "Cumin"
+      ],
+      "telugu": [
+        "అన్నం",
+        "దాలు",
+        "నెయ్యి",
+        "నీరు",
+        "ఉప్పు",
+        "జీలకర"
+      ],
+      "hindi": [
+        "चावल",
+        "दाल",
+        "घी",
+        "पानी",
+        "नमक",
+        "जीरा"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Heat ghee.",
+        "Add cumin.",
+        "Add rice and lentils.",
+        "Add water.",
+        "Cook together.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "నెయ్యి వేడి చేయండి.",
+        "జీలకర జోడించండి.",
+        "అన్నం మరియు దాలు జోడించండి.",
+        "నీరు జోడించండి.",
+        "కలిసి వేడుకోండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "घी गर्म करें।",
+        "जीरा डालें।",
+        "चावल और दाल डालें।",
+        "पानी डालें।",
+        "साथ में पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "khichdi", "rice"]
+  },
+  {
+    "id": 229,
+    "name": {
+      "english": "Pav Bhaji",
+      "telugu": "పావ్ భాజీ",
+      "hindi": "पाव भाजी"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Street food favorite.",
+      "telugu": "రోడ్డు ఆహారం ప్రియమైనది.",
+      "hindi": "स्ट्रीट फूड पसंदीदा।"
+    },
+    "time": "35 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Potatoes",
+        "Peas",
+        "Onion",
+        "Tomato",
+        "Pav Bhaji Masala",
+        "Butter"
+      ],
+      "telugu": [
+        "బంగాళదుంపలు",
+        "బఠానీ",
+        "ఉల్లిపాయ",
+        "టమాటో",
+        "పావ్ భాజీ మసాలా",
+        "బటర్"
+      ],
+      "hindi": [
+        "आलू",
+        "मटर",
+        "प्याज",
+        "टमाटर",
+        "पाव भाजी मसाला",
+        "मक्खन"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Boil vegetables.",
+        "Mash vegetables.",
+        "Heat butter.",
+        "Add masala.",
+        "Add mashed vegetables.",
+        "Serve with bread."
+      ],
+      "telugu": [
+        "కూరగాయలు ఉడికించండి.",
+        "కూరగాయలు చాచండి.",
+        "బటర్ వేడి చేయండి.",
+        "మసాలా జోడించండి.",
+        "చాచిన కూరగాయలు జోడించండి.",
+        "రొట్టెతో సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सब्जियों को उबालें।",
+        "सब्जियों को मैश करें।",
+        "मक्खन गर्म करें।",
+        "मसाला डालें।",
+        "मसली सब्जियां डालें।",
+        "ब्रेड के साथ परोसें।"
+      ]
+    },
+    "tags": ["dinner", "pav bhaji", "street food"]
+  },
+  {
+    "id": 230,
+    "name": {
+      "english": "Quinoa Salad",
+      "telugu": "క్విన్వా సలాడ్",
+      "hindi": "क्विनोआ सलाद"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Healthy grain salad.",
+      "telugu": "ఆరోగ్యకరమైన ధాన్యం సలాడ్.",
+      "hindi": "स्वस्थ अनाज सलाद।"
+    },
+    "time": "25 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Quinoa",
+        "Cucumber",
+        "Tomato",
+        "Bell Pepper",
+        "Lemon",
+        "Olive Oil"
+      ],
+      "telugu": [
+        "క్విన్వా",
+        "మమిడికాయ",
+        "టమాటో",
+        "బెల్ పెప్పర్",
+        "నిమ్మ",
+        "జైతూన్ నూనె"
+      ],
+      "hindi": [
+        "क्विनोआ",
+        "खीरा",
+        "टमाटर",
+        "शिमला मिर्च",
+        "नींबू",
+        "जैतून का तेल"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Cook quinoa.",
+        "Cool quinoa.",
+        "Chop vegetables.",
+        "Mix all.",
+        "Add lemon dressing.",
+        "Serve cold."
+      ],
+      "telugu": [
+        "క్విన్వా వేడుకోండి.",
+        "క్విన్వా చల్లచేయండి.",
+        "కూరగాయలు కీలు చేయండి.",
+        "అన్నింటిని కలపండి.",
+        "నిమ్మ డ్రెసింగ్ జోడించండి.",
+        "చల్లగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "क्विनोआ पकाएं।",
+        "क्विनोआ को ठंडा करें।",
+        "सब्जियां काटें।",
+        "सब को मिलाएं।",
+        "नींबू ड्रेसिंग डालें।",
+        "ठंडा परोसें।"
+      ]
+    },
+    "tags": ["dinner", "salad", "healthy"]
+  },
+  {
+    "id": 231,
+    "name": {
+      "english": "Grilled Vegetables",
+      "telugu": "గ్రిల్ చేసిన కూరగాయలు",
+      "hindi": "ग्रिल्ड सब्जियां"
+    },
+    "category": {
+      "english": "Dinner",
+      "telugu": "రాత్రి భోజనం",
+      "hindi": "रात का खाना"
+    },
+    "description": {
+      "english": "Healthy grilled vegetables.",
+      "telugu": "ఆరోగ్యకరమైన గ్రిల్ చేసిన కూరగాయలు.",
+      "hindi": "स्वस्थ ग्रिल्ड सब्जियां।"
+    },
+    "time": "30 min",
+    "servings": 4,
+    "difficulty": {
+      "english": "Easy",
+      "telugu": "సులువు",
+      "hindi": "आसान"
+    },
+    "ingredients": {
+      "english": [
+        "Zucchini",
+        "Bell Pepper",
+        "Eggplant",
+        "Mushrooms",
+        "Olive Oil",
+        "Salt"
+      ],
+      "telugu": [
+        "జుకీని",
+        "బెల్ పెప్పర్",
+        "వంకాయ",
+        "ఫంగస్",
+        "జైతూన్ నూనె",
+        "ఉప్పు"
+      ],
+      "hindi": [
+        "ज़ुकिनी",
+        "शिमला मिर्च",
+        "बैंगन",
+        "मशरूम",
+        "जैतून का तेल",
+        "नमक"
+      ]
+    },
+    "instructions": {
+      "english": [
+        "Slice vegetables.",
+        "Brush with oil.",
+        "Season with salt.",
+        "Grill vegetables.",
+        "Cook until tender.",
+        "Serve hot."
+      ],
+      "telugu": [
+        "కూరగాయలు గడ్డలుగా చేయండి.",
+        "నూనెలో నీపండి.",
+        "ఉప్పు చేర్చండి.",
+        "కూరగాయలు గ్రిల్ చేయండి.",
+        "కోమలమయ్యే వరకు చేయండి.",
+        "వేడిగా సర్వ్ చేయండి."
+      ],
+      "hindi": [
+        "सब्जियों को काटें।",
+        "तेल में ब्रश करें।",
+        "नमक मिलाएं।",
+        "सब्जियों को ग्रिल करें।",
+        "नरम होने तक पकाएं।",
+        "गरम परोसें।"
+      ]
+    },
+    "tags": ["dinner", "grilled", "vegetables"]
+  }
+]
