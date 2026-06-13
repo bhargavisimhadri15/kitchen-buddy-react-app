@@ -30,6 +30,27 @@ function RecipeCard({
   const isUploaded =
     recipe?.tags?.includes("user-uploaded");
 
+  const addToFavorites = () => {
+    const favorites =
+      JSON.parse(localStorage.getItem("favoriteRecipes")) || [];
+
+    const exists = favorites.find(
+      (item) => item.id === recipe.id
+    );
+
+    if (exists) {
+      alert("❤️ Already in Favorites");
+      return;
+    }
+
+    localStorage.setItem(
+      "favoriteRecipes",
+      JSON.stringify([recipe, ...favorites])
+    );
+
+    alert("✅ Added to Favorites");
+  };
+
   return (
     <div className="recipe-card">
       {recipe?.image ? (
@@ -53,18 +74,22 @@ function RecipeCard({
 
         {description && (
           <p className="recipe-description">
-            {description.length > 80
-              ? `${description.substring(0, 80)}...`
+            {description.length > 100
+              ? `${description.substring(0, 100)}...`
               : description}
           </p>
         )}
 
         <div className="recipe-meta">
-          <span>⏱ {recipe?.time}</span>
+          <span>⏱ {recipe?.time || "20 min"}</span>
+
           <span>
             👥 {recipe?.servings || 2}
           </span>
-          <span>⭐ {difficulty}</span>
+
+          <span>
+            ⭐ {difficulty}
+          </span>
         </div>
 
         <div className="recipe-buttons">
@@ -72,7 +97,14 @@ function RecipeCard({
             className="view-btn"
             onClick={() => onView(recipe)}
           >
-            👀 View Recipe
+            👀 View
+          </button>
+
+          <button
+            className="fav-btn"
+            onClick={addToFavorites}
+          >
+            ❤️ Favorite
           </button>
 
           {recipe?.youtube && (
@@ -90,7 +122,9 @@ function RecipeCard({
             <>
               <button
                 className="edit-btn"
-                onClick={() => onEdit(recipe)}
+                onClick={() =>
+                  onEdit && onEdit(recipe)
+                }
               >
                 ✏️ Edit
               </button>
@@ -98,6 +132,7 @@ function RecipeCard({
               <button
                 className="delete-btn"
                 onClick={() =>
+                  onDelete &&
                   onDelete(recipe.id)
                 }
               >
